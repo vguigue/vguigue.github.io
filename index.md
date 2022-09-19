@@ -3,6 +3,7 @@
 
 Full professor at [AgroParisTech](http://www2.agroparistech.fr)
 
+UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)
 
 | ![moi-même](https://github.com/vguigue/vguigue.github.io/resources/vincentRed.jpg) | I am specialized in **applied machine learning** algorithms: I find new use cases, design **new architectures** to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
 
@@ -24,4 +25,4 @@ Courses dedicated to the IODAA branch, AgroParisTech 3A.
 
 # Research
 
-My main contributions are 
+My main contributions are in **NLP**, **recommender systems** and **signal processing**

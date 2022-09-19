@@ -1,9 +1,13 @@
 
 # Vincent Guigue
 
-Full professor at [AgroParisTech](http://www2.agroparistech.fr)
+Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022
 
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)
+
+Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)
+
+
 
 | ![ma tête](/resources/vincentRed.jpg) | I am specialized in **applied machine learning** algorithms: I find new use cases, design **new architectures** to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
 

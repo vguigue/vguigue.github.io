@@ -5,7 +5,7 @@ Full professor at [AgroParisTech](http://www2.agroparistech.fr)
 
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)
 
-| !(/resources/vincentRed.jpg) | I am specialized in **applied machine learning** algorithms: I find new use cases, design **new architectures** to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
+| ![ma tête](/resources/vincentRed.jpg) | I am specialized in **applied machine learning** algorithms: I find new use cases, design **new architectures** to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
 
 # Teaching
 

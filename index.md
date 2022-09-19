@@ -29,4 +29,3 @@ Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&h
 
 My main contributions are in **NLP**, **recommender systems** and **signal processing**.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)

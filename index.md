@@ -28,3 +28,5 @@ Courses dedicated to the IODAA branch, AgroParisTech 3A.
 Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr)
 
 My main contributions are in **NLP**, **recommender systems** and **signal processing**.
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)

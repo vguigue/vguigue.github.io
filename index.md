@@ -1,8 +1,7 @@
 
 # Vincent Guigue
 
-Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022
-
+Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)
 
 Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)

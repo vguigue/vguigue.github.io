@@ -9,7 +9,7 @@ Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https:/
 
 
 
-| ![ma tête](/resources/vincentRed.jpg | width=75) | I am specialized in **applied machine learning** algorithms: <BR>I find new use cases, design new architectures to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
+| ![ma tête](/resources/vincentRed2.jpg) | I am specialized in **applied machine learning** algorithms: <BR>I find new use cases, design new architectures to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
 
 # Teaching
 

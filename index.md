@@ -28,6 +28,9 @@ Courses dedicated to the IODAA branch, AgroParisTech 3A.
 * scikit-learn: TBD
 * pytorch/deep learning: TBD
 
+Seminar on appied machine learning
+* Recommender Systems: [link](https://github.com/vguigue/reco_2019)
+* Time series: TBD
 
 # Research
 

@@ -32,3 +32,4 @@ Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&h
 
 My main contributions are in **NLP**, **recommender systems** and **signal processing**.
 
+A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)

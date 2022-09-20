@@ -16,6 +16,9 @@ Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https:/
 
 **Python reminders, SQL bases** being able to program classical algorithm, avoid most traps and access data everywhere.
 
+Apprentis access: [link](https://ecampus.paris-saclay.fr/enrol/instances.php?id=70409)
+
+
 ## Data-sciences
 
 Courses dedicated to the IODAA branch, AgroParisTech 3A.

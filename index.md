@@ -4,7 +4,7 @@
 Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)
 
-Office: E3.711 [=Building E, floor 3, corridor 700, office 11]<BR>
+Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR>
 22 place de l'Agronomie<BR>
 91120 PALAISEAU
 

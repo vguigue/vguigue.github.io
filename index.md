@@ -40,6 +40,8 @@ Seminar on appied machine learning
 
 Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr)
 
+With link to pdf: [link](publis.md)
+
 My main contributions are in **NLP**, **recommender systems** and **signal processing**.
 
 A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)

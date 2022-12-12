@@ -1,4 +1,4 @@
-
+# Papers with pdf :)
 
 ### 2021
 
@@ -18,12 +18,12 @@ Soutenance
 
 ### 2020
 
-*%blue% Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction# 
+* Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction# 
 Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2020 
 [<img width=20px src="art/pdf.png">](art/emnlp20.pdf)
 * Démêlage des facteurs de contexte par mécanisme d'attention pour la génération de séries temporelles. 
  Perrine Cribier-Delande, Raphaël Puget, Camille Noûs, Vincent Guigue and Ludovic Denoyer. in CAp 2020
-*%blue% Time series prediction & generation from disentangled latent factors: new opportunities for smart cities. 
+* Time series prediction & generation from disentangled latent factors: new opportunities for smart cities. 
 Perrine Cribier-Delande, Raphaël Puget, Vincent Guigue, Ludovic Denoyer. in ITSC 2020 
 [<img width=20px src="art/pdf.png">](art/itsc20.pdf)
 * Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization. 
@@ -54,7 +54,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue, Patric
 [<img width=20px src="art/pdf.png">](art/coria18.pdf)
 * A Deep Approach of Affluence Forecasting in Subway Networks. 
 Nicolas BASKIOTIS, Lucas BECIRSPAHIC, Romain BRAULT, Stephane DUGUET, Vincent GUIGUE, Valentin GUIGUET, Stephane LORIN, Vincent THOUVENOT. in: WCRR 2019.
-*%blue% Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses. 
+* Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses. 
 É. Simon, V. Guigue, B. Piwowarski. in ACL 2019 
 [<img width=20px src="art/pdf.png">](art/acl19.pdf)
 * Prédiction de séries temporelles multi-variées stationnaires: modélisation du contexte pour l’analyse des données de transports. 
@@ -66,7 +66,7 @@ V. Guiguet, P. Cribier-Delande, N. Baskiotis, V. Guigue. in GRETSI 2019
 
 * Factorisation de Tenseurs pour l'analyse de réseaux de mobilité. 
 Tonnelier Emeric, Baskiotis Nicolas, Guigue Vincent, Gallinari Patrick in: Rencontre Francophone Transport et Mobilité 2018
-*%blue%  '''[Best Paper]''' RNN & modèle d’attention pour l’apprentissage de profils textuels personnalisés. 
+*  **[Best Paper]** RNN & modèle d’attention pour l’apprentissage de profils textuels personnalisés. 
 Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patrick Gallinari in: CORIA 2018
 [<img width=20px src="art/pdf.png">](art/coria18.pdf)
 * Anomaly detection in smart card logs and distant evaluation with Twitter: a robust framework,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: Neurocomputing 2018
@@ -75,7 +75,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 [<img width=20px src="art/pdf.png">](art/esann18.pdf)
 
 ### 2017
-*%blue%  Passé, présent, futurs : induction de carrières professionnelles à partir de CV, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2017
+*  Passé, présent, futurs : induction de carrières professionnelles à partir de CV, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2017
 [<img width=20px src="art/pdf.png">](art/coria17.pdf)
 * Anomaly detection and characterization in smart card logs using NMF and Tweets,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: ESANN 2017
 [<img width=20px src="art/pdf.png">](art/esann17.pdf)
@@ -91,7 +91,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * Trajectory Bayesian Indexing : The Airport Ground Traffic Case, Cynthia Delauney, Nicolas Baskiotis and Vincent Guigue in: IEEE ITSC 2016
 [<img width=20px src="art/pdf.png">](art/itsc16a.pdf); slides
 [<img width=20px src="art/pdf.png">](art/itsc16a_slides.pdf)
-*Smart card in public transportation: designing a analysis system at the human scale, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: IEEE ITSC 2016
+* Smart card in public transportation: designing a analysis system at the human scale, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: IEEE ITSC 2016
 [<img width=20px src="art/pdf.png">](art/itsc16b.pdf); slides
 [<img width=20px src="art/pdf.png">](art/itsc16b_slides.pdf)
 * Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016
@@ -105,7 +105,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 
 
 ### 2015
-*%blue%  Latent Trajectory Modeling: a Light and Efficient Way to Introduce Time in Recommender Systems, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: RecSys 2015
+*  Latent Trajectory Modeling: a Light and Efficient Way to Introduce Time in Recommender Systems, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: RecSys 2015
 [<img width=20px src="art/pdf.png">](art/recsys15.pdf)
 *  Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary, Mickaël Poussevin, Vincent Guigue and Patrick Gallinari, in: 2nd Workshop on New Trends in Content-Based Recommender Systems, RecSys 2015
 [<img width=20px src="art/pdf.png">](art/WCBrecsys15.pdf)
@@ -118,63 +118,63 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * Recommandation Dynamique dans les Graphes Géographiques, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari in: MARAMI 2014
 [<img width=20px src="art/pdf.png">](art/marami14_2.pdf)
 * Learning to combine Semantic Features for Neurolinglistic Decoding, Luepol Pipanmaekaporn, Thierry Artieres, Vincent Guigue in: Workshop MLSB 2014
-*%blue% Mining ticketing logs for usage characterization with nonnegative matrix factorization, Mickaël Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: ECML, Workshop SenseML (Urban Sensors & ML)
+* Mining ticketing logs for usage characterization with nonnegative matrix factorization, Mickaël Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: ECML, Workshop SenseML (Urban Sensors & ML)
 [<img width=20px src="art/pdf.png">](art/wecml14.pdf)
 * A latent representation model for sentiment analysis in heterogeneous social networks, Debora Nozza, Daniele Maccagnola, Vincent Guigue, Enza Messina and Patrick Gallinari in: MoKMaSD 2014
 [<img width=20px src="art/pdf.png">](art/mokmasd14.pdf)
 * Factorisation matricielle sous contraintes pour l’analyse des usages du métro parisien, Mickael Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: CAp, 2014 
 [<img width=20px src="art/pdf.png">](art/cap14.pdf)
-*%blue% '''[Best paper]''' Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments, Mickael Poussevin, Elie Guardia-Sebaoun, Vincent Guigue and Patrick Gallinari in: CORIA, 2014 
+* **[Best paper]** Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments, Mickael Poussevin, Elie Guardia-Sebaoun, Vincent Guigue and Patrick Gallinari in: CORIA, 2014 
 [<img width=20px src="art/pdf.png">](art/coria14.pdf)
-* ''[Invited talk]'' Classification de sentiments sur le web 2.0, in: 6èmes Journées Apprentissage Artificiel & Fouille de Données, Paris 13, 2014
-* ''[Invited talk]'' Classification de sentiments sur le web 2.0, in: Séminaire DGA: traitement de l'information multimedia (TIM), Telecom ParisTech, 2014
+* *[Invited talk]* Classification de sentiments sur le web 2.0, in: 6èmes Journées Apprentissage Artificiel & Fouille de Données, Paris 13, 2014
+* *[Invited talk]* Classification de sentiments sur le web 2.0, in: Séminaire DGA: traitement de l'information multimedia (TIM), Telecom ParisTech, 2014
 
 ### 2013
-* ''[Invited talk]'' Tutorial on Opinion Mining, in: EINS Summer School, Annecy 2013
+* *[Invited talk]* Tutorial on Opinion Mining, in: EINS Summer School, Annecy 2013
 * Cross-Media Sentiment Classification and Application to Box-Office Forecasting, Elie Guardia-Sebaoun, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: OAIR, 2013 	
 [<img width=20px src="art/pdf.png">](art/oair13.pdf)
-*%blue% Classification de Sentiments Multi-Domaines en Contexte Hétérogène et Passage à l'Echelle, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2013 
+* Classification de Sentiments Multi-Domaines en Contexte Hétérogène et Passage à l'Echelle, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2013 
 [<img width=20px src="art/pdf.png">](art/coria13.pdf)
 
 ### 2012
 
-* ''[Invited talk]'' Détection de sentiments, in: EARIA, école d'automne de l'ARIA, Lyon, 2012
-*%blue% Coping with the Frequency Bias in Sentiment Classification, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: ICWSM, 2012 	
+* *[Invited talk]* Détection de sentiments, in: EARIA, école d'automne de l'ARIA, Lyon, 2012
+* Coping with the Frequency Bias in Sentiment Classification, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: ICWSM, 2012 	
 [<img width=20px src="art/pdf.png">](art/icwsm12.pdf)
-*Pénalisation des mots fréquents pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari (2012), in: Les Cahiers du Numériques (LCN) 	
-*Représentations et régularisations pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2012 
+* Pénalisation des mots fréquents pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari (2012), in: Les Cahiers du Numériques (LCN) 	
+* Représentations et régularisations pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2012 
 [<img width=20px src="art/pdf.png">](art/coria12.pdf)
-*Réseau de neurones à double convolution pour la classification de sentiments multi-domaines, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: Cap'2012, 2012 
+* Réseau de neurones à double convolution pour la classification de sentiments multi-domaines, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: Cap'2012, 2012 
 [<img width=20px src="art/pdf.png">](art/cap12.pdf)
 
 ### 2011
 
-*Réseau de neurones profond et SVM pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA: Conférence en Recherche d'Information et Applications, 2011 
+* Réseau de neurones profond et SVM pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA: Conférence en Recherche d'Information et Applications, 2011 
 [<img width=20px src="art/pdf.png">](art/coria11.pdf)
 
 
 
 ### 2008
 
-*%blue% BCI Competition III : Dataset II - Ensemble of SVMs for BCI P300 speller, A. Rakotomamonjy, V. Guigue, , IEEE Trans. Biomedical Engineering, Vol. 55, N°3, pp 1147-1154, 2008
+* BCI Competition III : Dataset II - Ensemble of SVMs for BCI P300 speller, A. Rakotomamonjy, V. Guigue, , IEEE Trans. Biomedical Engineering, Vol. 55, N°3, pp 1147-1154, 2008
 
 ### 2006
 
-*%blue% Translation invariant classification of non-stationary signals, V. Guigue, A. Rakotomamonjy and S. Canu, Neurocomputing. Special Issue: ESANN, 2006
-*Perception d'états affectifs et apprentissage, G. Loosli, S.G. Lee, V. Guigue, S. Canu and A. Rakotomamonjy, Revue d'Intelligence Artificielle.  Ed. Spéciale~: Interactions Emotionnelles 2006
-*Kernel Basis Pursuit, V. Guigue, A. Rakotomamonjy and S. Canu, Revue d'Intelligence Artificielle. Edition Spéciale~: CAp, 2006
-*Estimation de signaux par noyaux d'ondelettes, V. Guigue, A. Rakotomamonjy and S. Canu, Revue de Traitement du Signal. Edition Spéciale: GRETSI, 2006
+* Translation invariant classification of non-stationary signals, V. Guigue, A. Rakotomamonjy and S. Canu, Neurocomputing. Special Issue: ESANN, 2006
+* Perception d'états affectifs et apprentissage, G. Loosli, S.G. Lee, V. Guigue, S. Canu and A. Rakotomamonjy, Revue d'Intelligence Artificielle.  Ed. Spéciale~: Interactions Emotionnelles 2006
+* Kernel Basis Pursuit, V. Guigue, A. Rakotomamonjy and S. Canu, Revue d'Intelligence Artificielle. Edition Spéciale~: CAp, 2006
+* Estimation de signaux par noyaux d'ondelettes, V. Guigue, A. Rakotomamonjy and S. Canu, Revue de Traitement du Signal. Edition Spéciale: GRETSI, 2006
 
 ### 2005 
 
-*%blue% Méthodes à noyaux pour la représentation et la discrimination de signaux non-stationnaires, V. Guigue, PhD Thesis, 2005
-*%blue% Kernel Basis Pursuit, V. Guigue, A. Rakotomamonjy and S. Canu, European Conference on Machine Learning (ECML), 2005
-*Ensemble of SVMs for improving Brain Computer Interface P300 speller performances, A. Rakotomamonjy, V. Guigue, G. Mallet and V. Alvarado, International Conference on Artificial Neural Networks (ICANN), 2005
-*Pedestrian Detection using Stereo-vision and Graph Kernels, F. Suard, V. Guigue, A. Rakotomamonjy and A. Benshrair, IEEE Intelligent Vehicule Symposium, 2005
+* Méthodes à noyaux pour la représentation et la discrimination de signaux non-stationnaires, V. Guigue, PhD Thesis, 2005
+* Kernel Basis Pursuit, V. Guigue, A. Rakotomamonjy and S. Canu, European Conference on Machine Learning (ECML), 2005
+* Ensemble of SVMs for improving Brain Computer Interface P300 speller performances, A. Rakotomamonjy, V. Guigue, G. Mallet and V. Alvarado, International Conference on Artificial Neural Networks (ICANN), 2005
+* Pedestrian Detection using Stereo-vision and Graph Kernels, F. Suard, V. Guigue, A. Rakotomamonjy and A. Benshrair, IEEE Intelligent Vehicule Symposium, 2005
 
 
 ### 2002
-*A method to divide digitized complex part in elementary digitized surfaces, A. Meyer, P. Marin and V. Guigue, International Conference on Integrated Design and Manufacturing in Mechanical Engineering (IDMME), 2002
+* A method to divide digitized complex part in elementary digitized surfaces, A. Meyer, P. Marin and V. Guigue, International Conference on Integrated Design and Manufacturing in Mechanical Engineering (IDMME), 2002
 
 ### 2001
-*Partition along characteristic edges of a digitalized point cloud, A. Meyer, P. Marin and V. Guigue, International Conference on Shape Modeling and Applications (SMI), 2001
+* Partition along characteristic edges of a digitalized point cloud, A. Meyer, P. Marin and V. Guigue, International Conference on Shape Modeling and Applications (SMI), 2001

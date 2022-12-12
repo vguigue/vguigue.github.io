@@ -7,150 +7,150 @@ D Afchar, R Hennequin, V Guigue. In ICML 2021
  [<img width=20px src="art/pdf.png">](art/icml21.pdf)
 * Separating Retention from Extraction in the Evaluation of End-to-end Relation Extraction 
 Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2021 
-%width=20% [[(Attach:)emnlp21.pdf | Attach:pdf.png]] 
+[<img width=20px src="art/pdf.png">](art/emnlp21.pdf) 
 * HDR 
 Apprentissage de représentation: de la décision non-linéaire à la génération de données. 
-Vincent Guigue \\
+Vincent Guigue 
 Mémoire 
-%width=20% [[(Attach:)hdr.pdf | Attach:pdf.png]] \\
+[<img width=20px src="art/pdf.png">](art/hdr.pdf) \\
 Soutenance 
-%width=20% [[(Attach:)slides_hdr.pdf | Attach:pdf.png]] 
+[<img width=20px src="art/pdf.png">](art/slides_hdr.pdf) 
 
 ### 2020
 
-*%blue% Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction# \
-Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2020 \
-%width=20% [[(Attach:)emnlp20.pdf | Attach:pdf.png]]
-* Démêlage des facteurs de contexte par mécanisme d'attention pour la génération de séries temporelles. \
+*%blue% Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction# 
+Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2020 
+[<img width=20px src="art/pdf.png">](art/emnlp20.pdf)
+* Démêlage des facteurs de contexte par mécanisme d'attention pour la génération de séries temporelles. 
  Perrine Cribier-Delande, Raphaël Puget, Camille Noûs, Vincent Guigue and Ludovic Denoyer. in CAp 2020
-*%blue% Time series prediction & generation from disentangled latent factors: new opportunities for smart cities. \
-Perrine Cribier-Delande, Raphaël Puget, Vincent Guigue, Ludovic Denoyer. in ITSC 2020 \
-%width=20% [[(Attach:)itsc20.pdf | Attach:pdf.png]]
-* Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization. \
-Bruno Taillé, Vincent Guigue and Patrick Gallinari. in ECIR 2020 \
-%width=20% [[(Attach:)ecir20.pdf | Attach:pdf.png]]
-* Resume: A Robust Framework for Professional Profile Learning & Evaluation. \
-Clara Gainon de Forsan de Gabriac, Vincent Guigue, Patrick Gallinari in: ESANN 2020 \
-%width=20% [[(Attach:)esann20a.pdf | Attach:pdf.png]]
-* Time Series Prediction using Disentangled Latent Factors. \
-Perrine Cribier-Delande, Raphaël Puget, Vincent Guigue, Ludovic Denoyer. in: ESANN 2020 \
-%width=20% [[(Attach:)esann20b.pdf | Attach:pdf.png]]
+*%blue% Time series prediction & generation from disentangled latent factors: new opportunities for smart cities. 
+Perrine Cribier-Delande, Raphaël Puget, Vincent Guigue, Ludovic Denoyer. in ITSC 2020 
+[<img width=20px src="art/pdf.png">](art/itsc20.pdf)
+* Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization. 
+Bruno Taillé, Vincent Guigue and Patrick Gallinari. in ECIR 2020 
+[<img width=20px src="art/pdf.png">](art/ecir20.pdf)
+* Resume: A Robust Framework for Professional Profile Learning & Evaluation. 
+Clara Gainon de Forsan de Gabriac, Vincent Guigue, Patrick Gallinari in: ESANN 2020 
+[<img width=20px src="art/pdf.png">](art/esann20a.pdf)
+* Time Series Prediction using Disentangled Latent Factors. 
+Perrine Cribier-Delande, Raphaël Puget, Vincent Guigue, Ludovic Denoyer. in: ESANN 2020 
+[<img width=20px src="art/pdf.png">](art/esann20b.pdf)
 
-###2019
+### 2019
 
-* Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization. \
+* Contextualized Embeddings in Named-Entity Recognition: An Empirical Study on Generalization. 
 Bruno Taillé, Vincent Guigue and Patrick Gallinari. in EurNLP 2019
-* Filtrage collaboratif explicite par analyse de sentiments à l’aveugle. \
-Charles-Emmanuel Dias, Vincent Guigue et Patrick Gallinari. in CAp 2019 \
-%width=20% [[(Attach:)cap19a.pdf | Attach:pdf.png]]
-* Une Etude Empirique de la Capacité de Généralisation des Plongements de Mots Contextuels en Extraction d'Entités. \
-Bruno Taillé, Vincent Guigue and Patrick Gallinari. in CAp 2019 \
-%width=20% [[(Attach:)cap19b.pdf | Attach:pdf.png]]
-* Extraction d'information non supervisée avec des modèles discriminants. \
-Étienne Simon, Vincent Guigue and Benjamin Piwowarski. in CAp 2019 \
-%width=20% [[(Attach:)cap19c.pdf | Attach:pdf.png]]
-* RNN & modèle d’attention pour l’apprentissage de profils textuels personnalisés. \
-Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue, Patrick Gallinari in: Document Numérique, Ed. Lavoisier 2019 \
-%width=20% [[(Attach:)coria18.pdf | Attach:pdf.png]]
-* A Deep Approach of Affluence Forecasting in Subway Networks. \
+* Filtrage collaboratif explicite par analyse de sentiments à l’aveugle. 
+Charles-Emmanuel Dias, Vincent Guigue et Patrick Gallinari. in CAp 2019 
+[<img width=20px src="art/pdf.png">](art/cap19a.pdf)
+* Une Etude Empirique de la Capacité de Généralisation des Plongements de Mots Contextuels en Extraction d'Entités. 
+Bruno Taillé, Vincent Guigue and Patrick Gallinari. in CAp 2019 
+[<img width=20px src="art/pdf.png">](art/cap19b.pdf)
+* Extraction d'information non supervisée avec des modèles discriminants. 
+Étienne Simon, Vincent Guigue and Benjamin Piwowarski. in CAp 2019 
+[<img width=20px src="art/pdf.png">](art/cap19c.pdf)
+* RNN & modèle d’attention pour l’apprentissage de profils textuels personnalisés. 
+Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue, Patrick Gallinari in: Document Numérique, Ed. Lavoisier 2019 
+[<img width=20px src="art/pdf.png">](art/coria18.pdf)
+* A Deep Approach of Affluence Forecasting in Subway Networks. 
 Nicolas BASKIOTIS, Lucas BECIRSPAHIC, Romain BRAULT, Stephane DUGUET, Vincent GUIGUE, Valentin GUIGUET, Stephane LORIN, Vincent THOUVENOT. in: WCRR 2019.
-*%blue% Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses. \
-É. Simon, V. Guigue, B. Piwowarski. in ACL 2019 \
-%width=20% [[(Attach:)acl19.pdf | Attach:pdf.png]]
-* Prédiction de séries temporelles multi-variées stationnaires: modélisation du contexte pour l’analyse des données de transports. \
-V. Guiguet, P. Cribier-Delande, N. Baskiotis, V. Guigue. in GRETSI 2019 \
-%width=20% [[(Attach:)gretsi19.pdf | Attach:pdf.png]]
+*%blue% Unsupervised Information Extraction: Regularizing Discriminative Approaches with Relation Distribution Losses. 
+É. Simon, V. Guigue, B. Piwowarski. in ACL 2019 
+[<img width=20px src="art/pdf.png">](art/acl19.pdf)
+* Prédiction de séries temporelles multi-variées stationnaires: modélisation du contexte pour l’analyse des données de transports. 
+V. Guiguet, P. Cribier-Delande, N. Baskiotis, V. Guigue. in GRETSI 2019 
+[<img width=20px src="art/pdf.png">](art/gretsi19.pdf)
 
 
-###2018
+### 2018
 
-* Factorisation de Tenseurs pour l'analyse de réseaux de mobilité. \
+* Factorisation de Tenseurs pour l'analyse de réseaux de mobilité. 
 Tonnelier Emeric, Baskiotis Nicolas, Guigue Vincent, Gallinari Patrick in: Rencontre Francophone Transport et Mobilité 2018
-*%blue%  '''[Best Paper]''' RNN & modèle d’attention pour l’apprentissage de profils textuels personnalisés. \
-Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patrick Gallinari in: CORIA 2018\
-%width=20% [[(Attach:)coria18.pdf | Attach:pdf.png]]
-* Anomaly detection in smart card logs and distant evaluation with Twitter: a robust framework,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: Neurocomputing 2018\
-%width=20% [[(Attach:)neuro18.pdf | Attach:pdf.png]]
-* Regularize and Explicit Collaborative Filtering With Textual Attention, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: ESANN 2018\
-%width=20% [[(Attach:)esann18.pdf | Attach:pdf.png]]
+*%blue%  '''[Best Paper]''' RNN & modèle d’attention pour l’apprentissage de profils textuels personnalisés. 
+Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patrick Gallinari in: CORIA 2018
+[<img width=20px src="art/pdf.png">](art/coria18.pdf)
+* Anomaly detection in smart card logs and distant evaluation with Twitter: a robust framework,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: Neurocomputing 2018
+[<img width=20px src="art/pdf.png">](art/neuro18.pdf)
+* Regularize and Explicit Collaborative Filtering With Textual Attention, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: ESANN 2018
+[<img width=20px src="art/pdf.png">](art/esann18.pdf)
 
 ###2017
-*%blue%  Passé, présent, futurs : induction de carrières professionnelles à partir de CV, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2017\
-%width=20% [[(Attach:)coria17.pdf | Attach:pdf.png]]
-* Anomaly detection and characterization in smart card logs using NMF and Tweets,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: ESANN 2017\
-%width=20% [[(Attach:)esann17.pdf | Attach:pdf.png]]
-* Text-based collaborative filtering for cold-start soothing and recommendation enrichment, Charles-Emmanuel Dias, Vincent Guigue and Patrick Gallinari in: AISR 2017\
-%width=20% [[(Attach:)aisr17.pdf | Attach:pdf.png]]
+*%blue%  Passé, présent, futurs : induction de carrières professionnelles à partir de CV, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2017
+[<img width=20px src="art/pdf.png">](art/coria17.pdf)
+* Anomaly detection and characterization in smart card logs using NMF and Tweets,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: ESANN 2017
+[<img width=20px src="art/pdf.png">](art/esann17.pdf)
+* Text-based collaborative filtering for cold-start soothing and recommendation enrichment, Charles-Emmanuel Dias, Vincent Guigue and Patrick Gallinari in: AISR 2017
+[<img width=20px src="art/pdf.png">](art/aisr17.pdf)
 
 
 ###2016
-* Textes, recommandation et données hétérogènes: apport des techniques d'apprentissage de représentations, in: GDR ISIS, Journée Thématique: apprentissage de représentations, 2016 \
-%width=20% [[(Attach:)GDR_ISIS_2016.pdf | Attach:pdf.png]]
-* Machine Learning for Brain Signal Analysis, Vincent Guigue, in: SMART Summer School on Computational Social and Behavior Sciences, 2016\
-%width=20% [[(Attach:)SMART_SS_2016.pdf | Attach:pdf.png]]
-* Trajectory Bayesian Indexing : The Airport Ground Traffic Case, Cynthia Delauney, Nicolas Baskiotis and Vincent Guigue in: IEEE ITSC 2016\
-%width=20% [[(Attach:)itsc16a.pdf | Attach:pdf.png]]; slides\
-%width=20% [[(Attach:)itsc16a_slides.pdf | Attach:pdf.png]]
-*Smart card in public transportation: designing a analysis system at the human scale, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: IEEE ITSC 2016\
-%width=20% [[(Attach:)itsc16b.pdf | Attach:pdf.png]]; slides\
-%width=20% [[(Attach:)itsc16b_slides.pdf | Attach:pdf.png]]
-* Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016\
-%width=20% [[(Attach:)coria16.pdf | Attach:pdf.png]]
-* Apprentissage de trajectoires temporelles pour la recommandation dans les communautés d’utilisateurs, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: Cap 2016\
-%width=20% [[(Attach:)cap16_2.pdf | Attach:pdf.png]]
-* Apprentissage relationnel pour la recommandation et la prédiction de données manquantes, Damien Sileo et Vincent Guigue, in: Cap 2016\
-%width=20% [[(Attach:)cap16_1.pdf | Attach:pdf.png]]
-* Mining ticketing logs for usage characterization with nonnegative matrix factorization, Mickaël Poussevin, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: Big Data Analytics in the Social and Ubiquitous Context, 2016 Volume 9546 of the series Lecture Notes in Computer Science pp 147-164\
-%width=20% [[(Attach:)lncs16_trans.pdf | Attach:pdf.png]]
+* Textes, recommandation et données hétérogènes: apport des techniques d'apprentissage de représentations, in: GDR ISIS, Journée Thématique: apprentissage de représentations, 2016 
+[<img width=20px src="art/pdf.png">](art/GDR_ISIS_2016.pdf)
+* Machine Learning for Brain Signal Analysis, Vincent Guigue, in: SMART Summer School on Computational Social and Behavior Sciences, 2016
+[<img width=20px src="art/pdf.png">](art/SMART_SS_2016.pdf)
+* Trajectory Bayesian Indexing : The Airport Ground Traffic Case, Cynthia Delauney, Nicolas Baskiotis and Vincent Guigue in: IEEE ITSC 2016
+[<img width=20px src="art/pdf.png">](art/itsc16a.pdf); slides
+[<img width=20px src="art/pdf.png">](art/itsc16a_slides.pdf)
+*Smart card in public transportation: designing a analysis system at the human scale, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: IEEE ITSC 2016
+[<img width=20px src="art/pdf.png">](art/itsc16b.pdf); slides
+[<img width=20px src="art/pdf.png">](art/itsc16b_slides.pdf)
+* Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016
+[<img width=20px src="art/pdf.png">](art/coria16.pdf)
+* Apprentissage de trajectoires temporelles pour la recommandation dans les communautés d’utilisateurs, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: Cap 2016
+[<img width=20px src="art/pdf.png">](art/cap16_2.pdf)
+* Apprentissage relationnel pour la recommandation et la prédiction de données manquantes, Damien Sileo et Vincent Guigue, in: Cap 2016
+[<img width=20px src="art/pdf.png">](art/cap16_1.pdf)
+* Mining ticketing logs for usage characterization with nonnegative matrix factorization, Mickaël Poussevin, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: Big Data Analytics in the Social and Ubiquitous Context, 2016 Volume 9546 of the series Lecture Notes in Computer Science pp 147-164
+[<img width=20px src="art/pdf.png">](art/lncs16_trans.pdf)
 
 
 ###2015
-*%blue%  Latent Trajectory Modeling: a Light and Efficient Way to Introduce Time in Recommender Systems, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: RecSys 2015\
-%width=20% [[(Attach:)recsys15.pdf | Attach:pdf.png]]
-*  Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary, Mickaël Poussevin, Vincent Guigue and Patrick Gallinari, in: 2nd Workshop on New Trends in Content-Based Recommender Systems, RecSys 2015\
-%width=20% [[(Attach:)WCBrecsys15.pdf | Attach:pdf.png]]
-* Designing semantic feature spaces for brain-reading, Pipanmaekaporn Luepol, Tajtelbom Ludmilla, Guigue Vincent, Artières Thierry in: ESANN 2015\
-%width=20% [[(Attach:)esann15.pdf | Attach:pdf.png]]
-* Extraction d’un vocabulaire de surprise par mélange de filtrage collaboratif et d’analyse de sentiments, Mickaël Poussevin, Vincent Guigue, Patrick Gallinari in: CORIA 2015\
-%width=20% [[(Attach:)coria15.pdf | Attach:pdf.png]]
+*%blue%  Latent Trajectory Modeling: a Light and Efficient Way to Introduce Time in Recommender Systems, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: RecSys 2015
+[<img width=20px src="art/pdf.png">](art/recsys15.pdf)
+*  Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary, Mickaël Poussevin, Vincent Guigue and Patrick Gallinari, in: 2nd Workshop on New Trends in Content-Based Recommender Systems, RecSys 2015
+[<img width=20px src="art/pdf.png">](art/WCBrecsys15.pdf)
+* Designing semantic feature spaces for brain-reading, Pipanmaekaporn Luepol, Tajtelbom Ludmilla, Guigue Vincent, Artières Thierry in: ESANN 2015
+[<img width=20px src="art/pdf.png">](art/esann15.pdf)
+* Extraction d’un vocabulaire de surprise par mélange de filtrage collaboratif et d’analyse de sentiments, Mickaël Poussevin, Vincent Guigue, Patrick Gallinari in: CORIA 2015
+[<img width=20px src="art/pdf.png">](art/coria15.pdf)
 
 ###2014
-* Recommandation Dynamique dans les Graphes Géographiques, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari in: MARAMI 2014\
-%width=20% [[(Attach:)marami14_2.pdf | Attach:pdf.png]]
+* Recommandation Dynamique dans les Graphes Géographiques, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari in: MARAMI 2014
+[<img width=20px src="art/pdf.png">](art/marami14_2.pdf)
 * Learning to combine Semantic Features for Neurolinglistic Decoding, Luepol Pipanmaekaporn, Thierry Artieres, Vincent Guigue in: Workshop MLSB 2014
-*%blue% Mining ticketing logs for usage characterization with nonnegative matrix factorization, Mickaël Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: ECML, Workshop SenseML (Urban Sensors & ML)\
-%width=20% [[(Attach:)wecml14.pdf | Attach:pdf.png]]
-* A latent representation model for sentiment analysis in heterogeneous social networks, Debora Nozza, Daniele Maccagnola, Vincent Guigue, Enza Messina and Patrick Gallinari in: MoKMaSD 2014\
-%width=20% [[(Attach:)mokmasd14.pdf | Attach:pdf.png]]
-* Factorisation matricielle sous contraintes pour l’analyse des usages du métro parisien, Mickael Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: CAp, 2014 \
-%width=20% [[(Attach:)cap14.pdf | Attach:pdf.png]]
-*%blue% '''[Best paper]''' Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments, Mickael Poussevin, Elie Guardia-Sebaoun, Vincent Guigue and Patrick Gallinari in: CORIA, 2014 \
-%width=20% [[(Attach:)coria14.pdf | Attach:pdf.png]]
+*%blue% Mining ticketing logs for usage characterization with nonnegative matrix factorization, Mickaël Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: ECML, Workshop SenseML (Urban Sensors & ML)
+[<img width=20px src="art/pdf.png">](art/wecml14.pdf)
+* A latent representation model for sentiment analysis in heterogeneous social networks, Debora Nozza, Daniele Maccagnola, Vincent Guigue, Enza Messina and Patrick Gallinari in: MoKMaSD 2014
+[<img width=20px src="art/pdf.png">](art/mokmasd14.pdf)
+* Factorisation matricielle sous contraintes pour l’analyse des usages du métro parisien, Mickael Poussevin, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: CAp, 2014 
+[<img width=20px src="art/pdf.png">](art/cap14.pdf)
+*%blue% '''[Best paper]''' Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments, Mickael Poussevin, Elie Guardia-Sebaoun, Vincent Guigue and Patrick Gallinari in: CORIA, 2014 
+[<img width=20px src="art/pdf.png">](art/coria14.pdf)
 * ''[Invited talk]'' Classification de sentiments sur le web 2.0, in: 6èmes Journées Apprentissage Artificiel & Fouille de Données, Paris 13, 2014
 * ''[Invited talk]'' Classification de sentiments sur le web 2.0, in: Séminaire DGA: traitement de l'information multimedia (TIM), Telecom ParisTech, 2014
 
 ###2013
 * ''[Invited talk]'' Tutorial on Opinion Mining, in: EINS Summer School, Annecy 2013
-* Cross-Media Sentiment Classification and Application to Box-Office Forecasting, Elie Guardia-Sebaoun, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: OAIR, 2013 	\
-%width=20% [[(Attach:)oair13.pdf | Attach:pdf.png]]
-*%blue% Classification de Sentiments Multi-Domaines en Contexte Hétérogène et Passage à l'Echelle, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2013 \
-%width=20% [[(Attach:)coria13.pdf | Attach:pdf.png]]
+* Cross-Media Sentiment Classification and Application to Box-Office Forecasting, Elie Guardia-Sebaoun, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: OAIR, 2013 	
+[<img width=20px src="art/pdf.png">](art/oair13.pdf)
+*%blue% Classification de Sentiments Multi-Domaines en Contexte Hétérogène et Passage à l'Echelle, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2013 
+[<img width=20px src="art/pdf.png">](art/coria13.pdf)
 
 ###2012
 
 * ''[Invited talk]'' Détection de sentiments, in: EARIA, école d'automne de l'ARIA, Lyon, 2012
-*%blue% Coping with the Frequency Bias in Sentiment Classification, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: ICWSM, 2012 	\
-%width=20% [[(Attach:)icwsm12.pdf | Attach:pdf.png]]
+*%blue% Coping with the Frequency Bias in Sentiment Classification, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: ICWSM, 2012 	
+[<img width=20px src="art/pdf.png">](art/icwsm12.pdf)
 *Pénalisation des mots fréquents pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari (2012), in: Les Cahiers du Numériques (LCN) 	
-*Représentations et régularisations pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2012 \
-%width=20% [[(Attach:)coria12.pdf | Attach:pdf.png]]
-*Réseau de neurones à double convolution pour la classification de sentiments multi-domaines, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: Cap'2012, 2012 \
-%width=20% [[(Attach:)cap12.pdf | Attach:pdf.png]]
+*Représentations et régularisations pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2012 
+[<img width=20px src="art/pdf.png">](art/coria12.pdf)
+*Réseau de neurones à double convolution pour la classification de sentiments multi-domaines, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: Cap'2012, 2012 
+[<img width=20px src="art/pdf.png">](art/cap12.pdf)
 
 ###2011
 
-*Réseau de neurones profond et SVM pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA: Conférence en Recherche d'Information et Applications, 2011 \
-%width=20% [[(Attach:)coria11.pdf | Attach:pdf.png]]
+*Réseau de neurones profond et SVM pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA: Conférence en Recherche d'Information et Applications, 2011 
+[<img width=20px src="art/pdf.png">](art/coria11.pdf)
 
 
 

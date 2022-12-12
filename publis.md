@@ -74,7 +74,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * Regularize and Explicit Collaborative Filtering With Textual Attention, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: ESANN 2018
 [<img width=20px src="art/pdf.png">](art/esann18.pdf)
 
-###2017
+### 2017
 *%blue%  Passé, présent, futurs : induction de carrières professionnelles à partir de CV, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2017
 [<img width=20px src="art/pdf.png">](art/coria17.pdf)
 * Anomaly detection and characterization in smart card logs using NMF and Tweets,  Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, and Patrick Gallinari in: ESANN 2017
@@ -83,7 +83,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 [<img width=20px src="art/pdf.png">](art/aisr17.pdf)
 
 
-###2016
+### 2016
 * Textes, recommandation et données hétérogènes: apport des techniques d'apprentissage de représentations, in: GDR ISIS, Journée Thématique: apprentissage de représentations, 2016 
 [<img width=20px src="art/pdf.png">](art/GDR_ISIS_2016.pdf)
 * Machine Learning for Brain Signal Analysis, Vincent Guigue, in: SMART Summer School on Computational Social and Behavior Sciences, 2016
@@ -104,7 +104,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 [<img width=20px src="art/pdf.png">](art/lncs16_trans.pdf)
 
 
-###2015
+### 2015
 *%blue%  Latent Trajectory Modeling: a Light and Efficient Way to Introduce Time in Recommender Systems, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: RecSys 2015
 [<img width=20px src="art/pdf.png">](art/recsys15.pdf)
 *  Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary, Mickaël Poussevin, Vincent Guigue and Patrick Gallinari, in: 2nd Workshop on New Trends in Content-Based Recommender Systems, RecSys 2015
@@ -114,7 +114,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * Extraction d’un vocabulaire de surprise par mélange de filtrage collaboratif et d’analyse de sentiments, Mickaël Poussevin, Vincent Guigue, Patrick Gallinari in: CORIA 2015
 [<img width=20px src="art/pdf.png">](art/coria15.pdf)
 
-###2014
+### 2014
 * Recommandation Dynamique dans les Graphes Géographiques, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari in: MARAMI 2014
 [<img width=20px src="art/pdf.png">](art/marami14_2.pdf)
 * Learning to combine Semantic Features for Neurolinglistic Decoding, Luepol Pipanmaekaporn, Thierry Artieres, Vincent Guigue in: Workshop MLSB 2014
@@ -129,14 +129,14 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * ''[Invited talk]'' Classification de sentiments sur le web 2.0, in: 6èmes Journées Apprentissage Artificiel & Fouille de Données, Paris 13, 2014
 * ''[Invited talk]'' Classification de sentiments sur le web 2.0, in: Séminaire DGA: traitement de l'information multimedia (TIM), Telecom ParisTech, 2014
 
-###2013
+### 2013
 * ''[Invited talk]'' Tutorial on Opinion Mining, in: EINS Summer School, Annecy 2013
 * Cross-Media Sentiment Classification and Application to Box-Office Forecasting, Elie Guardia-Sebaoun, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: OAIR, 2013 	
 [<img width=20px src="art/pdf.png">](art/oair13.pdf)
 *%blue% Classification de Sentiments Multi-Domaines en Contexte Hétérogène et Passage à l'Echelle, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA, 2013 
 [<img width=20px src="art/pdf.png">](art/coria13.pdf)
 
-###2012
+### 2012
 
 * ''[Invited talk]'' Détection de sentiments, in: EARIA, école d'automne de l'ARIA, Lyon, 2012
 *%blue% Coping with the Frequency Bias in Sentiment Classification, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: ICWSM, 2012 	
@@ -147,25 +147,25 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 *Réseau de neurones à double convolution pour la classification de sentiments multi-domaines, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: Cap'2012, 2012 
 [<img width=20px src="art/pdf.png">](art/cap12.pdf)
 
-###2011
+### 2011
 
 *Réseau de neurones profond et SVM pour la classification de sentiments, Abdelhalim Rafrafi, Vincent Guigue and Patrick Gallinari, in: CORIA: Conférence en Recherche d'Information et Applications, 2011 
 [<img width=20px src="art/pdf.png">](art/coria11.pdf)
 
 
 
-###2008
+### 2008
 
 *%blue% BCI Competition III : Dataset II - Ensemble of SVMs for BCI P300 speller, A. Rakotomamonjy, V. Guigue, , IEEE Trans. Biomedical Engineering, Vol. 55, N°3, pp 1147-1154, 2008
 
-###2006
+### 2006
 
 *%blue% Translation invariant classification of non-stationary signals, V. Guigue, A. Rakotomamonjy and S. Canu, Neurocomputing. Special Issue: ESANN, 2006
 *Perception d'états affectifs et apprentissage, G. Loosli, S.G. Lee, V. Guigue, S. Canu and A. Rakotomamonjy, Revue d'Intelligence Artificielle.  Ed. Spéciale~: Interactions Emotionnelles 2006
 *Kernel Basis Pursuit, V. Guigue, A. Rakotomamonjy and S. Canu, Revue d'Intelligence Artificielle. Edition Spéciale~: CAp, 2006
 *Estimation de signaux par noyaux d'ondelettes, V. Guigue, A. Rakotomamonjy and S. Canu, Revue de Traitement du Signal. Edition Spéciale: GRETSI, 2006
 
-###2005 
+### 2005 
 
 *%blue% Méthodes à noyaux pour la représentation et la discrimination de signaux non-stationnaires, V. Guigue, PhD Thesis, 2005
 *%blue% Kernel Basis Pursuit, V. Guigue, A. Rakotomamonjy and S. Canu, European Conference on Machine Learning (ECML), 2005

@@ -1,22 +1,22 @@
 
 
-###2021
+### 2021
 
-* Towards Rigorous Interpretations: a Formalisation of Feature Attribution \
-D Afchar, R Hennequin, V Guigue. In ICML 2021 \
- [art/pdf.png](art/icml21.pdf)
-* Separating Retention from Extraction in the Evaluation of End-to-end Relation Extraction \
-Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2021 \
+* Towards Rigorous Interpretations: a Formalisation of Feature Attribution 
+D Afchar, R Hennequin, V Guigue. In ICML 2021 
+ [<img width=20px src="art/pdf.png">](art/icml21.pdf)
+* Separating Retention from Extraction in the Evaluation of End-to-end Relation Extraction 
+Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2021 
 %width=20% [[(Attach:)emnlp21.pdf | Attach:pdf.png]] 
-* HDR \
-Apprentissage de représentation: de la décision non-linéaire à la génération de données. \
+* HDR 
+Apprentissage de représentation: de la décision non-linéaire à la génération de données. 
 Vincent Guigue \\
-Mémoire \
+Mémoire 
 %width=20% [[(Attach:)hdr.pdf | Attach:pdf.png]] \\
-Soutenance \
+Soutenance 
 %width=20% [[(Attach:)slides_hdr.pdf | Attach:pdf.png]] 
 
-###2020
+### 2020
 
 *%blue% Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction# \
 Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2020 \

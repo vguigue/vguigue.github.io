@@ -29,8 +29,8 @@ Courses dedicated to the IODAA branch, AgroParisTech 3A.
 
 * git basics: [link](https://github.com/vguigue/tuto_git)
 * numpy/matplotlib: [link](https://github.com/vguigue/tuto_numpy)
-* scikit-learn: TBD
-* pytorch/deep learning: TBD
+* scikit-learn: [link](https://github.com/vguigue/tuto_sklearn)
+* pytorch/deep learning: [link](https://github.com/vguigue/tuto_deep)
 
 Seminar on appied machine learning
 * Recommender Systems: [link](https://github.com/vguigue/reco_2019)

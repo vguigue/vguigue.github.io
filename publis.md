@@ -1,5 +1,19 @@
 # Papers with pdf :)
 
+### 2022
+
+* Learning Unsupervised Hierarchies of Audio Concepts
+D Afchar, R Hennequin, V Guigue. In ISMIR 2022 
+ [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2207.11231)
+* Reconnaissance d’entitées nommées contextualisées
+T Luiggi, L Soulier, V Guigue, and A Baelde. In CAp 2022
+* Nearside : Structured knowledge extraction framework from species des- criptions
+M Sahraoui, M Pignal, R Vignes-Lebbe, and V Guigue. In Biodiversity Information Science and Standards, 2022. 
+ [<img width=20px src="art/pdf.png">](art/biss22.pdf)
+* Apprentissage statistique pour les données temporelles, nouveaux horizons et applications industrielles.
+V Guigue, In: JDS'22.\\
+ Séminaire 1 : [<img width=20px src="art/pdf.png">](art/jds22_1.pdf), Séminaire 2 : [<img width=20px src="art/pdf.png">](art/jds22_2.pdf)
+
 ### 2021
 
 * Towards Rigorous Interpretations: a Formalisation of Feature Attribution 
@@ -18,7 +32,7 @@ Soutenance
 
 ### 2020
 
-* Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction# 
+* Let’s Stop Incorrect Comparisons in End-to-end Relation Extraction 
 Bruno Taillé, Vincent Guigue, Geoffrey Scoutheeten, Patrick Gallinari. In EMNLP 2020 
 [<img width=20px src="art/pdf.png">](art/emnlp20.pdf)
 * Démêlage des facteurs de contexte par mécanisme d'attention pour la génération de séries temporelles. 

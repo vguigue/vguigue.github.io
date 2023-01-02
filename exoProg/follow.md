@@ -4,8 +4,9 @@ Le sujet suivant a été conçu pour une UE de programmation objet en JAVA... Il
 
 * L'énoncé inclus le type des variables, c'est intéressant même si c'est implicite en python.
 * `null` en java est l'équivalent de `None` en python
+* Il n'y a pas vraiment de notion public/private en python... Tant pis!
 
-![bonneteau](/exoProg/img/follow.gif)
+![bonneteau](/exoProg/img/follow.gif) 
 
 ### Règles
 
@@ -40,11 +41,15 @@ Tester votre classe en faisant un main qui créé un emplacement, puis une carte
 Elle dispose :
 
 * trois variables `Emplacement gauche`, `milieu`, `droit` et une variable `Carte cible` (la carte que l’on cherche à retrouver).
-* un constructeur Jeu() qui permet d’initialiser le jeu (qui créé les trois emplacements, les trois cartes, enregistre la cible et dispose les trois cartes sur les emplacements).
+* un constructeur `Jeu()` qui permet d’initialiser le jeu (qui créé les trois emplacements, les trois cartes, enregistre la cible et dispose les trois cartes sur les emplacements).
 * une méthode String toString() qui permet de renvoyer la description de l’état du jeu (les 3 emplacements avec la carte qu’ils contiennent).
-* Ajouter à la classe Jeu la méthode void echanger(Emplacement a, Emplacement b) qui permet d’échanger les cartes entre les deux emplacements en paramètres (en utilisant les méthodes poser et enlever de Carte). Ajouter également la méthode void echanger(int i, int j) qui permet d’échanger les deux emplacements indiqués par les entier i et j (en considérant que gauche est 0, milieu 1 et droit 2; astuce : si i+j==1 alors c’est gauche et milieu qui sont échangés; si i+j==2 alors c’est gauche et droit; sinon c’est milieu et droit).
-* Ajouter la méthode boolean choisir(Emplacement a) et boolean choisir(int i) qui renvoie true si l’emplacement a  (ou correspondant à l’entier i) contient la carte cible, false sinon.
-* Ajouter la méthode void melanger() qui permet de échanger au hasard deux emplacements; la méthode void melanger(int n) qui permet de faire n mélanges au hasard.
+* Ajouter à la classe Jeu la méthode `void echanger(Emplacement a, Emplacement b)` qui permet d’échanger les cartes entre les deux emplacements en paramètres (en utilisant les méthodes poser et enlever de Carte). 
+* Ajouter également la méthode `void echanger(int i, int j)` qui permet d’échanger les deux emplacements indiqués par les entier $i$ et $j$ (en considérant que gauche est 0, milieu 1 et droit 2; astuce : si $i+j==1$ alors c’est gauche et milieu qui sont échangés; si $i+j==2$ alors c’est gauche et droit; sinon c’est milieu et droit).
+* Ajouter la méthode `boolean choisir(Emplacement a)` et `boolean choisir(int i)` qui renvoie true si l’emplacement a  (ou correspondant à l’entier i) contient la carte cible, false sinon.
+* Ajouter la méthode `void melanger()` qui permet de échanger au hasard deux emplacements; la méthode void melanger(int n) qui permet de faire n mélanges au hasard.
 
-Tester vos classes dans un main qui initialise un jeu, mélange 100 fois aléatoirement, et choisit un emplacement au hasard, affiche s’il a gagné ou pas. Répéter l’expérience 1000 fois. Quelle est la moyenne du nombre de fois où le programme gagne  ?
-Quel est l’intérêt de déclarer en private les variables d’instances des différentes classes ? Y’a-t-il un moyen de tricher tel quel ? Et si les variables étaient public ?
+Tester vos classes dans un main qui initialise un jeu, mélange 100 fois aléatoirement, et choisit un emplacement au hasard, affiche s’il a gagné ou pas. 
+
+Répéter l’expérience 1000 fois. Quelle est la moyenne du nombre de fois où le programme gagne?
+
+Quel est l’intérêt de déclarer en private les variables d’instances des différentes classes? Y’a-t-il un moyen de tricher tel quel ? Et si les variables étaient public ?

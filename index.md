@@ -2,6 +2,7 @@
 # Vincent Guigue
 
 Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>
+MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR>
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)
 
 Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR>

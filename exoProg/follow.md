@@ -1,4 +1,4 @@
-# Follow the lady
+# Follow the lady (énoncé de N. Baskiotis)
 
 Le sujet suivant a été conçu pour une UE de programmation objet en JAVA... Il est évidemment possible (et intéressant) de le traiter en n'importe quel langage, notammment le python.
 

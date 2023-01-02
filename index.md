@@ -22,6 +22,9 @@ Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https:/
 
 Apprentis access: [link](https://ecampus.paris-saclay.fr/enrol/instances.php?id=70409)
 
+## Object Programming
+
+A list of playful and educational exercises to improve OOP! [link](exoOOP.md)
 
 ## Data-sciences
 

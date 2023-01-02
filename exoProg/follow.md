@@ -5,6 +5,7 @@ Le sujet suivant a été conçu pour une UE de programmation objet en JAVA... Il
 * L'énoncé inclus le type des variables, c'est intéressant même si c'est implicite en python.
 * `null` en java est l'équivalent de `None` en python
 
+![bonneteau](/exoProg/img/follow.gif)
 
 ### Règles
 

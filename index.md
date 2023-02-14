@@ -7,7 +7,7 @@ Affiliated MLIA team, ISIR lab, Sorbonne University<BR>
 <BR>
 Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR>
 22 place de l'Agronomie<BR>
-91120 PALAISEAU
+91120 PALAISEAU |
 
 
 

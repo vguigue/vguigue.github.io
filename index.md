@@ -8,7 +8,7 @@
 
 
 I am specialized in **applied machine learning** algorithms: <BR>I find new use cases, design new architectures to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).<BR> 
-My favorite application fields are **NLP**, **Recommender Systems** and **Time Series** and a ideal use case mixes at least tow of these fields.
+My favorite application areas are **NLP**, **Recommendation Systems** and **Time Series**; an ideal use case combines at least two of these areas.
 
 
 # Teaching

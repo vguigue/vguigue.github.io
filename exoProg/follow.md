@@ -46,7 +46,7 @@ Elle dispose :
 * Ajouter à la classe Jeu la méthode `void echanger(Emplacement a, Emplacement b)` qui permet d’échanger les cartes entre les deux emplacements en paramètres (en utilisant les méthodes poser et enlever de Carte). 
 * Ajouter également la méthode `void echanger(int i, int j)` qui permet d’échanger les deux emplacements indiqués par les entier $i$ et $j$ (en considérant que gauche est 0, milieu 1 et droit 2; astuce : si $i+j==1$ alors c’est gauche et milieu qui sont échangés; si $i+j==2$ alors c’est gauche et droit; sinon c’est milieu et droit).
 * Ajouter la méthode `boolean choisir(Emplacement a)` et `boolean choisir(int i)` qui renvoie true si l’emplacement a  (ou correspondant à l’entier i) contient la carte cible, false sinon.
-* Ajouter la méthode `void melanger()` qui permet de échanger au hasard deux emplacements; la méthode void melanger(int n) qui permet de faire n mélanges au hasard.
+* Ajouter la méthode `void melanger()` qui permet de échanger au hasard deux emplacements; la méthode `void melanger(int n)` qui permet de faire n mélanges au hasard.
 
 Tester vos classes dans un main qui initialise un jeu, mélange 100 fois aléatoirement, et choisit un emplacement au hasard, affiche s’il a gagné ou pas. 
 

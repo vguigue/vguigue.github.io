@@ -1,4 +1,5 @@
 url: 'https://vguigue.github.io/' # your main domain
+show_downloads: true
 baseurl: ''
 
 theme: jekyll-theme-cayman

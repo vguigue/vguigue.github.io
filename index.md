@@ -1,8 +1,10 @@
 ### Vincent Guigue
 
-| ![ma tête](/resources/vincentRed2.jpg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>
+| ![ma tête](/resources/vincentRed2.jpg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 |
+
+
 MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR>
-UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)<BR> |
+UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)<BR> 
 
 
 Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>

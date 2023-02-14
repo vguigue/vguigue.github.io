@@ -1,13 +1,15 @@
+### Vincent Guigue
 
 | ![ma tête](/resources/vincentRed2.jpg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>
 MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR>
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)<BR>
 Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR>
-Affiliated MLIA team, ISIR lab, Sorbonne University<BR>
-<BR>
+Affiliated MLIA team, ISIR lab, Sorbonne University |
+
+
 Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR>
 22 place de l'Agronomie<BR>
-91120 PALAISEAU |
+91120 PALAISEAU 
 
 
 

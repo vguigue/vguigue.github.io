@@ -38,9 +38,11 @@ Seminar on appied machine learning
 
 # Research
 
-| Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr) | Local, with link to pdf: [link](publis.md) |
+Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr) <BR>
+Local, with link to pdf: [link](publis.md) 
 
 A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
+
 
 # Misc
 

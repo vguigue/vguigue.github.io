@@ -1,3 +1,4 @@
+
 | ![ma tête](/resources/vincentRed2.jpg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022 <BR>
 MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR>
 UMR MIA, Mathématique et Informatique Appliquées [link](https://www6.inrae.fr/mia-paris)<BR>
@@ -10,7 +11,8 @@ Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR>
 
 
 
-I am specialized in **applied machine learning** algorithms: <BR>I find new use cases, design new architectures to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).
+I am specialized in **applied machine learning** algorithms: <BR>I find new use cases, design new architectures to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).<BR> 
+My favorite application fields are **NLP**, **Recommender Systems** and **Time Series** and a ideal use case mixes at least tow of these fields.
 
 
 # Teaching

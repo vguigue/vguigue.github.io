@@ -13,17 +13,17 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 
 # Teaching
 
-#### Python 1A / App
+### Python 1A / App
 
 **Python reminders, SQL bases** being able to program classical algorithm, avoid most traps and access data everywhere.
 
 Apprentis access: [link](https://ecampus.paris-saclay.fr/enrol/instances.php?id=70409)
 
-#### Object Programming
+### Object Programming
 
 A list of playful and educational exercises to improve OOP! [link](exoOOP.md)
 
-#### Data-sciences
+### Data-sciences
 
 Courses dedicated to the IODAA branch, AgroParisTech 3A.
 

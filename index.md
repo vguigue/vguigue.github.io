@@ -47,3 +47,5 @@ A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 # Misc
 
 An interview on chatGPT for France Culture (Feb, 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
+
+Popularization presentation on chatGPT: [pdf](/pres/chatGPT032023.pdf)

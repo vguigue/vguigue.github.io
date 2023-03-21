@@ -51,5 +51,5 @@ An interview on chatGPT for France Culture (Feb, 2023): [link, podcast](https://
 Popularization presentation on chatGPT: [pdf](/pres/chatGPT032023.pdf)<BR>
 [Séminaire DataIA, 7 mars 2023, GS Économie & Management, L’IA générative et chatGPT]
 
-Longer presentation, still on chatGPT: TBD <BR>
+Longer presentation, still on chatGPT: [pdf](/pres/chatGPTlong032023.pdf) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 16 mars 2023]

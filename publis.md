@@ -1,5 +1,11 @@
 # Papers with pdf :)
 
+
+### 2023
+
+* Dynamic Named Entity Recognition, 
+T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023
+
 ### 2022
 
 * Learning Unsupervised Hierarchies of Audio Concepts

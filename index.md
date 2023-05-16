@@ -53,4 +53,8 @@ Popularization presentation on chatGPT: [pdf](/pres/chatGPT032023.pdf)<BR>
 Longer presentation, still on chatGPT: [pdf](/pres/chatGPTlong032023.pdf) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 16 mars 2023]
 
+Long presentation, still on chatGPT, few new figures: [pdf](/pres/chatGPTClermont.pdf) <BR>
+[Université Clermont Auvergne, 16 mai 2023]
+
+
 AI definition, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)

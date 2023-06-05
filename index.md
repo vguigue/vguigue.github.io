@@ -57,9 +57,10 @@ Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/
 Longer presentation, still on chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 25 mai 2023]
 
-Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt) [pdf](/pres/chatGPTClermont.pdf) <BR>
+Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
 [Université Clermont Auvergne, 16 mai 2023]
 
+Support of the previous presentations [pdf](/pres/chatGPTClermont.pdf)
 
 ### Other topics
 

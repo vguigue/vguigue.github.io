@@ -53,7 +53,7 @@ Why is chatGPT often wrong? (SuperFail, June, 2023) [link, podcast](https://www.
 ### Presentations on chatGPT (last version of the support at the end)
 Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
 [Séminaire DataIA, 7 mars 2023, GS Économie & Management, L’IA générative et chatGPT]
- 
+
 Longer presentation, still on chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 25 mai 2023]
 
@@ -61,4 +61,6 @@ Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link]
 [Université Clermont Auvergne, 16 mai 2023]
 
 
-AI definition, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
+### Other topics
+
+Discussion on AI definition, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)

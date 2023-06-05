@@ -45,9 +45,9 @@ A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 
 # Misc
 
-An interview on chatGPT for France Culture (Feb, 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
+An interview on chatGPT (France Culture, La Science CQFD, Feb 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
 
-Why is chatGPT often wrong? (SuperFail, June, 2023) [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/superfail/pourquoi-chat-gpt-se-trompe-t-il-2207192)
+Why is chatGPT often wrong? (France Culture, SuperFail, June 2023) [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/superfail/pourquoi-chat-gpt-se-trompe-t-il-2207192)
 
 
 ### Presentations on chatGPT (last version of the support at the end)

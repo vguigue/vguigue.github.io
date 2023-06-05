@@ -47,10 +47,14 @@ A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 
 An interview on chatGPT for France Culture (Feb, 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
 
-Popularization presentation on chatGPT: [pdf](/pres/chatGPT032023.pdf)<BR>
+Why is chatGPT often wrong? (SuperFail, June, 2023) [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/superfail/pourquoi-chat-gpt-se-trompe-t-il-2207192)
+
+
+### Presentations on chatGPT (last version of the support at the end)
+Popularization presentation on chatGPT: <BR>
 [Séminaire DataIA, 7 mars 2023, GS Économie & Management, L’IA générative et chatGPT]
 
-Longer presentation, still on chatGPT: [pdf](/pres/chatGPTlong032023.pdf) <BR>
+Longer presentation, still on chatGPT:  <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 16 mars 2023]
 
 Long presentation, still on chatGPT, few new figures: [pdf](/pres/chatGPTClermont.pdf) <BR>

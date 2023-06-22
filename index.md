@@ -49,6 +49,9 @@ An interview on chatGPT (France Culture, La Science CQFD, Feb 2023): [link, podc
 
 Why is chatGPT often wrong? (France Culture, SuperFail, June 2023) [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/superfail/pourquoi-chat-gpt-se-trompe-t-il-2207192)
 
+Discussion on **AI definition**, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
+
+Discussion on the AI impact on Human Resources (HR), France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
 
 ### Presentations on chatGPT (last version of the support at the end)
 Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
@@ -62,6 +65,5 @@ Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link]
 
 Slides of the previous presentations [pdf](/pres/chatGPTClermont.pdf)
 
-### Other topics
 
-Discussion on AI definition, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
+

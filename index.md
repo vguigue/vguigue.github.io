@@ -51,7 +51,7 @@ Why is chatGPT often wrong? (France Culture, SuperFail, June 2023) [link, podcas
 
 Discussion on **AI definition**, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
 
-Discussion on the AI impact on Human Resources (HR), France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
+Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
 
 ### Presentations on chatGPT (last version of the support at the end)
 Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>

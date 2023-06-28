@@ -63,7 +63,7 @@ Longer presentation, still on chatGPT: [link](https://agenda.bpi.fr/evenement/to
 Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
 [Université Clermont Auvergne, 16 mai 2023]
 
-Slides of the previous presentations [pdf](/pres/chatGPTClermont.pdf)
+Slides of the previous presentations [pdf](/pres/chatGPTorsay.pdf)
 
 
 

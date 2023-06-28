@@ -57,11 +57,15 @@ Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'
 Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
 [Séminaire DataIA, 7 mars 2023, GS Économie & Management, L’IA générative et chatGPT]
 
+Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
+[Université Clermont Auvergne, 16 mai 2023]
+
 Longer presentation, still on chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 25 mai 2023]
 
-Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
-[Université Clermont Auvergne, 16 mai 2023]
+Generative AI & pedagogy: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
+[Université Paris-Saclay, 28 juin 2023]
+
 
 Slides of the previous presentations [pdf](/pres/chatGPTorsay.pdf)
 

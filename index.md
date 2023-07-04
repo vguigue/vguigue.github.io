@@ -53,6 +53,8 @@ Discussion on **AI definition**, AI act (EU commission): [link](https://www.01ne
 
 Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
 
+Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)
+
 ### Presentations on chatGPT (last version of the support at the end)
 Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
 [Séminaire DataIA, 7 mars 2023, GS Économie & Management, L’IA générative et chatGPT]
@@ -63,11 +65,15 @@ Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link]
 Longer presentation, still on chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 25 mai 2023]
 
-Generative AI & pedagogy: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
+Pédagogie & IA générative: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
 [Université Paris-Saclay, 28 juin 2023]
 
+Séminaire inter-département AgroParisTech:  <BR>
+[AgroParisTech, 29 juin 2023]
 
-Slides of the previous presentations [pdf](/pres/chatGPTorsay.pdf)
+
+
+Slides of the previous presentations [pdf](/pres/chatGPTagro.pdf)
 
 
 

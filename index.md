@@ -56,22 +56,22 @@ Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'
 Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)
 
 ### Presentations on chatGPT (last version of the support at the end)
-Popularization presentation on chatGPT: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
-[Séminaire DataIA, 7 mars 2023, GS Économie & Management, L’IA générative et chatGPT]
+Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
+[Séminaire DataIA, GS Économie & Management, 7 mars 2023]
 
-Long presentation, still on chatGPT, few new figures in Clermont-Ferrand: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
+Séminaire *Programme data cap 2025*: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
 [Université Clermont Auvergne, 16 mai 2023]
 
-Longer presentation, still on chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
+Tout savoir sur le chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
 [Centre Pompidou/Bibliothèque Publique d'Information, 25 mai 2023]
 
-Pédagogie & IA générative: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
+Séminaire *Pédagogie & IA générative*: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
 [Université Paris-Saclay, 28 juin 2023]
 
 Séminaire inter-département AgroParisTech:  <BR>
 [AgroParisTech, 29 juin 2023]
 
-Webinaire INRAe, métaprogramme DIGIT-BIO:  <BR>
+Webinaire INRAe, métaprogramme DIGIT-BIO: [link](https://www6.inrae.fr/digitbio/Animations/L-IA-en-sciences-du-vivant) <BR>
 [INRAe, 7 juillet 2023]
 
 

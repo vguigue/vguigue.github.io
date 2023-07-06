@@ -71,9 +71,11 @@ Pédagogie & IA générative: [link](https://www.persay.universite-paris-saclay.
 Séminaire inter-département AgroParisTech:  <BR>
 [AgroParisTech, 29 juin 2023]
 
+Webinaire INRAe, métaprogramme DIGIT-BIO:  <BR>
+[INRAe, 7 juillet 2023]
 
 
-Slides of the previous presentations [pdf](/pres/chatGPTagro.pdf)
+Slides of the previous presentations [pdf](/pres/chatGPTinrae.pdf)
 
 
 

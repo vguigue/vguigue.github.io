@@ -75,7 +75,7 @@ Webinaire INRAe, métaprogramme DIGIT-BIO: [link](https://www6.inrae.fr/digitbio
 [INRAe, 7 juillet 2023]
 
 
-Slides of the previous presentations [pdf](/pres/chatGPTinrae.pdf)
+**Slides of the previous presentations [pdf](/pres/chatGPTinrae.pdf)**
 
 
 

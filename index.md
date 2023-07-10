@@ -10,32 +10,16 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 [My profile at Université Paris-Saclay :](https://www.scoop.it/topic/life-sci-news-upsaclay/p/4142236891/2023/03/29/portrait-jeune-chercheur-vincent-guigue-professeur-en-informatique)
 
 
-# Teaching
+## [Teaching](teach.md)
 
-### Python 1A / App
+**Python 1A / App:**
+Python reminders, SQL bases
 
-**Python reminders, SQL bases** being able to program classical algorithm, avoid most traps and access data everywhere.
-
-Apprentis access: [link](https://ecampus.paris-saclay.fr/enrol/instances.php?id=70409)
-
-### Object Programming
-
-A list of playful and educational exercises to improve OOP! [link](exoOOP.md)
-
-### Data-sciences
-
+**Data-sciences:**
 Courses dedicated to the IODAA branch, AgroParisTech 3A.
 
-* git basics: [link](https://github.com/vguigue/tuto_git)
-* numpy/matplotlib: [link](https://github.com/vguigue/tuto_numpy)
-* scikit-learn: [link](https://github.com/vguigue/tuto_sklearn)
-* pytorch/deep learning: [link](https://github.com/vguigue/tuto_deep)
 
-Seminar on appied machine learning
-* Recommender Systems: [link](https://github.com/vguigue/reco_2019)
-* Time series: TBD
-
-# Research
+## [Research](publis.md)
 
 Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr) <BR>
 Local, with link to pdf: [link](publis.md) 
@@ -43,7 +27,7 @@ Local, with link to pdf: [link](publis.md)
 A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 
 
-# Misc
+## Misc / Vulgarisation
 
 An interview on chatGPT (France Culture, La Science CQFD, Feb 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
 

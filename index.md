@@ -7,7 +7,7 @@
 I am specialized in **applied machine learning** algorithms: <BR>I find new use cases, design new architectures to tackle a generic problem and demonstrate its efficiency on various situations (idealy including the original use case).<BR> 
 My favorite application areas are **NLP**, **Recommendation Systems** and **Time Series**; an ideal use case combines at least two of these areas.
 
-My profile at Université Paris-Saclay : [link](https://www.scoop.it/topic/life-sci-news-upsaclay/p/4142236891/2023/03/29/portrait-jeune-chercheur-vincent-guigue-professeur-en-informatique)
+[My profile at Université Paris-Saclay :](https://www.scoop.it/topic/life-sci-news-upsaclay/p/4142236891/2023/03/29/portrait-jeune-chercheur-vincent-guigue-professeur-en-informatique)
 
 
 # Teaching

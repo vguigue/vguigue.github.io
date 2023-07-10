@@ -19,7 +19,7 @@ Python reminders, SQL bases
 Courses dedicated to the IODAA branch, AgroParisTech 3A.
 
 
-## Research [link](publis.md)
+## Research: [link](publis.md)
 
 Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr) <BR>
 Local, with link to pdf: [link](publis.md) 
@@ -33,7 +33,7 @@ An interview on chatGPT (France Culture, La Science CQFD, Feb 2023): [link, podc
 
 Why is chatGPT often wrong? (France Culture, SuperFail, June 2023) [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/superfail/pourquoi-chat-gpt-se-trompe-t-il-2207192)
 
-Discussion on **AI definition**, AI act (EU commission): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
+Discussion on **AI definition**, AI act, EU commission (article 01net): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
 
 Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
 

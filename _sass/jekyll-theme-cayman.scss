@@ -147,15 +147,16 @@ a {
   opacity: 0.7;
 
   a:link{
-    color: #6BC18F;
+    color: $fg-agro-color;
     font-weight: bold;
   }
   a:visited {
-    color: #6BC18F;
+    color: $fg-agro-color;
     font-weight: bold;
   }
   a:hover {
-    box-shadow: inset 100px 0 0 0 #FFFFFF;
+    box-shadow: inset 200px 0 0 0 #FFFFFF;
+    transition: $bg-agro-color .3s ease-in-out, box-shadow .3s ease-in-out;
   }
 
   @include large {

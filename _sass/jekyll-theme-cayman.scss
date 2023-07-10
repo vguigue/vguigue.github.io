@@ -126,7 +126,7 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0; 
 
   @include large {
     font-size: 3.25rem;
@@ -148,9 +148,11 @@ a {
 
   a:link{
     color: #6BC18F;
+    font-weight: bold;
   }
   a:visited {
     color: #6BC18F;
+    font-weight: bold;
   }
 
   @include large {

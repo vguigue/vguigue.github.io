@@ -154,6 +154,9 @@ a {
     color: #6BC18F;
     font-weight: bold;
   }
+  a:hover {
+    box-shadow: inset 100px 0 0 0 #FFFFFF;
+  }
 
   @include large {
     font-size: 1.25rem;

@@ -55,7 +55,7 @@ Séminaire *Pédagogie & IA générative*: [link](https://www.persay.universite-
 Séminaire inter-département AgroParisTech:  <BR>
 [AgroParisTech, 29 juin 2023]
 
-Webinaire INRAe, métaprogramme DIGIT-BIO: [link](https://www6.inrae.fr/digitbio/Animations/L-IA-en-sciences-du-vivant) <BR>
+Webinaire INRAe, métaprogramme DIGIT-BIO: [link (with video)](https://www6.inrae.fr/digitbio/Animations/REPLAY-Chat-GPT-decryptage-d-un-algorithme)<BR>
 [INRAe, 7 juillet 2023]
 
 

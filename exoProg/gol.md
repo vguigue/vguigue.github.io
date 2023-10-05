@@ -158,8 +158,20 @@ nlignes = 10
 i   = 2 # une coordonnée sur la ligne 2
 i_c = (i+nlignes)%nlignes # => 2 (inchangé)
 
-i = 0 # cas critique de la première ligne
+i = -1 # cas critique des voisins de la ligne 0
 i_c = (i+nlignes)%nlignes # => 9 (passage sur la dernière ligne)
+```
+
+### Travail préliminaire: *bloquer* la fonction random
+
+Construire des exemples reproductibles dans un contexte stochastique est dur! La solution consiste à *bloquer* la fonction random comme suit:
+
+```python
+import random
+random.seed(0) # initialisation bloquée de random
+
+random.random() # => 0.8444218515250481
+# on retire le même nombre aléatoire si on relance le programme.
 ```
 
 ### Fonction de comptage: `cpt_voisins`
@@ -168,3 +180,22 @@ La clé du jeu de la vie consiste, pour chaque cellule du plateau, à compter le
 
 La fonction `cpt_voisins` travaille sur UNE case: elle prend en argument le monde et des coordonnées `m,n`; elle retourne le nombre de voisins vivants de cette case en particulier.
 
+#### <span style="color: red;"> TEST à valider </span>
+
+```python
+random.seed(1)
+
+monde = generate_monde(6, 8, 0.2)
+print_monde(monde) 
+# X.......
+# XX...X..
+# ...XX...
+# ..X.....
+# ...X...X
+# ..X.....
+print(cpt_voisins(monde, 0, 0)) # 2
+print(cpt_voisins(monde, 1, 1)) # 2 
+print(cpt_voisins(monde, 1, 4)) # 3
+print(cpt_voisins(monde, 0, 3)) # 1
+
+```

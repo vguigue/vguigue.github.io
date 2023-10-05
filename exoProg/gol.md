@@ -2,27 +2,19 @@
 
 Le jeu de la vie de Conway est une simulation d'évolution d'un ensemble de cellules qui survivent, émergent ou meurent en fonction de leur environnement, selon des règles *très* simples. Les informations importantes sont résumées ci-dessous, les détails sont disponibles sur wikipedia: [lien](https://fr.wikipedia.org/wiki/Jeu_de_la_vie)
 
-1. Les cellules sont réparties dans une matrice, comme illustré ci-dessous:
-```
-......X...
-.....XX...
-.XX.......
-..XX.X....
-...X..X...
-...X..X...
-....X.....
-...X......
-.XX..X..X.
-...X...X..
-```
-2. Les règles d'évolution sont les suivantes:
+Les règles d'évolution du monde sont les suivantes:
     * si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
     * si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
     * sinon, elle meure
 
-Nous proposons un découpage en différentes sous-tâches avec des défis identifiés à chaque étape.
+L'énoncé suivant est très long... Nous proposons un découpage en différentes sous-tâches avec des défis identifiés à chaque étape et des tests de validation intermédiaire.
 
-## Création et affichage du monde
+1. Créer un monde aléatoirement (et l'afficher)
+2. Compter les cellules voisines vivantes
+3. Mettre à jour le monde et faire défiler les générations.
+
+
+# 1. Création et affichage du monde
 
 ### concept préliminaire: les booléens
 
@@ -120,7 +112,7 @@ X.....X.
 ........
 ```
 
-## Comptage des voisins vivants
+# 2. Comptage des voisins vivants
 
 Commençons par un exemple:
 ```
@@ -183,7 +175,7 @@ La fonction `cpt_voisins` travaille sur UNE case: elle prend en argument le mond
 #### <span style="color: red;"> TEST à valider </span>
 
 ```python
-random.seed(1)
+random.seed(1) # pour rendre l'expérience reproductible
 
 monde = generate_monde(6, 8, 0.2)
 print_monde(monde) 
@@ -199,3 +191,10 @@ print(cpt_voisins(monde, 1, 4)) # 3
 print(cpt_voisins(monde, 0, 3)) # 1
 
 ```
+
+#### Test facultatif
+
+il est intéressant de construire une seconde fonction `print_monde_db` qui affiche le nombre de voisins des cases vides. Cette fonction (variation à une ligne près de la fonction existante) permet de valider le calcul des voisins et sera utile dans la mise à jour.
+
+| X....... | X4211112 |
+| XX...X.. | XX223X12 |

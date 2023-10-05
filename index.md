@@ -58,7 +58,7 @@ Séminaire inter-département AgroParisTech:  <BR>
 Webinaire INRAe, métaprogramme DIGIT-BIO: [link (with video)](https://www6.inrae.fr/digitbio/Animations/REPLAY-Chat-GPT-decryptage-d-un-algorithme)<BR>
 [INRAe, 7 juillet 2023]
 
-Séminaire DARES (Ministère du travail), Comment l’intelligence artificielle transforme les pratiques de recrutement ? [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
+Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
 [DARES, 12 septembre 2023]
 
 **Slides of the previous presentations [pdf](/pres/chatGPT-HR.pdf)**

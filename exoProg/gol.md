@@ -227,8 +227,119 @@ XX223X12
 
 # Mise à jour du monde
 
+La mise à jour du monde semble simple:
+1. Calcul des nombres de voisins
+2. MAJ des cases de la matrice
+
+Mais ça va être plus compliqué. Le principal problème est que la mise à jour d'une case risque d'avoir un impact sur le calcul du nombre de voisins de la case d'à coté... Ce qui n'est pas souhaitable. Il faut donc basculer vers:
+
+1. Copie du monde : `monde` + `newmonde`
+2. Calcul des nombres de voisins dans `monde`
+3. MAJ des cases de la matrice dans `newmonde`
+
+### Copie en surface, copie en profondeur, copie en grande profondeur
+
+Le problème de base est connu: il s'agit de référence ou de pointeur...
+```python
+li  = [5, 2, 3]
+li2 = li # problème de référence
+li2[0] = 12
+print(li) # aie aie aie
+```
+La solution est connue:
+```python
+li  = [5, 2, 3]
+li2 = li.copy() # a ce moment, il y a deux listes distinctes
+li2[0] = 12
+print(li) # OK
+```
+MAIS, le problème devient plus complexe sur les matrices!
+```python
+li  = [[5, 2, 3], [10, 1, 8]]
+li2 = li.copy() 
+li2[0][0] = 12
+print(li) # aie aie aie
+```
+La solution est alors de faire appel à un package specifique:
+```python
+import copy
+li  = [[5, 2, 3], [10, 1, 8]]
+li2 = copy.deepcopy(li) 
+li2[0][0] = 12
+print(li) # OK
+```
+
+### Fonction de mise à jour du monde: `update_monde`
+
+Cette fonction prend en argument l'ancien monde, crée un nouveau monde, passe sur toutes les cases et les mets à jour selon les deux règles énoncées précedemment et rappelées ci-dessous:
+
+Les règles d'évolution du monde sont les suivantes:
+    * si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
+    * si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
+    * sinon, elle meure
+
+#### <span style="color: red;"> TEST à valider </span>
 
 
+```
+........X.
+..X.......
+...XX....X
+..........
+...X......
+..X..X....
+....X.X...
+.....XXX..
+X..XX.X...
+..X..XX...
+==========
+..........
+...X......
+...X......
+...XX.....
+..........
+...XXX....
+....X..X..
+...X...X..
+...XX.....
+...XXXXX..
+```
+
+### Fonction d'évolution du monde sur plusieurs générations: `play_generations`
+
+Afin de jouer plusieurs génération, il est nécessaire d'introduire deux nouveaux outils: 
+
+1. effacer la console entre 2 générations
+2. mattre une temporisation pour visualiser l'animation
+
+```python
+# imports spécifiques
+import os
+import time
+
+def cls(): 
+    """
+    usage = cls()
+    fonction d'effaçage de la console
+    """
+    os.system("clear") # pour macos
+    # os.system("cls") # pour windows (je crois)
+
+def democls():
+    """
+    usage = democls()
+    fonction de démonstration pour afficher une animation dans la console
+    """
+    for i in range(6):
+        cls() # vider la console
+        print(" "*i + 'X')
+        time.sleep(1)
+
+democls() # invocation de la démonstration
+
+```
+
+Construire la fonction `play_generations` sur le même format.
 
 # Pour aller plus loin
 

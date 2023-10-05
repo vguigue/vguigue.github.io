@@ -74,7 +74,9 @@ print(len(matrice[0])) # compte les éléments du premier élément la liste = n
 il est possible de faire des `print` sans retour à la ligne:
 ```python
 print("toto") # affichage de la chaine + retour à la ligne
-print("toto", end='') # affichage de la chaine SANS retour à la ligne
+print("toto", end='')  # affichage de la chaine SANS retour à la ligne
+print("titi ", end='') # avec un espace
+print("tata")
 ```
 
 ### Génération du monde: `generate_monde`
@@ -85,7 +87,9 @@ Les informations à fournir à cette méthode sont:
 
 La méthode retourne une matrice de booléen (cf questions préliminaires précédentes): les cellules vivantes valent `True`, les mortes valent `False`.
 
-Sur un petit monde, on pourrait obtenir le code suivant:
+#### <span style="color: red;"> TEST à valider </span>
+
+Sur un tout petit monde, on pourrait obtenir le code suivant:
 ```python
 monde = generate_monde(2, 2, 0.2)
 print(monde)
@@ -116,17 +120,15 @@ X.....X.
 ........
 ```
 
-## Comptage des voisins vivants: `cpt_voisins`
+## Comptage des voisins vivants
 
-La clé du jeu de la vie consiste, pour chaque cellule du plateau, à compter les cellules vivantes parmi les 9 voisines:
+Commençons par un exemple:
 ```
 .X.
 .O.
 ..X
 ```
 La cellule `O` a deux voisins vivants.
-
-La fonction `cpt_voisins` travaille sur UNE case: elle prend en argument le monde et des coordonnées `m,n`; elle retourne le nombre de voisins vivants de cette case en particulier.
 
 ### Travail préliminaire: un monde sphérique
 
@@ -140,4 +142,29 @@ X.....X.
 123.....
 ```
 
+La solution proposée consiste à:
+1. Pour tous les indices `m`, considérer `m-1, m, m+1`
+2. Les indices négatifs doivent être *recalculés*... L'algorithme suivant permet de le faire
+
+```python
+# Soit nlignes le nombre de lignes
+# soit m et n les coordonnées de base:
+# soit i prenant les valeurs [m-1, m, m+1]
+i_corrige = (i + nlignes)%nlignes
+```
+Sur un exemple:
+```python
+nlignes = 10 
+i   = 2 # une coordonnée sur la ligne 2
+i_c = (i+nlignes)%nlignes # => 2 (inchangé)
+
+i = 0 # cas critique de la première ligne
+i_c = (i+nlignes)%nlignes # => 9 (passage sur la dernière ligne)
+```
+
+### Fonction de comptage: `cpt_voisins`
+
+La clé du jeu de la vie consiste, pour chaque cellule du plateau, à compter les cellules vivantes parmi les 9 voisines.
+
+La fonction `cpt_voisins` travaille sur UNE case: elle prend en argument le monde et des coordonnées `m,n`; elle retourne le nombre de voisins vivants de cette case en particulier.
 

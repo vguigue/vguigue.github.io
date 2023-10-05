@@ -48,6 +48,7 @@ for b in li:
     if b: cpt += 1
 print(cpt)
 ```
+Exécuter le code précédent et comprendre les affichages.
 
 ### concept préliminaire: les matrices
 
@@ -114,3 +115,29 @@ X.....X.
 ...X..X.
 ........
 ```
+
+## Comptage des voisins vivants: `cpt_voisins`
+
+La clé du jeu de la vie consiste, pour chaque cellule du plateau, à compter les cellules vivantes parmi les 9 voisines:
+```
+.X.
+.O.
+..X
+```
+La cellule `O` a deux voisins vivants.
+
+La fonction `cpt_voisins` travaille sur UNE case: elle prend en argument le monde et des coordonnées `m,n`; elle retourne le nombre de voisins vivants de cette case en particulier.
+
+### Travail préliminaire: un monde sphérique
+
+Dans le monde suivant, la cellule `O` a les 8 voisins repérés par les chiffres correspondants:
+```
+4O5.XX..
+678....X
+X.....X.
+.......X
+...X..X.
+123.....
+```
+
+

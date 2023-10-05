@@ -3,6 +3,7 @@
 Le jeu de la vie de Conway est une simulation d'évolution d'un ensemble de cellules qui survivent, émergent ou meurent en fonction de leur environnement, selon des règles *très* simples. Les informations importantes sont résumées ci-dessous, les détails sont disponibles sur wikipedia: [lien](https://fr.wikipedia.org/wiki/Jeu_de_la_vie)
 
 Les règles d'évolution du monde sont les suivantes:
+
     * si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
     * si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
     * sinon, elle meure
@@ -261,6 +262,7 @@ print(li) # OK
 Cette fonction prend en argument l'ancien monde, crée un nouveau monde, passe sur toutes les cases et les mets à jour selon les deux règles énoncées précedemment et rappelées ci-dessous:
 
 Les règles d'évolution du monde sont les suivantes:
+
     * si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
     * si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
     * sinon, elle meure

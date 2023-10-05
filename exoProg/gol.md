@@ -4,9 +4,9 @@ Le jeu de la vie de Conway est une simulation d'évolution d'un ensemble de cell
 
 Les règles d'évolution du monde sont les suivantes:
 
-    * si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
-    * si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
-    * sinon, elle meure
+* si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
+* si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
+* sinon, elle meure
 
 L'énoncé suivant est très long... Nous proposons un découpage en différentes sous-tâches avec des défis identifiés à chaque étape et des tests de validation intermédiaire.
 
@@ -75,8 +75,8 @@ print("tata")
 ### Génération du monde: `generate_monde`
 
 Les informations à fournir à cette méthode sont: 
-    * la taille du monde (nombre de lignes, nombre de colonnes)
-    * le taux de cellule vivante dans le monde
+* la taille du monde (nombre de lignes, nombre de colonnes)
+* le taux de cellule vivante dans le monde
 
 La méthode retourne une matrice de booléen (cf questions préliminaires précédentes): les cellules vivantes valent `True`, les mortes valent `False`.
 
@@ -263,9 +263,9 @@ Cette fonction prend en argument l'ancien monde, crée un nouveau monde, passe s
 
 Les règles d'évolution du monde sont les suivantes:
 
-    * si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
-    * si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
-    * sinon, elle meure
+* si une cellule a 3 voisines vivantes, elle survit ou est créée à la génération suivante
+* si une cellule a 2 voisines vivantes, elle reste dans l'état précédent
+* sinon, elle meure
 
 #### <span style="color: red;"> TEST à valider </span>
 

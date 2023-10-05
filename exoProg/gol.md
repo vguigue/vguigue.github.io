@@ -196,5 +196,33 @@ print(cpt_voisins(monde, 0, 3)) # 1
 
 il est intéressant de construire une seconde fonction `print_monde_db` qui affiche le nombre de voisins des cases vides. Cette fonction (variation à une ligne près de la fonction existante) permet de valider le calcul des voisins et sera utile dans la mise à jour.
 
-| X....... | X4211112 |
-| XX...X.. | XX223X12 |
+<table>
+<tr>
+<td> Before </td> <td> After </td>
+</tr>
+<tr>
+<td>
+
+```
+X.......
+XX...X..
+...XX...
+..X.....
+...X...X
+..X.....
+```
+
+</td>
+<td>
+    
+```
+X4211112
+XX223X12
+233XX211
+11X43111
+123X101X
+22X21012
+```
+</td>
+</tr>
+</table>

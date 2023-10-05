@@ -225,7 +225,7 @@ XX223X12
 </table>
 
 
-# Mise à jour du monde
+# 3. Mise à jour du monde
 
 La mise à jour du monde semble simple:
 1. Calcul des nombres de voisins
@@ -341,7 +341,7 @@ democls() # invocation de la démonstration
 
 Construire la fonction `play_generations` sur le même format.
 
-# Pour aller plus loin
+# 4. Pour aller plus loin
 
 Tester les motifs classiques du jeu de la vie en repartant de la page wikipedia:
 [link](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) en allant à la section *Structure*

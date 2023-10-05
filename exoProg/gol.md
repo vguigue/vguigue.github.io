@@ -202,7 +202,6 @@ il est intéressant de construire une seconde fonction `print_monde_db` qui affi
 </tr>
 <tr>
 <td>
-
 ```
 X.......
 XX...X..
@@ -211,10 +210,8 @@ XX...X..
 ...X...X
 ..X.....
 ```
-
 </td>
 <td>
-    
 ```
 X4211112
 XX223X12
@@ -226,3 +223,14 @@ XX223X12
 </td>
 </tr>
 </table>
+
+
+# Mise à jour du monde
+
+
+
+
+# Pour aller plus loin
+
+Tester les motifs classiques du jeu de la vie en repartant de la page wikipedia:
+[link](https://fr.wikipedia.org/wiki/Jeu_de_la_vie) en allant à la section *Structure*

@@ -13,7 +13,8 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 ## Teaching: [link](teach.md)
 
 **Python 1A / App:**
-Python reminders, SQL bases
+Python reminders, SQL bases<BR>
+[Enoncé: *Jeu de la vie*](exoProg/gol.md)
 
 **Data-sciences:**
 Courses dedicated to the IODAA branch, AgroParisTech 3A.

@@ -61,6 +61,12 @@ Webinaire INRAe, métaprogramme DIGIT-BIO: [link (with video)](https://www6.inra
 Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
 [DARES, 12 septembre 2023]
 
+Atelier SCAI/BNP *Workshop sur l'IA générative* [lien](https://www.linkedin.com/feed/update/urn:li:activity:7112403396464140288/)<BR>
+[SCAI, Sorbonne-Université, 25 Septembre 2023]
+
+Séminaire ARS Grand-Est, *Décrypter chatGPT*<BR>
+[Visio, 10 octobre 2023]
+
 **Slides of the previous presentations [pdf](/pres/chatGPT-HR.pdf)**
 
 

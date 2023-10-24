@@ -40,6 +40,10 @@ Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'
 
 Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)
 
+Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
+[DARES, 12 septembre 2023]
+
+
 ### Presentations on chatGPT (last version of the support at the end)
 Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
 [Séminaire DataIA, GS Économie & Management, 7 mars 2023]
@@ -58,9 +62,6 @@ Séminaire inter-département AgroParisTech:  <BR>
 
 Webinaire INRAe, métaprogramme DIGIT-BIO: [link (with video)](https://www6.inrae.fr/digitbio/Animations/REPLAY-Chat-GPT-decryptage-d-un-algorithme)<BR>
 [INRAe, 7 juillet 2023]
-
-Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
-[DARES, 12 septembre 2023]
 
 Atelier SCAI/BNP *Workshop sur l'IA générative* [lien](https://www.linkedin.com/feed/update/urn:li:activity:7112403396464140288/)<BR>
 [SCAI, Sorbonne-Université, 25 Septembre 2023]

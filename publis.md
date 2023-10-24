@@ -3,6 +3,7 @@
 
 ### 2023
 
+* Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
 * Dynamic Named Entity Recognition, 
 T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023 
 [<img width=20px src="art/pdf.png">](art/sac23.pdf)

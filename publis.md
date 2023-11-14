@@ -3,6 +3,12 @@
 
 ### 2023
 
+* Interpretable time series neural representation for classification purposes, 
+E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue, In DSAA 2023 (best research paper)
+[<img width=20px src="art/pdf.png">](art/dsaa23.pdf)
+* Of Spiky SVDs and Music Recommendation, 
+D. Afchar, R. Hennequin, V. Guigue, In RecSys 2023 (Runner-up award)
+[<img width=20px src="art/pdf.png">](art/recsys23.pdf)
 * Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
 * Dynamic Named Entity Recognition, 
 T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023 
@@ -10,7 +16,7 @@ T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023
 * An EXplainable RecommandER SYStem for the Nutrition Domain, combining Knowledge Graphs and Machine Learning, 
 N. Jacquet, C. Manfredotti, V. Guigue, F. Sais, P. Viappiani. In Work. Cocoa-Beans, 2023
 * Extraction d'entités nommées à partir de descriptions d'espèces,
-M Sahraoui, M Pignal, R Vignes-Lebbe, and V Guigue. In CORIA 2023
+M. Sahraoui, M. Pignal, R. Vignes-Lebbe, and V. Guigue. In CORIA 2023
 [<img width=20px src="art/pdf.png">](art/coria23-m.pdf)
 * Intégration du raisonnement numérique dans les modèles de langue : État de l'art et direction de recherche,
 S. Abchiche, L. Said Lhadj, L. Soulier, V. Guigue. In CORIA 2023
@@ -19,7 +25,8 @@ S. Abchiche, L. Said Lhadj, L. Soulier, V. Guigue. In CORIA 2023
 L. Falissard, V. Guigue, L. Soulier. In CORIA 2023
 [<img width=20px src="art/pdf.png">](art/coria23-l.pdf)
 * Interpretable time series representation for classification purposes,
-E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue. In CAp 2023
+E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue. In CAp 2023 [<img width=20px src="art/pdf.png">](art/cap23-l.pdf)
+
 
 ### 2022
 

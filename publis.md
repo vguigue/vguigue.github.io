@@ -10,6 +10,7 @@ E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue, In DSAA 2023 (best research p
 * Of Spiky SVDs and Music Recommendation, 
 D. Afchar, R. Hennequin, V. Guigue, In RecSys 2023 (Runner-up award)
 [<img width=20px src="art/pdf.png">](art/recsys23.pdf)
+* Leveraging multimodality for biodiversity data: Exploring joint representations of species descriptions and specimen images using clip, M. Sahraoui, Y. Sklab, M. Pignal, R. V. Lebbe, and V. Guigue In: Biodiversity Information Science and Standards 2023
 * Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
 * Dynamic Named Entity Recognition, 
 T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023 

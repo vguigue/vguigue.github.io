@@ -4,10 +4,10 @@
 ### 2023
 
 * Improving generalization in large langue model by learning prefix subspaces, L. Falissard, V. Guigue and L. Soulier In: EMNLP (findings) 2023 [<img width=20px src="art/pdf.png">](art/emnlp23.pdf)
-* Interpretable time series neural representation for classification purposes, 
+* **[Best Research Paper]** Interpretable time series neural representation for classification purposes, 
 E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue, In DSAA 2023 (best research paper)
 [<img width=20px src="art/pdf.png">](art/dsaa23.pdf)
-* Of Spiky SVDs and Music Recommendation, 
+* **[Best Paper: runner-up award]** Of Spiky SVDs and Music Recommendation, 
 D. Afchar, R. Hennequin, V. Guigue, In RecSys 2023 (Runner-up award)
 [<img width=20px src="art/pdf.png">](art/recsys23.pdf)
 * Leveraging multimodality for biodiversity data: Exploring joint representations of species descriptions and specimen images using clip, M. Sahraoui, Y. Sklab, M. Pignal, R. V. Lebbe, and V. Guigue In: Biodiversity Information Science and Standards 2023
@@ -138,7 +138,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * Smart card in public transportation: designing a analysis system at the human scale, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: IEEE ITSC 2016
 [<img width=20px src="art/pdf.png">](art/itsc16b.pdf); slides
 [<img width=20px src="art/pdf.png">](art/itsc16b_slides.pdf)
-* Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016
+* **[Best Paper]** Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016
 [<img width=20px src="art/pdf.png">](art/coria16.pdf)
 * Apprentissage de trajectoires temporelles pour la recommandation dans les communautés d’utilisateurs, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: Cap 2016
 [<img width=20px src="art/pdf.png">](art/cap16_2.pdf)

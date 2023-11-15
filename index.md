@@ -44,7 +44,7 @@ Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle
 [DARES, 12 septembre 2023]
 
 
-### Presentations on chatGPT (last version of the support at the end)
+### Presentations on LLM/chatGPT (last version of the support at the end)
 Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
 [Séminaire DataIA, GS Économie & Management, 7 mars 2023]
 
@@ -69,7 +69,17 @@ Atelier SCAI/BNP *Workshop sur l'IA générative* [lien](https://www.linkedin.co
 Séminaire ARS Grand-Est, *Décrypter chatGPT*<BR>
 [Visio, 10 octobre 2023]
 
+Fête de la science,  *Présentation des modèles de langue*<BR>
+[Sorbonne-Université, 14 octobre 2023]
+
+Séminaire croisé ATOS/DELL, *Présentation des LLM en cinq tableaux* <BR>
+[Paris, 18 octobre 2023]
+
 **Slides of the previous presentations [pdf](/pres/chatGPT-HR.pdf)**
+
+**LLM in 5 slides [pdf](/pres/LLM-tableaux.pdf)**
+
+
 
 
 

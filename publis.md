@@ -3,6 +3,7 @@
 
 ### 2023
 
+* Improving generalization in large langue model by learning prefix subspaces, L. Falissard, V. Guigue and L. Soulier In: EMNLP (findings) 2023 [<img width=20px src="art/pdf.png">](art/emnlp23.pdf)
 * Interpretable time series neural representation for classification purposes, 
 E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue, In DSAA 2023 (best research paper)
 [<img width=20px src="art/pdf.png">](art/dsaa23.pdf)

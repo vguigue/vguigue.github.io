@@ -75,7 +75,7 @@ Fête de la science,  *Présentation des modèles de langue*<BR>
 Séminaire croisé ATOS/DELL, *Présentation des LLM en cinq tableaux* <BR>
 [Paris, 18 octobre 2023]
 
-Séminaire Innovation Technologique, *chatGPT: décryptage d'un algorithme*<BR>
+Mois de l'Innovation Publique - Séminaire Innovation Technologique, *chatGPT: décryptage d'un algorithme*<BR>
 [Lien vers les créations de facilitation graphique de Julie Boiveau](https://www.linkedin.com/posts/julie-boiveau-4a30ab6_dans-le-cadre-du-mois-de-linnovation-publique-activity-7134856924428169217-pz0j?utm_source=share&utm_medium=member_desktop)<BR>
 [Le visuel des explications autour des LLM](https://visions-du-monde.com/wp-content/uploads/sites/23372/2023/11/Chat_GPT_et_la_BnF-2048x1448.jpg) / 
 [Mon portrait :)](https://visions-du-monde.com/wp-content/uploads/sites/23372/2023/11/IMG_20231120_184446-1536x2048.jpg)

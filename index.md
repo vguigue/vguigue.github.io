@@ -83,7 +83,13 @@ Mois de l'Innovation Publique - Séminaire Innovation Technologique, *chatGPT: d
 [Bibliothèque Nationale de France, 20 novembre 2023]
 <BR>
 
-**Slides of the previous presentations [pdf](/pres/chatGPT-HR.pdf)**
+Séminaire Sorbonne-Université, faculté des sciences et de l'ingénierie : [lien](https://x.com/ISIR_labo/status/1737105758284661000?s=20)<BR>
+[Paris, 19 décembre 2023]
+
+IA génératives :  apports et  limites de leur utilisation en bioinformatique<BR>
+Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [lien](https://merit.cnrs.fr/journees-ia-generatives-et-animation-du-reseau-janvier-2024/)
+
+**Slides of the previous presentations [pdf](/pres/chatGPT-MERIT.pdf)**
 
 **LLM in 5 slides [pdf](/pres/LLM-tableaux.pdf)**
 

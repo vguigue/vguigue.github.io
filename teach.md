@@ -4,7 +4,7 @@
 
 ### Python 1A / App
 
-"""python
+```python
 def aff_tab_format(data, entete = None):
     if entete != None:
         data = [['-'*len(e) for e in entete], entete, ['-'*len(e) for e in entete]]+data
@@ -18,7 +18,7 @@ def aff_tab_format(data, entete = None):
 data = [("toto", "un texte plus long", 18), ("titt", "un texte plus court", 22)]
 print(aff_tab_format(data, ["col1", "col2", "col3"]))
 print(aff_tab_format(data))
-"""
+```
 
 **Python reminders, SQL bases** being able to program classical algorithm, avoid most traps and access data everywhere.
 

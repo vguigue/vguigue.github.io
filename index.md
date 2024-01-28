@@ -89,7 +89,11 @@ Séminaire Sorbonne-Université, faculté des sciences et de l'ingénierie : [li
 IA génératives :  apports et  limites de leur utilisation en bioinformatique<BR>
 Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [lien](https://merit.cnrs.fr/journees-ia-generatives-et-animation-du-reseau-janvier-2024/)
 
-**Slides of the previous presentations [pdf](/pres/chatGPT-MERIT.pdf)**
+L'intelligence artificielle générative, ChatGPT et les autres...<BR>
+Bibliothèque du Campus Agro Paris-Saclay, jeudi 25 janvier [lien](https://emedia.paris-saclay.fr/lives/cafe-discussion-lintelligence-artificielle-generative/)
+
+
+**Slides of the previous presentations [pdf](/pres/chatGPT-CaféAgro.pdf)**
 
 **LLM in 5 slides [pdf](/pres/LLM-tableaux.pdf)**
 

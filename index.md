@@ -19,6 +19,9 @@ Python reminders, SQL bases<BR>
 **Data-sciences:**
 Courses dedicated to the IODAA branch, AgroParisTech 3A.
 
+**Méthodologie de la recherche**
+[lien](methodo.md)
+
 
 ## Research: [link](publis.md)
 

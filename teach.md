@@ -4,8 +4,17 @@
 
 ### Python 1A / App
 
+Afficher un tableau avec le bon nombre de colonne
+
 ```python
 def aff_tab_format(data, entete = None):
+"""
+USAGE : aff_tab_format(data, entete = None)
+Affiche le tableau mis en forme
+In:
+    Data : liste de tuple (comme un résultat de requête)
+    Entête : liste contenant le nom des colonnes (argument optionnel)
+"""
     if entete != None:
         data = [['-'*len(e) for e in entete], entete, ['-'*len(e) for e in entete]]+data
     if len(data) == 0:
@@ -19,6 +28,37 @@ data = [("toto", "un texte plus long", 18), ("titt", "un texte plus court", 22)]
 print(aff_tab_format(data, ["col1", "col2", "col3"]))
 print(aff_tab_format(data))
 ```
+
+Afficher les fichiers présents dans un répertoire
+```python
+import os
+chemin = '../Data/Files/'
+liste = os.listdir(chemin)
+print(liste)
+print(liste[0])
+```
+
+Jouer avec les dates: exemple ajouter 2 semaines.
+
+ATTENTION: c'est assez dur !! Il faut utiliser les outils externes
+
+```python
+import datetime
+
+#1. Créer une date
+date = datetime.datetime(2023,10,22)
+print(date)
+datetime_str = "2022-10-22"
+date2 =  datetime.datetime.strptime(datetime_str, '%Y-%m-%d')
+print(date2)
+
+#2. ajouter un délai
+date = date + datetime.timedelta(weeks=4)
+
+print(date)
+
+```
+
 
 **Python reminders, SQL bases** being able to program classical algorithm, avoid most traps and access data everywhere.
 

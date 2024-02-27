@@ -46,6 +46,9 @@ Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57')
 Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
 [DARES, 12 septembre 2023]
 
+Interview *IA \& pédagogie, quels défis?*<BR>
+Réseau Racine ParisTech [lien](https://www.linkedin.com/feed/update/urn:li:activity:7165235927496265728/)
+
 
 ### Presentations on LLM/chatGPT (last version of the support at the end)
 Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>

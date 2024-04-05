@@ -49,6 +49,8 @@ Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle
 Interview *IA \& pédagogie, quels défis?*<BR>
 Réseau Racine ParisTech [lien](https://www.linkedin.com/feed/update/urn:li:activity:7165235927496265728/)
 
+*Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
+Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
 
 ### Presentations on LLM/chatGPT (last version of the support at the end)
 Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>

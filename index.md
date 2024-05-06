@@ -91,6 +91,9 @@ Mois de l'Innovation Publique - Séminaire Innovation Technologique, *chatGPT: d
 [Bibliothèque Nationale de France, 20 novembre 2023]
 <BR>
 
+Ateliers Statistiques de la Société Française de Statistique (SFdS) <BR> *Réseaux de neurones de l'analyse des séries temporelles* [lien](https://www.sfds.asso.fr/newsletter-1946-d9584b9fff274d624bb620da466e6fc0)<BR>
+[Paris, Institut Henri Poincaré, 24 novembre 2023] 
+
 Séminaire *ChatGPT décrypté*<BR>
 Sorbonne-Université, faculté des sciences et de l'ingénierie : [lien](https://x.com/ISIR_labo/status/1737105758284661000?s=20)<BR>
 [Paris, 19 décembre 2023]

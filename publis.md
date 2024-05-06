@@ -19,7 +19,6 @@ E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue, In DSAA 2023 (best research p
 D. Afchar, R. Hennequin, V. Guigue, In RecSys 2023 (Runner-up award)
 [<img width=20px src="art/pdf.png">](art/recsys23.pdf)
 * Leveraging multimodality for biodiversity data: Exploring joint representations of species descriptions and specimen images using clip, M. Sahraoui, Y. Sklab, M. Pignal, R. V. Lebbe, and V. Guigue In: Biodiversity Information Science and Standards 2023
-* Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
 * Dynamic Named Entity Recognition, 
 T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023 
 [<img width=20px src="art/pdf.png">](art/sac23.pdf)
@@ -36,7 +35,8 @@ L. Falissard, V. Guigue, L. Soulier. In CORIA 2023
 [<img width=20px src="art/pdf.png">](art/coria23-l.pdf)
 * Interpretable time series representation for classification purposes,
 E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue. In CAp 2023 [<img width=20px src="art/pdf.png">](art/cap23-l.pdf)
-
+* Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
+* Séminaire de la Société Française de Statistiques (SFdS): *Apprentissage par réseaux de neurones pour l'analyse des séries temporelles*, Vincent Guigue, [github](https://github.com/vguigue/TimeSeries)
 
 ### 2022
 
@@ -45,7 +45,7 @@ D Afchar, R Hennequin, V Guigue. In ISMIR 2022
  [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2207.11231)
 * Reconnaissance d’entitées nommées contextualisées
 T Luiggi, L Soulier, V Guigue, and A Baelde. In CAp 2022
-* Nearside : Structured knowledge extraction framework from species des- criptions
+* Nearside : Structured knowledge extraction framework from species descriptions
 M Sahraoui, M Pignal, R Vignes-Lebbe, and V Guigue. In Biodiversity Information Science and Standards, 2022. 
  [<img width=20px src="art/pdf.png">](art/biss22.pdf)
 * Apprentissage statistique pour les données temporelles, nouveaux horizons et applications industrielles.

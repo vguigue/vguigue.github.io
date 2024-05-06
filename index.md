@@ -40,14 +40,20 @@ Why is chatGPT often wrong? (France Culture, SuperFail, June 2023) [link, podcas
 Discussion on **AI definition**, AI act, EU commission (article 01net): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
 
 Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
+<BR>
+14 mai 2023
 
-Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)
+Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)<BR>
+[Bibliothèque Nationale de France, 20 juin 2023]
 
 Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
 [DARES, 12 septembre 2023]
 
+Ateliers Statistiques de la Société Française de Statistique (SFdS) <BR> *Réseaux de neurones de l'analyse des séries temporelles* [lien](https://www.sfds.asso.fr/newsletter-1946-d9584b9fff274d624bb620da466e6fc0)<BR>
+[Paris, Institut Henri Poincaré, 24 novembre 2023] 
+
 Interview *IA \& pédagogie, quels défis?*<BR>
-Réseau Racine ParisTech [lien](https://www.linkedin.com/feed/update/urn:li:activity:7165235927496265728/)
+Réseau Racine ParisTech, 8 février 2024 [lien](https://www.linkedin.com/feed/update/urn:li:activity:7165235927496265728/)
 
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
 Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
@@ -91,8 +97,6 @@ Mois de l'Innovation Publique - Séminaire Innovation Technologique, *chatGPT: d
 [Bibliothèque Nationale de France, 20 novembre 2023]
 <BR>
 
-Ateliers Statistiques de la Société Française de Statistique (SFdS) <BR> *Réseaux de neurones de l'analyse des séries temporelles* [lien](https://www.sfds.asso.fr/newsletter-1946-d9584b9fff274d624bb620da466e6fc0)<BR>
-[Paris, Institut Henri Poincaré, 24 novembre 2023] 
 
 Séminaire *ChatGPT décrypté*<BR>
 Sorbonne-Université, faculté des sciences et de l'ingénierie : [lien](https://x.com/ISIR_labo/status/1737105758284661000?s=20)<BR>

@@ -6,7 +6,7 @@
 * **[Best Paper]** LOCOST: State-Space Models for Long Document Abstractive Summarization. Le Bronnec, F., Duong, S., Ravaut, M., Allauzen, A., Chen, N. F., Guigue, V., Lumbreras, A., Soulier, L. & Gallinari, P. In E-ACL 2024. [<img width=20px src="art/pdf.png">](art/eacl24.pdf)
 * TimeFlow: An Implicit Neural Representation Approach for Continuous Time Series Modeling. Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In Workshop TS4H (Learning from Time Series for Health), ICLR 2024.
 * Modélisation du caractère séquentiel des repas pour améliorer la performance d'un système de recommandation alimentaire. Jacquet, N., Guigue, V., Manfredotti, C., Saïs, F., Dervaux, S., & Viappiani, P. (2024, January).  In Extraction et Gestion des Connaissances (EGC 2024). [<img width=20px src="art/pdf.png">](art/egc24.pdf)
-* Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissar, L., Guigue, V., & Soulier, L.; ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
+* Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissard, L., Guigue, V., & Soulier, L.; ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
 
 ### 2023
 

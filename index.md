@@ -58,6 +58,10 @@ Réseau Racine ParisTech, 8 février 2024 [lien](https://www.linkedin.com/feed/u
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
 Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
 
+Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumérique)<BR>
+Séminaire AgroParisTech, 27, 28 mai 2024
+
+
 ### Presentations on LLM/chatGPT (last version of the support at the end)
 Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
 [Séminaire DataIA, GS Économie & Management, 7 mars 2023]

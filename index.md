@@ -58,7 +58,7 @@ Réseau Racine ParisTech, 8 février 2024 [lien](https://www.linkedin.com/feed/u
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
 Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
 
-Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumérique)<BR>
+Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumérique.pdf)<BR>
 Séminaire AgroParisTech, 27, 28 mai 2024
 
 

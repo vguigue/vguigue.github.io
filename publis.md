@@ -8,6 +8,7 @@
 * Modélisation du caractère séquentiel des repas pour améliorer la performance d'un système de recommandation alimentaire. Jacquet, N., Guigue, V., Manfredotti, C., Saïs, F., Dervaux, S., & Viappiani, P. (2024, January).  In Extraction et Gestion des Connaissances (EGC 2024). [<img width=20px src="art/pdf.png">](art/egc24.pdf)
 * O-CALM: Augmentation du contexte hors ligne avec un gros modèle de langues pour la reconnaissance des entités nommées. Herserant, T., Luiggi, T., Tran, T., Guigue, V., Soulier, L. In CORIA 2024 [<img width=20px src="art/pdf.png">](art/coria24.pdf)
 * Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissard, L., Guigue, V., & Soulier, L.; In ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
+* Keynote: *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
 
 ### 2023
 

@@ -105,7 +105,6 @@ Mois de l'Innovation Publique - Séminaire Innovation Technologique, *chatGPT: d
 [Bibliothèque Nationale de France, 20 novembre 2023]
 <BR>
 
-
 Séminaire *ChatGPT décrypté*<BR>
 Sorbonne-Université, faculté des sciences et de l'ingénierie : [lien](https://x.com/ISIR_labo/status/1737105758284661000?s=20)<BR>
 [Paris, 19 décembre 2023]
@@ -116,6 +115,8 @@ Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [lien](htt
 Séminaire *L'intelligence artificielle générative, ChatGPT et les autres...*<BR>
 Bibliothèque du Campus Agro Paris-Saclay, jeudi 25 janvier [lien](https://emedia.paris-saclay.fr/lives/cafe-discussion-lintelligence-artificielle-generative/)
 
+Séminaire *De l'Intelligence Artificielle à chatGPT: Emergence de l'IA générative* [lien](https://www.universite-paris-saclay.fr/evenements/ia-generative-luniversite-paris-saclay) <BR>
+Journée IA générative : usages et compétences à l’Université Paris-Saclay, 5 Juin 2024 [pdf](/pres/IAgen-pedago.pdf)
 
 **Slides of the previous presentations [pdf](/pres/chatGPT-CaféAgro.pdf)**
 

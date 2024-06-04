@@ -63,6 +63,8 @@ Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 20
 Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumérique.pdf)<BR>
 Séminaire AgroParisTech, 27, 28 mai 2024
 
+*Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago-ps.pdf)<BR>
+Cycle de formation à la pédagogie des enseignants chercheurs des établissements du Sup du MASA, 4 juin 2024
 
 ### Presentations on LLM/chatGPT (last version of the support at the end)
 Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>

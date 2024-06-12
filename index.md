@@ -60,7 +60,7 @@ Réseau Racine ParisTech, 8 février 2024 [lien](https://www.linkedin.com/feed/u
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
 Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
 
-Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumérique.pdf)<BR>
+Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumerique.pdf)<BR>
 Séminaire AgroParisTech, 27, 28 mai 2024
 
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago-ps.pdf)<BR>
@@ -119,7 +119,7 @@ Séminaire *De l'Intelligence Artificielle à chatGPT: Emergence de l'IA génér
 Journée IA générative : usages et compétences à l’Université Paris-Saclay, 5 Juin 2024 [pdf](/pres/IAgen-pedago.pdf)
 
 
-Séminaire : *IA générative: fonctionnement et usage en pédagogie*  [pdf](/pres/JourneeIA-Agro) <BR>
+Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro) <BR>
 Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [programme](/resources/Programme_Journée.pdf)
 
 

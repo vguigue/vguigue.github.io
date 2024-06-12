@@ -118,6 +118,11 @@ Bibliothèque du Campus Agro Paris-Saclay, jeudi 25 janvier [lien](https://emedi
 Séminaire *De l'Intelligence Artificielle à chatGPT: Emergence de l'IA générative* [lien](https://www.universite-paris-saclay.fr/evenements/ia-generative-luniversite-paris-saclay) <BR>
 Journée IA générative : usages et compétences à l’Université Paris-Saclay, 5 Juin 2024 [pdf](/pres/IAgen-pedago.pdf)
 
+
+Séminaire : *IA générative: fonctionnement et usage en pédagogie*  [pdf](/pres/JourneeIA-Agro) <BR>
+Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [programme](/resources/Programme_Journée.pdf)
+
+
 **Slides of the previous presentations [pdf](/pres/chatGPT-CaféAgro.pdf)**
 
 **LLM in 5 slides [pdf](/pres/LLM-tableaux.pdf)**

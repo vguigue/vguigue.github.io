@@ -119,7 +119,7 @@ Séminaire *De l'Intelligence Artificielle à chatGPT: Emergence de l'IA génér
 Journée IA générative : usages et compétences à l’Université Paris-Saclay, 5 Juin 2024 [pdf](/pres/IAgen-pedago.pdf)
 
 
-Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro) <BR>
+Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro.pdf) <BR>
 Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [programme](/resources/Programme_Journée.pdf)
 
 

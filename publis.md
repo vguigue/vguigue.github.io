@@ -9,6 +9,8 @@
 * O-CALM: Augmentation du contexte hors ligne avec un gros modèle de langues pour la reconnaissance des entités nommées. Herserant, T., Luiggi, T., Tran, T., Guigue, V., Soulier, L. In CORIA 2024 [<img width=20px src="art/pdf.png">](art/coria24.pdf)
 * Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissard, L., Guigue, V., & Soulier, L.; In ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
 * **[Keynote]** *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
+* **[Keynote]** *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
+
 
 ### 2023
 

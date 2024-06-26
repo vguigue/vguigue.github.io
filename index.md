@@ -120,7 +120,8 @@ Journée IA générative : usages et compétences à l’Université Paris-Sacla
 
 
 Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro.pdf) <BR>
-Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [programme](/resources/Programme_Journée.pdf)
+Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [lien](https://infodoc.agroparistech.fr/index.php?lvl=cmspage&pageid=4&id_article=302),[lien vidéo](https://emedia.paris-saclay.fr/videos/intelligence-artificielle-et-pratiques-enseignantes/), [LinkedIn](https://www.linkedin.com/posts/johanna-boulanger-laforge_images-journ%C3%A9e-ia-agroparistech-activity-7207082783444209665-Gd2i?utm_source=share&utm_medium=member_desktop)
+
 
 
 **Slides of the previous presentations [pdf](/pres/chatGPT-CaféAgro.pdf)**

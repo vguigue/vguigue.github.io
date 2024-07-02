@@ -10,7 +10,7 @@
 * Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissard, L., Guigue, V., & Soulier, L.; In ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
 * **[Keynote]** *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
 * **[Keynote]** *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
-
+* Modélisation continue des séries temporelles pour l'imputation et la prévision avec des représentations neuronales implicites, Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In CAp 2024 [<img width=20px src="art/pdf.png">](art/tmlr24.pdf) [<img width=20px src="art/pdf.png">](art/pres-tmlr24.pdf)
 
 ### 2023
 

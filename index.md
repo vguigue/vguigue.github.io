@@ -12,6 +12,10 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 
 ## Teaching: [link](teach.md)
 
+Amphi 1A: *De l'Intelligence Artificielle aux modèles de langue: Réflexions algorithmiques* [lien](/pres/Agro1A-Intro-IA.pdf)
+
+
+
 **Python 1A / App:**
 Python reminders, SQL bases<BR>
 [Enoncé: *Jeu de la vie*](exoProg/gol.md)

@@ -10,7 +10,12 @@
 * Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissard, L., Guigue, V., & Soulier, L.; In ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
 * **[Keynote]** *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
 * **[Keynote]** *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
+* **[Summer School]** *Generative AI: Tools & Challenges*, in Pl@ntAgroEco Summer School 2024, 10 Juillet 2024, Montpellier
 * Modélisation continue des séries temporelles pour l'imputation et la prévision avec des représentations neuronales implicites, Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In CAp 2024 [<img width=20px src="art/pdf.png">](art/tmlr24.pdf) [<img width=20px src="art/pdf.png">](art/pres-tmlr24.pdf)
+* **[Keynote]** 7e Journées d'Animation Scientifique et 20 ans du Département Phase <BR>
+*Enjeux autour des approches d'IA Génératives*, 6 Novembre 2024, Poitiers [lien](https://jasphase2024.journees.inrae.fr)
+* **[Keynote]** LITISIADES, Journées du laboratoire LITIS<BR>
+*L'analyse des données textuelles à l'heure des modèles de langue* 14 Novembre 2024, Rouen
 
 ### 2023
 
@@ -39,7 +44,9 @@ L. Falissard, V. Guigue, L. Soulier. In CORIA 2023
 * Interpretable time series representation for classification purposes,
 E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue. In CAp 2023 [<img width=20px src="art/pdf.png">](art/cap23-l.pdf)
 * Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
-* Séminaire de la Société Française de Statistiques (SFdS): *Apprentissage par réseaux de neurones pour l'analyse des séries temporelles*, Vincent Guigue, [github](https://github.com/vguigue/TimeSeries)
+* Séminaire de la Société Française de Statistiques (SFdS): *Apprentissage par réseaux de neurones pour l'analyse des séries temporelles*, Vincent Guigue, [github](https://github.com/vguigue/TimeSeries) [lien](https://www.sfds.asso.fr/newsletter-1946-d9584b9fff274d624bb620da466e6fc0)<BR>
+[Paris, Institut Henri Poincaré, 24 novembre 2023] 
+ 
 
 ### 2022
 

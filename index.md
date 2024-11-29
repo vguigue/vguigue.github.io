@@ -119,19 +119,34 @@ Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 20
 Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumerique.pdf)<BR>
 Séminaire AgroParisTech, 27, 28 mai 2024
 
+*[Keynote]* *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
+
+
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago-ps.pdf)<BR>
 Cycle de formation à la pédagogie des enseignants chercheurs des établissements du Sup du MASA, 4 juin 2024
 
 Séminaire *De l'Intelligence Artificielle à chatGPT: Emergence de l'IA générative* [lien](https://www.universite-paris-saclay.fr/evenements/ia-generative-luniversite-paris-saclay) <BR>
 Journée IA générative : usages et compétences à l’Université Paris-Saclay, 5 Juin 2024 [pdf](/pres/IAgen-pedago.pdf)
 
+*[Keynote]* *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
+
 Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro.pdf) <BR>
 Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [lien](https://infodoc.agroparistech.fr/index.php?lvl=cmspage&pageid=4&id_article=302),[lien vidéo](https://emedia.paris-saclay.fr/videos/intelligence-artificielle-et-pratiques-enseignantes/), [LinkedIn](https://www.linkedin.com/posts/johanna-boulanger-laforge_images-journ%C3%A9e-ia-agroparistech-activity-7207082783444209665-Gd2i?utm_source=share&utm_medium=member_desktop)
 
+*[Summer School]* *Generative AI: Tools & Challenges*, in Pl@ntAgroEco Summer School 2024, 10 Juillet 2024, Montpellier
+
 Séminaire *De l'Intelligence Artificielle aux modèles de langue* <BR>
 ENSSIB *De l'intelligence artificielle dans la gestion documentaire* <BR>
-3 Ocotobre 2024 [LinkedIn+lien vidéo](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7249372461262114816/?midToken=AQGkPLTzbwQjiA&midSig=2DiSxYmzMRzrs1&trk=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta-null-4e9x1t~m20d3tg8~a3-null-null&eid=4e9x1t-m20d3tg8-a3)
+3 Octobre 2024 [LinkedIn+lien vidéo](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7249372461262114816/?midToken=AQGkPLTzbwQjiA&midSig=2DiSxYmzMRzrs1&trk=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta-null-4e9x1t~m20d3tg8~a3-null-null&eid=4e9x1t-m20d3tg8-a3)
 
+*[Keynote]* 7e Journées d'Animation Scientifique et 20 ans du Département Phase <BR>
+*Enjeux autour des approches d'IA Génératives*, 6 Novembre 2024, Poitiers [lien](https://jasphase2024.journees.inrae.fr)
+
+*[Keynote]* LITISIADES, Journées du laboratoire LITIS<BR>
+*L'analyse des données textuelles à l'heure des modèles de langue* 14 Novembre 2024, Rouen
+
+L'Edition, numéro 25, Journal de l'Université Paris-Saclay <BR>
+*IA  Générative. Ces algorithmes qui révolutionnent la création de contenus* [pdf](https://www.universite-paris-saclay.fr/wp-content/uploads/2024/11/edition_25_VF_web_BDef.pdf)[lien](https://www.calameo.com/read/0048003861ee389c3a3e3)
 
 Table ronde: *Les LLM ont-ils une conscience?*<BR>
 AgroParisTech, 18 novembre 2024 [pdf](/pres/chatGPT-conscience.pdf)

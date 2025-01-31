@@ -39,6 +39,8 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ## Misc / chatGPT / RecSys / genAI / ...
 
+### 2023
+
 An interview on chatGPT (France Culture, La Science CQFD, Feb 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
 
 Discussion on **AI definition**, AI act, EU commission (article 01net): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
@@ -59,6 +61,7 @@ Tout savoir sur le chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-s
 
 
 Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)<BR>
+Des systèmes de recommandation aux modèles de langue<BR>
 [Bibliothèque Nationale de France, 20 juin 2023]
 
 Séminaire *Pédagogie & IA générative*: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
@@ -102,6 +105,7 @@ Séminaire *ChatGPT décrypté*<BR>
 Sorbonne-Université, faculté des sciences et de l'ingénierie : [lien](https://x.com/ISIR_labo/status/1737105758284661000?s=20)<BR>
 [Paris, 19 décembre 2023]
 
+### 2024
 
 Séminaire *IA génératives :  apports et  limites de leur utilisation en bioinformatique*<BR>
 Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [lien](https://merit.cnrs.fr/journees-ia-generatives-et-animation-du-reseau-janvier-2024/)

@@ -4,7 +4,7 @@
 
 ### Python 1A / App
 
-Afficher un tableau avec le bon nombre de colonne
+Afficher un tableau avec le bon alignement des colonnes:
 
 ```python
 def aff_tab_format(data, entete = None):
@@ -36,6 +36,15 @@ chemin = '../Data/Files/'
 liste = os.listdir(chemin)
 print(liste)
 print(liste[0])
+
+# pour aller un peu plus loin (ne récupérer que les fichiers .txt)
+liste = [f for f in os.listdir(chemin) if ".txt" in f]
+
+# Parcourir les fichiers
+for f in liste:
+    nom_fichier = chemin+f
+    ...
+
 ```
 
 Jouer avec les dates: exemple ajouter 2 semaines.

@@ -37,7 +37,7 @@ A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 
-## Misc / chatGPT / RecSys / genAI / ...
+## Events / Talks / Misc ...
 
 ### 2025
 

@@ -67,6 +67,8 @@ date = date + datetime.timedelta(weeks=4)
 print(date)
 
 ```
+### Rappel sur le traitement de problématiques complexes
+
 
 
 **Python reminders, SQL bases** being able to program classical algorithm, avoid most traps and access data everywhere.

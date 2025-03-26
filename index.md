@@ -39,8 +39,30 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ## Misc / chatGPT / RecSys / genAI / ...
 
+### 2025
+
+Séminaire DATAIA <BR>
+ENS Paris-Saclay, 24 mars 2025 <BR>
+*L’IA générative à l'Université Paris-Saclay : un outil du quotidien pour les chercheur·euses !* [lien](https://www.dataia.eu/evenements/lia-generative-luniversite-paris-saclay-un-outil-du-quotidien-pour-les-chercheureuses)
+[pdf](/pres/dataia25.pdf)
+
+Séminaire: *Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations* <BR>
+Huawei Research Paris, 11 mars 2025 [pdf](/pres/huawei25.pdf)
+
+Séminaire de lancement du projet TwinFarms (PEPR)
+*Modélisation hybride: des approches mécanistes aux données* <BR>
+Institut des Systèmes Complexes, 6 mars 2025 [pdf](/pres/twin25.pdf)
+
+Séminaire *De la mécanique à l'agronomie: un chemin à travers le machine learning*<BR>
+Sorbonne Université, L3 Parcours sciences des données, 7 février 2025
+
+
+
 
 ### 2024
+
+Séminaire Digit-Bio (INRAe): Typologies des usages des LLM <BR>
+Lyon, 13 décembre 2025
 
 Séminaire du GDR RADIA <BR>
 Université de Paris, 5 décembre 2024 [pdf](/pres/RADIA.pdf)

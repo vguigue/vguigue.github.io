@@ -1,5 +1,13 @@
 # Papers with pdf :)
 
+### 2025
+
+* SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation. Duong, S., Le Bronnec, F., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., & Gallinari, P.  In ICLR 2025 [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2502.13674)
+* Towards Lighter and Robust Evaluation for Retrieval Augmented Generation. Ispas, A-R, Simon, C.E., Caspani, F., Guigue, V. . In ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI [<img width=20px src="art/pdf.png">](https://openreview.net/pdf?id=3XWwf65dFW)
+* Drought forecasting using a hybrid neural architecture for integrating time series and static data. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In ICLR 2025 Workshop: Tackling Climate Change with Machine Learning [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2504.05957)
+* Clarifying Ambiguities: On The Role of Ambiguity Types in Prompting Methods for Clarification Generation. Tang, A., Soulier, L., Guigue, V. In SIGIR 2025
+
+
 ### 2024
 
 * Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations. Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In TMLR 2024. [<img width=20px src="art/pdf.png">](art/tmlr24.pdf)

@@ -1,5 +1,5 @@
 
-| ![ma tête](/resources/vincentRed3.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://www6.inrae.fr/mia-paris), Mathématique et Informatique Appliquées <BR> Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> Affiliated [MLIA team](https://www.isir.upmc.fr/equipes/mlia/), ISIR lab, Sorbonne University <BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU |
+| ![ma tête](/resources/vincentRed3.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://www6.inrae.fr/mia-paris), Mathématique et Informatique Appliquées <BR> Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU |
 
 
 
@@ -40,6 +40,13 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 ## Events / Talks / Misc ...
 
 ### 2025
+
+Assemblée Générale AgroParisTech-Alumni : *IA Génératives: des outils et des défis* <BR>
+Paris, 10 avril 2025 [lien](https://www.aptalumni.org/agenda/assemblee-generale-agroparistech-alumni-2025-8284) [pdf](/pres/aptalumni25.pdf)
+
+Inauguration de DataIA Cluster : *Implicit Neural Representation* <BR>
+CentraleSupelec, 7 avril 2025 [lien](https://www.dataia.eu/actualites/inauguration-du-dataia-cluster)
+[pdf](/pres/dataia_cluster25.pdf)
 
 Séminaire DATAIA <BR>
 ENS Paris-Saclay, 24 mars 2025 <BR>

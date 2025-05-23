@@ -41,6 +41,18 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire IRT SystemX: *LLMs and faithfulness: from evaluation to optimization*<BR>
+Vendredi 23 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)
+
+Séminaire pédagogique, Institut Agro Montpellier:  De l'intelligence articielle aux modèles de langue <BR>
+Mardi 13 mai 2025, Montpellier [lien (slides+session pratique)](/tuto-LLM)
+
+Séminaire pédagogique, Ecole des Mines d'Alès:  De l'intelligence articielle aux modèles de langue <BR>
+Lundi 12 mai 2025, Ecole des Mines d'Alès [lien (slides+session pratique)](/tuto-LLM)
+
+Séminaire IPS2:  De l'intelligence articielle aux modèles de langue <BR>
+Lundi 28 avril 2025, Institute of Plant Science -- Paris-Saclay (IPS2) [lien (slides+session pratique)](/tuto-LLM)
+
 Assemblée Générale AgroParisTech-Alumni : *IA Génératives: des outils et des défis* <BR>
 Paris, 10 avril 2025 [lien](https://www.aptalumni.org/agenda/assemblee-generale-agroparistech-alumni-2025-8284) [pdf](/pres/aptalumni25.pdf)
 
@@ -60,7 +72,7 @@ Séminaire de lancement du projet TwinFarms (PEPR)
 *Modélisation hybride: des approches mécanistes aux données* <BR>
 Institut des Systèmes Complexes, 6 mars 2025 [pdf](/pres/twin25.pdf)
 
-Séminaire *De la mécanique à l'agronomie: un chemin à travers le machine learning*<BR>
+Séminaire d'ouverture *De la mécanique à l'agronomie: un chemin à travers le machine learning*<BR>
 Sorbonne Université, L3 Parcours sciences des données, 7 février 2025
 
 

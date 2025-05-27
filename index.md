@@ -39,7 +39,7 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ## Events / Talks / Misc ...
 
-### 2025
+### 2025w@
 
 Séminaire IRT SystemX: *LLMs and faithfulness: from evaluation to optimization*<BR>
 Vendredi 23 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)

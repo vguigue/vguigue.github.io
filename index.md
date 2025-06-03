@@ -39,16 +39,20 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ## Events / Talks / Misc ...
 
-### 2025w@
+### 2025
+
+Séminaire AgroParisTech: *Transition Numérique et Intelligence Artificielle*<BR>
+Vendredi 23 mai 2025, Ecole nationale supérieure de paysage de Versailles [pdf](/pres/Agro-Versailles.pdf); [évènement](https://www.linkedin.com/posts/agroparistech_s%C3%A9minaire-d%C3%A9tablissement-sur-le-th%C3%A8me-affirmer-activity-7333141291909738501-FT1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
+
 
 Séminaire IRT SystemX: *LLMs and faithfulness: from evaluation to optimization*<BR>
-Vendredi 23 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)
+Mardi 27 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)
 
 Séminaire pédagogique, Institut Agro Montpellier:  De l'intelligence articielle aux modèles de langue <BR>
 Mardi 13 mai 2025, Montpellier [lien (slides+session pratique)](/tuto-LLM)
 
 Séminaire pédagogique, Ecole des Mines d'Alès:  De l'intelligence articielle aux modèles de langue <BR>
-Lundi 12 mai 2025, Ecole des Mines d'Alès [lien (slides+session pratique)](/tuto-LLM)
+Lundi 12 mai 2025, Ecole des Mines d'Alès [lien (slides+session pratique)](/tuto-LLM); [évènement](https://www.linkedin.com/posts/mines-ales_lintelligence-artificielle-g%C3%A9n%C3%A9rative-iag-activity-7333513129328324608-HhUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
 
 Séminaire IPS2:  De l'intelligence articielle aux modèles de langue <BR>
 Lundi 28 avril 2025, Institute of Plant Science -- Paris-Saclay (IPS2) [lien (slides+session pratique)](/tuto-LLM)
@@ -62,8 +66,9 @@ CentraleSupelec, 7 avril 2025 [lien](https://www.dataia.eu/actualites/inaugurati
 
 Séminaire DATAIA <BR>
 ENS Paris-Saclay, 24 mars 2025 <BR>
-*L’IA générative à l'Université Paris-Saclay : un outil du quotidien pour les chercheur·euses !* [lien](https://www.dataia.eu/evenements/lia-generative-luniversite-paris-saclay-un-outil-du-quotidien-pour-les-chercheureuses)
-[pdf](/pres/dataia25.pdf)
+*L’IA générative à l'Université Paris-Saclay : un outil du quotidien pour les chercheur·euses !* [lien](https://www.dataia.eu/evenements/lia-generative-luniversite-paris-saclay-un-outil-du-quotidien-pour-les-chercheureuses);
+[pdf](/pres/dataia25.pdf);
+[video](https://youtu.be/C5_QdhjRsYs)
 
 Séminaire: *Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations* <BR>
 Huawei Research Paris, 11 mars 2025 [pdf](/pres/huawei25.pdf)

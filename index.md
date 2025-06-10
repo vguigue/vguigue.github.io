@@ -41,6 +41,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire *From Articificial Intelligence to Language Model*<BR>
+Jeudi 12 juin 2025, Archives Nationales, Grand Duché du Luxembourg  [pdf](/pres/ArchiveNat-Lux.pdf)
+
 Séminaire AgroParisTech: *Transition Numérique et Intelligence Artificielle*<BR>
 Vendredi 23 mai 2025, Ecole nationale supérieure de paysage de Versailles [pdf](/pres/Agro-Versailles.pdf); [évènement](https://www.linkedin.com/posts/agroparistech_s%C3%A9minaire-d%C3%A9tablissement-sur-le-th%C3%A8me-affirmer-activity-7333141291909738501-FT1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
 

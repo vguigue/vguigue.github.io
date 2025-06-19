@@ -7,6 +7,7 @@
 * Drought forecasting using a hybrid neural architecture for integrating time series and static data. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In ICLR 2025 Workshop: Tackling Climate Change with Machine Learning [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2504.05957)
 * Clarifying Ambiguities: On The Role of Ambiguity Types in Prompting Methods for Clarification Generation. Tang, A., Soulier, L., Guigue, V. In SIGIR 2025
 * Can AI accurately predict forage energy and protein values using chemical and textual data?; Tran, G., Genin, R., Lauront,  A., Petitet, M., Rubrice, R., Heuzé, V., Guigue, V., Cornuejols, A. ; Oral presentation, Conference on Artificial Intelligence 4 Animal Science 2025 [<img width=20px src="art/pdf.png">](art/ai4as25-resume.pdf); + rapport des étudiants [<img width=20px src="art/pdf.png">](art/AFZ25-filrouge.pdf)
+* Live fluorescence confocal imaging to study microbial interaction in multi-species biofilms;  Guéneau, V., Guillier, L. , Rubrice, R., Berdous, C., Ahmed, S., Cornuéjols, A., Guigue, V., Noirot-Gros, M.F., Serror, P., Castex, M.,  Bernardeau, M., Briandet, R.; Journée annuelle France BioImaging, Juin 2025 
 
 ### 2024
 

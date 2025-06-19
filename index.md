@@ -141,7 +141,7 @@ Bibliothèque du Campus Agro Paris-Saclay, jeudi 25 janvier [lien](https://emedi
 
 
 Séminaire *IA génératives :  apports et  limites de leur utilisation en bioinformatique*<BR>
-Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [lien](https://merit.cnrs.fr/journees-ia-generatives-et-animation-du-reseau-janvier-2024/)
+Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [pdf](/pres/IA-GEN-MERIT.pdf)[lien](https://merit.cnrs.fr/journees-ia-generatives-et-animation-du-reseau-janvier-2024/)
 
 
 ### 2023

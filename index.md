@@ -41,6 +41,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire *L'utilisation de l'IA dans le parcours scolaire, de la maternelle au lycée*<BR>
+Samedi 21 Juin,  61e Congrès Départemental FCPE 92 [pdf (français)](/pres/FCPE.pdf)
+
 Séminaire *From Articificial Intelligence to Language Model*<BR>
 Jeudi 12 juin 2025, Archives Nationales, Grand Duché du Luxembourg  [pdf](/pres/ArchiveNat-Lux.pdf)
 

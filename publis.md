@@ -6,13 +6,11 @@
 * Towards Lighter and Robust Evaluation for Retrieval Augmented Generation. Ispas, A-R, Simon, C.E., Caspani, F., Guigue, V. . In ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI [<img width=20px src="art/pdf.png">](https://openreview.net/pdf?id=3XWwf65dFW)
 * Drought forecasting using a hybrid neural architecture for integrating time series and static data. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In ICLR 2025 Workshop: Tackling Climate Change with Machine Learning [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2504.05957)
 * Clarifying Ambiguities: On The Role of Ambiguity Types in Prompting Methods for Clarification Generation. Tang, A., Soulier, L., Guigue, V. In SIGIR 2025
-
 * Clarification des Ambiguïtés : Sur le Rôle des Types d’Ambiguïté dans les Méthodes d’Amorçage pour la Génération de Clarifications. Tang, A., Soulier, L., Guigue, V. In CORIA 2025 [<img width=20px src="art/pdf.png">](art/coria25a.pdf)
 * SEval-ex : Un paradigme basé sur les phrases atomiques pour une évaluation explicable de la qualité des résumés. Herserant, T., Guigue, V. In CORIA 2025 [<img width=20px src="art/pdf.png">](art/coria25b.pdf)
 * SCOPE : un cadre d’entrainement auto-supervisé pour améliorer la fidélité dans la génération conditionnelle de texte. Le Bronnec, F., Duong, S., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., Gallinari, P. In TALN 2025 [<img width=20px src="art/pdf.png">](art/taln25a.pdf)
 * Prédiction des préférences et génération de revue personnalisée basées sur les aspects et attention.  Kabongo, B., Guigue, V., Lemberger, P. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25c.pdf)
 * Transfert de modèles de langue pour la classification rhétorique des citations à travers les disciplines. Foussat, A-S, Guigue, V.,  Sauvion, N.,  Bossy, R., Nédellec, C. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25d.pdf)
-
 * Can AI accurately predict forage energy and protein values using chemical and textual data?; Tran, G., Genin, R., Lauront,  A., Petitet, M., Rubrice, R., Heuzé, V., Guigue, V., Cornuejols, A. ; Oral presentation, Conference on Artificial Intelligence 4 Animal Science 2025 [<img width=20px src="art/pdf.png">](art/ai4as25-resume.pdf); + rapport des étudiants [<img width=20px src="art/pdf.png">](art/AFZ25-filrouge.pdf)
 * Live fluorescence confocal imaging to study microbial interaction in multi-species biofilms;  Guéneau, V., Guillier, L. , Rubrice, R., Berdous, C., Ahmed, S., Cornuéjols, A., Guigue, V., Noirot-Gros, M.F., Serror, P., Castex, M.,  Bernardeau, M., Briandet, R.; Journée annuelle France BioImaging, Juin 2025 
 

@@ -47,12 +47,12 @@ Samedi 21 Juin,  61e Congrès Départemental FCPE 92 [pdf (français)](/pres/FCP
 Séminaire *From Articificial Intelligence to Language Model*<BR>
 Jeudi 12 juin 2025, Archives Nationales, Grand Duché du Luxembourg  [pdf](/pres/ArchiveNat-Lux.pdf)
 
+Séminaire IRT SystemX: *LLMs and faithfulness: from evaluation to optimization*<BR>
+Mardi 27 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)
+
 Séminaire AgroParisTech: *Transition Numérique et Intelligence Artificielle*<BR>
 Vendredi 23 mai 2025, Ecole nationale supérieure de paysage de Versailles [pdf](/pres/Agro-Versailles.pdf); [évènement](https://www.linkedin.com/posts/agroparistech_s%C3%A9minaire-d%C3%A9tablissement-sur-le-th%C3%A8me-affirmer-activity-7333141291909738501-FT1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
 
-
-Séminaire IRT SystemX: *LLMs and faithfulness: from evaluation to optimization*<BR>
-Mardi 27 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)
 
 Séminaire pédagogique, Institut Agro Montpellier:  De l'intelligence articielle aux modèles de langue <BR>
 Mardi 13 mai 2025, Montpellier [lien (slides+session pratique)](/tuto-LLM)

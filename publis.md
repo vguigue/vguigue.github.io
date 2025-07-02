@@ -11,6 +11,14 @@
 * SCOPE : un cadre d’entrainement auto-supervisé pour améliorer la fidélité dans la génération conditionnelle de texte. Le Bronnec, F., Duong, S., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., Gallinari, P. In TALN 2025 [<img width=20px src="art/pdf.png">](art/taln25a.pdf)
 * Prédiction des préférences et génération de revue personnalisée basées sur les aspects et attention.  Kabongo, B., Guigue, V., Lemberger, P. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25c.pdf)
 * Transfert de modèles de langue pour la classification rhétorique des citations à travers les disciplines. Foussat, A-S, Guigue, V.,  Sauvion, N.,  Bossy, R., Nédellec, C. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25d.pdf)
+* Prévision de sécheresse en utilisant une architecture neuronale hybride intégrant
+des séries temporelles et des données statiques. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25a.pdf)
+* Génération séquentielle prenant en compte des informations contextuelles en
+nutrition. Combeau, A., Guigue, V., Manfredotti C., Sais, F., Viappiani, P.,
+Dervaux, S. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25b.pdf)
+* NutriKG - un graphe de connaissances pour modéliser les préférences et les
+besoins nutritionnels. Combeau, A., Sais, F., Dervaux, S., Kumari, N., Manfredotti, C.
+Guigue, V., Viappiani, P. In IC 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/ic25.pdf)
 * Can AI accurately predict forage energy and protein values using chemical and textual data?; Tran, G., Genin, R., Lauront,  A., Petitet, M., Rubrice, R., Heuzé, V., Guigue, V., Cornuejols, A. ; Oral presentation, Conference on Artificial Intelligence 4 Animal Science 2025 [<img width=20px src="art/pdf.png">](art/ai4as25-resume.pdf); + rapport des étudiants [<img width=20px src="art/pdf.png">](art/AFZ25-filrouge.pdf)
 * Live fluorescence confocal imaging to study microbial interaction in multi-species biofilms;  Guéneau, V., Guillier, L. , Rubrice, R., Berdous, C., Ahmed, S., Cornuéjols, A., Guigue, V., Noirot-Gros, M.F., Serror, P., Castex, M.,  Bernardeau, M., Briandet, R.; Journée annuelle France BioImaging, Juin 2025 
 

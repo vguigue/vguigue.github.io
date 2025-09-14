@@ -41,6 +41,15 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire/cours: *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
+AgroParisTech, Amphi B0.01 - 15 septembre 2025 [pdf](/pres/agro25.pdf)
+
+Podcast *Prédire la sécheresse : le pari de l’IA* C. Manfredotti & V. Guigue<BR>
+Site AgroParisTech, 14 septembre 2025 [lien]( https://www.agroparistech.fr/actualites/predire-secheresse-pari-lia)
+
+Présentation *un référentiel pour l'IA dans le département MathNum*<BR>
+Conseil Scientifique Mathnum, 11 septembre 2025 [pdf](/pres/mathnum25.pdf)
+
 Séminaire *L'utilisation de l'IA dans le parcours scolaire, de la maternelle au lycée*<BR>
 Samedi 21 Juin,  61e Congrès Départemental FCPE 92 [pdf (français)](/pres/FCPE.pdf)
 

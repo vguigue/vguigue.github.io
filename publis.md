@@ -9,7 +9,7 @@
 * Clarification des Ambiguïtés : Sur le Rôle des Types d’Ambiguïté dans les Méthodes d’Amorçage pour la Génération de Clarifications. Tang, A., Soulier, L., Guigue, V. In CORIA 2025 [<img width=20px src="art/pdf.png">](art/coria25a.pdf)
 * SEval-ex : Un paradigme basé sur les phrases atomiques pour une évaluation explicable de la qualité des résumés. Herserant, T., Guigue, V. In CORIA 2025 [<img width=20px src="art/pdf.png">](art/coria25b.pdf)
 * SCOPE : un cadre d’entrainement auto-supervisé pour améliorer la fidélité dans la génération conditionnelle de texte. Le Bronnec, F., Duong, S., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., Gallinari, P. In TALN 2025 [<img width=20px src="art/pdf.png">](art/taln25a.pdf)
-* Prédiction des préférences et génération de revue personnalisée basées sur les aspects et attention.  Kabongo, B., Guigue, V., Lemberger, P. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25c.pdf)
+* **[Best Paper]** Prédiction des préférences et génération de revue personnalisée basées sur les aspects et attention.  Kabongo, B., Guigue, V., Lemberger, P. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25c.pdf)
 * Transfert de modèles de langue pour la classification rhétorique des citations à travers les disciplines. Foussat, A-S, Guigue, V.,  Sauvion, N.,  Bossy, R., Nédellec, C. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25d.pdf)
 * Prévision de sécheresse en utilisant une architecture neuronale hybride intégrant
 des séries temporelles et des données statiques. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25a.pdf)

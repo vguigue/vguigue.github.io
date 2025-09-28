@@ -41,11 +41,17 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire Alimining *Fonctionnement des modèles de langue et exploitation sur des données alimentaires*<BR>
+Toulouse, 29 septembre 2025 [lien](https://alimining.sciencesconf.org) [pdf](/pres/Alimining25.pdf)
+
+Organisation et introduction de la Table Ronde: *Penser l’IA et les reconfigurations du travail*<BR>
+AgroParisTech, 25 septembre 2025 [lien vers le replay](https://emedia.paris-saclay.fr/videos/table_ronde_ia_25-09-25/)
+
 Séminaire/cours: *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
 AgroParisTech, Amphi B0.01 - 15 septembre 2025 [pdf](/pres/agro25.pdf)
 
 Podcast *Prédire la sécheresse : le pari de l’IA* C. Manfredotti & V. Guigue<BR>
-Site AgroParisTech, 14 septembre 2025 [lien]( https://www.agroparistech.fr/actualites/predire-secheresse-pari-lia)
+AgroParisTech, 14 septembre 2025 [lien]( https://www.agroparistech.fr/actualites/predire-secheresse-pari-lia)
 
 Présentation *un référentiel pour l'IA dans le département MathNum*<BR>
 Conseil Scientifique Mathnum, 11 septembre 2025 [pdf](/pres/mathnum25.pdf)

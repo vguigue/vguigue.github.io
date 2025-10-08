@@ -41,11 +41,20 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire ANF TDM-IA 2025 *Se former à la recherche d’information assistée par IA conversationnelle*<BR>
+Webinaire, CNRS / INRAe [lien](https://anf-tdm-ia-2025.sciencesconf.org/?lang=fr), [pdf](/pres/ANF-TDM25.pdf)
+
+Ecole d'automne ETLMIC *Ecole Thématique interdisciplinaire*<BR>
+Montpellier, Hameau de l'étoile [lien](https://etlmic.pages-forge.inrae.fr/web/), les cours et TP que j'ai donné avec **Rémy Decoupes** [lien](https://forge.inrae.fr/etlmic/theme-1)
+
 Séminaire Alimining *Fonctionnement des modèles de langue et exploitation sur des données alimentaires*<BR>
 Toulouse, 29 septembre 2025 [lien](https://alimining.sciencesconf.org) [pdf](/pres/Alimining25.pdf)
 
 Organisation et introduction de la Table Ronde: *Penser l’IA et les reconfigurations du travail*<BR>
 AgroParisTech, 25 septembre 2025 [lien vers le replay](https://emedia.paris-saclay.fr/videos/table_ronde_ia_25-09-25/)
+
+Présentation du projet TwinFarms<BR>
+Les Echos, 23 septembre 2025, [lien](https://www.lesechos.fr/idees-debats/sciences-prospective/les-jumeaux-numeriques-au-service-de-lagroecologie-le-pari-de-twinfarms-2187815)
 
 Séminaire/cours: *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
 AgroParisTech, Amphi B0.01 - 15 septembre 2025 [pdf](/pres/agro25.pdf)

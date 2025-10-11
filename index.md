@@ -10,18 +10,22 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 [My profile at Université Paris-Saclay](https://www.scoop.it/topic/life-sci-news-upsaclay/p/4142236891/2023/03/29/portrait-jeune-chercheur-vincent-guigue-professeur-en-informatique)
 
 
-## Teaching: [link](teach.md)
+## Teaching: 
 
-Amphi 1A: *De l'Intelligence Artificielle aux modèles de langue: Réflexions algorithmiques* [lien](/pres/Agro1A-Intro-IA.pdf)
-
+**Amphi 1A:** *Usage(s) de l'Intelligence Artificielle à AgroParisTech* [lien](/pres/agro25.pdf); [lien 2024](/pres/Agro1A-Intro-IA.pdf)
 
 
 **Python 1A / App:**
 Python reminders, SQL bases<BR>
 [Enoncé: *Jeu de la vie*](exoProg/gol.md)
 
-**Data-sciences:**
-Courses dedicated to the IODAA branch, AgroParisTech 3A.
+Trucs et astuces pour le projet, exercices supplémentaires: [link](teach.md)
+
+**Data-sciences:** (2A + 3A IODAA)
+* Introduction à `numpy` : la syntaxe, les premiers algorithmes, le gradient, etc. [lien](https://github.com/vguigue/tuto_numpy) 
+* Plongée dans les algorithmes et les protocoles du machine-learning `scikit-learn` : [lien](https://github.com/vguigue/tuto_sklearn)
+* Découvrir les architectures de deep-learning en `pytorch` : [lien](https://github.com/vguigue/tuto_deep_v2)
+* Introduction rapide au traitement automatique de la langue naturelle (TALN/NLP) : [lien](https://github.com/vguigue/tuto_TAL)
 
 **Méthodologie de la recherche**
 [lien](methodo.md)
@@ -42,15 +46,16 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 ### 2025
 
 Séminaire ANF TDM-IA 2025 *Se former à la recherche d’information assistée par IA conversationnelle*<BR>
-Webinaire, CNRS / INRAe [lien](https://anf-tdm-ia-2025.sciencesconf.org/?lang=fr), [pdf](/pres/ANF-TDM25.pdf)
+Webinaire, 8 octobre 2025: *Modèles de langue: usages et enjeux sociétaux*, CNRS / INRAe [lien](https://anf-tdm-ia-2025.sciencesconf.org/?lang=fr), [pdf](/pres/ANF-TDM25.pdf)
 
 Ecole d'automne ETLMIC *Ecole Thématique interdisciplinaire*<BR>
-Montpellier, Hameau de l'étoile [lien](https://etlmic.pages-forge.inrae.fr/web/), les cours et TP que j'ai donné avec **Rémy Decoupes** [lien](https://forge.inrae.fr/etlmic/theme-1)
+Montpellier, Hameau de l'étoile, 29 septembre-2 octobre 2025, [lien](https://etlmic.pages-forge.inrae.fr/web/),<BR> Les cours et TP que j'ai donné avec **Rémy Decoupes** [lien](https://forge.inrae.fr/etlmic/theme-1)
 
 Séminaire Alimining *Fonctionnement des modèles de langue et exploitation sur des données alimentaires*<BR>
 Toulouse, 29 septembre 2025 [lien](https://alimining.sciencesconf.org) [pdf](/pres/Alimining25.pdf)
 
 Organisation et introduction de la Table Ronde: *Penser l’IA et les reconfigurations du travail*<BR>
+Avec **Marie Benedetto-Meyer**, **Héloise Athéa**, **Grégory Verdugo**, **Thomas Heams** et **Cécile Blatrix**<BR>
 AgroParisTech, 25 septembre 2025 [lien vers le replay](https://emedia.paris-saclay.fr/videos/table_ronde_ia_25-09-25/)
 
 Présentation du projet TwinFarms<BR>
@@ -59,7 +64,7 @@ Les Echos, 23 septembre 2025, [lien](https://www.lesechos.fr/idees-debats/scienc
 Séminaire/cours: *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
 AgroParisTech, Amphi B0.01 - 15 septembre 2025 [pdf](/pres/agro25.pdf)
 
-Podcast *Prédire la sécheresse : le pari de l’IA* C. Manfredotti & V. Guigue<BR>
+Podcast *Prédire la sécheresse : le pari de l’IA* **C. Manfredotti** & V. Guigue<BR>
 AgroParisTech, 14 septembre 2025 [lien]( https://www.agroparistech.fr/actualites/predire-secheresse-pari-lia)
 
 Présentation *un référentiel pour l'IA dans le département MathNum*<BR>

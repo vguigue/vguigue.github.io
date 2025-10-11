@@ -27,6 +27,8 @@ Trucs et astuces pour le projet, exercices supplémentaires: [link](teach.md)
 * Découvrir les architectures de deep-learning en `pytorch` : [lien](https://github.com/vguigue/tuto_deep_v2)
 * Introduction rapide au traitement automatique de la langue naturelle (TALN/NLP) : [lien](https://github.com/vguigue/tuto_TAL)
 
+**Formation continue LLM** explorer les usages des modèles de langue [lien](/tuto-LLM)
+
 **Méthodologie de la recherche**
 [lien](methodo.md)
 
@@ -130,7 +132,7 @@ Table ronde: *Les LLM ont-ils une conscience?*<BR>
 AgroParisTech, 18 novembre 2024 [pdf](/pres/chatGPT-conscience.pdf)
 
 L'Edition, numéro 25, Journal de l'Université Paris-Saclay <BR>
-*IA  Générative. Ces algorithmes qui révolutionnent la création de contenus* [pdf](https://www.universite-paris-saclay.fr/wp-content/uploads/2024/11/edition_25_VF_web_BDef.pdf)[lien](https://www.calameo.com/read/0048003861ee389c3a3e3)
+*IA  Générative. Ces algorithmes qui révolutionnent la création de contenus* [pdf](https://www.universite-paris-saclay.fr/wp-content/uploads/2024/11/edition_25_VF_web_BDef.pdf), [lien](https://www.calameo.com/read/0048003861ee389c3a3e3)
 
 
 *[Keynote]* LITISIADES, Journées du laboratoire LITIS<BR>
@@ -146,7 +148,7 @@ ENSSIB *De l'intelligence artificielle dans la gestion documentaire* <BR>
 *[Summer School]* *Generative AI: Tools & Challenges*, in Pl@ntAgroEco Summer School 2024, 10 Juillet 2024, Montpellier
 
 Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro.pdf) <BR>
-Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [lien](https://infodoc.agroparistech.fr/index.php?lvl=cmspage&pageid=4&id_article=302),[lien vidéo](https://emedia.paris-saclay.fr/videos/intelligence-artificielle-et-pratiques-enseignantes/), [LinkedIn](https://www.linkedin.com/posts/johanna-boulanger-laforge_images-journ%C3%A9e-ia-agroparistech-activity-7207082783444209665-Gd2i?utm_source=share&utm_medium=member_desktop)
+Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [lien](https://infodoc.agroparistech.fr/index.php?lvl=cmspage&pageid=4&id_article=302), [lien vidéo](https://emedia.paris-saclay.fr/videos/intelligence-artificielle-et-pratiques-enseignantes/), [LinkedIn](https://www.linkedin.com/posts/johanna-boulanger-laforge_images-journ%C3%A9e-ia-agroparistech-activity-7207082783444209665-Gd2i?utm_source=share&utm_medium=member_desktop)
 
 *[Keynote]* *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
 

@@ -27,7 +27,7 @@ Trucs et astuces pour le projet, exercices supplémentaires: [link](teach.md)
 * Découvrir les architectures de deep-learning en `pytorch` : [lien](https://github.com/vguigue/tuto_deep_v2)
 * Introduction rapide au traitement automatique de la langue naturelle (TALN/NLP) : [lien](https://github.com/vguigue/tuto_TAL)
 
-**Formation continue LLM** explorer les usages des modèles de langue [lien](/tuto-LLM)
+**Formation continue LLM:** explorer les usages des modèles de langue [lien](/tuto-LLM)
 
 **Méthodologie de la recherche**
 [lien](methodo.md)
@@ -46,6 +46,13 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 ## Events / Talks / Misc ...
 
 ### 2025
+
+Séminaire de formation des personnels *Sensibilisation à l'IA*<BR>
+AgroParisTech, 16 octobre 2025 [pdf](pres/FC-Agro-25.pdf)
+
+Table ronde : *Futur de l'IA dans les domaines de l'agronomie et des biotechnologies : enjeux et questions*<BR>
+Académie d'Agriculture de France, 14 octobre 2025, Association Française des Biotechnologie Végétales (AFBV) [lien](https://www.biotechnologies-vegetales.com/colloque-2025-intelligence-artificielle-biotechnologies-agriculture/)
+
 
 Séminaire ANF TDM-IA 2025 *Se former à la recherche d’information assistée par IA conversationnelle*<BR>
 Webinaire, 8 octobre 2025: *Modèles de langue: usages et enjeux sociétaux*, CNRS / INRAe [lien](https://anf-tdm-ia-2025.sciencesconf.org/?lang=fr), [pdf](/pres/ANF-TDM25.pdf)
@@ -70,7 +77,7 @@ Podcast *Prédire la sécheresse : le pari de l’IA* **C. Manfredotti** & V. Gu
 AgroParisTech, 14 septembre 2025 [lien]( https://www.agroparistech.fr/actualites/predire-secheresse-pari-lia)
 
 Présentation *un référentiel pour l'IA dans le département MathNum*<BR>
-Conseil Scientifique Mathnum, 11 septembre 2025 [pdf](/pres/mathnum25.pdf)
+Conseil Scientifique Mathnum, INRAe, 11 septembre 2025 [pdf](/pres/mathnum25.pdf)
 
 Séminaire *L'utilisation de l'IA dans le parcours scolaire, de la maternelle au lycée*<BR>
 Samedi 21 Juin,  61e Congrès Départemental FCPE 92 [pdf (français)](/pres/FCPE.pdf)

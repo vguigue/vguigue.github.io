@@ -47,7 +47,7 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
-Séminaire *Journées d'Octobre de l'UPA: Enseigner l'IA, enseigner avec l'IA :\\ deux défis majeurs pour AgroParisTech* <BR>
+Séminaire *Journées d'Octobre de l'UPA: Enseigner l'IA, enseigner avec l'IA, deux défis majeurs pour AgroParisTech* <BR>
 ENS Paris, 21 Octobre 2025 [pdf](pres/UPA25.pdf)
 
 Séminaire de formation des personnels *Sensibilisation à l'IA*<BR>

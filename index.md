@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Table ronde *Les LLM ont-ils une conscience?*<BR>
+Semaine Athens, 17 novembre 2025 [pdf](pres/LLM-conscience-2025.pdf)
+
 Séminaire *Journées d'Octobre de l'UPA: Enseigner l'IA, enseigner avec l'IA, deux défis majeurs pour AgroParisTech* <BR>
 ENS Paris, 21 Octobre 2025 [pdf](pres/UPA25.pdf)
 

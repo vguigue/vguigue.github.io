@@ -1,7 +1,14 @@
 # Papers with pdf :)
 
+### 2026
+
+* Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In SAC 2026
+
+
 ### 2025
 
+* Enquête sur l’Intelligence Artificielle dans le Département MathNum : Référentiel, Positionnement et Dynamique. Frederick Garcia & Vincent Guigue. Rapport INRAe MathNum 2025.
+* ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations. Kabongo, B., Guigue, V., Lemberger, P. In RecSys 2025 Workshop on Evaluating and Applying Recommender Systems with Large Language Models. 2025 [<img width=20px src="art/pdf.png">](art/recsys25.pdf)
 * SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation. Duong, S., Le Bronnec, F., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., & Gallinari, P.  In ICLR 2025 [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2502.13674)
 * Towards Lighter and Robust Evaluation for Retrieval Augmented Generation. Ispas, A-R, Simon, C.E., Caspani, F., Guigue, V. . In ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI [<img width=20px src="art/pdf.png">](https://openreview.net/pdf?id=3XWwf65dFW)
 * Drought forecasting using a hybrid neural architecture for integrating time series and static data. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In ICLR 2025 Workshop: Tackling Climate Change with Machine Learning [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2504.05957)
@@ -13,12 +20,8 @@
 * Transfert de modèles de langue pour la classification rhétorique des citations à travers les disciplines. Foussat, A-S, Guigue, V.,  Sauvion, N.,  Bossy, R., Nédellec, C. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25d.pdf)
 * Prévision de sécheresse en utilisant une architecture neuronale hybride intégrant
 des séries temporelles et des données statiques. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25a.pdf)
-* Génération séquentielle prenant en compte des informations contextuelles en
-nutrition. Combeau, A., Guigue, V., Manfredotti C., Sais, F., Viappiani, P.,
-Dervaux, S. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25b.pdf)
-* NutriKG - un graphe de connaissances pour modéliser les préférences et les
-besoins nutritionnels. Combeau, A., Sais, F., Dervaux, S., Kumari, N., Manfredotti, C.
-Guigue, V., Viappiani, P. In IC 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/ic25.pdf)
+* Génération séquentielle prenant en compte des informations contextuelles en nutrition. Combeau, A., Guigue, V., Manfredotti C., Sais, F., Viappiani, P., Dervaux, S. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25b.pdf)
+* NutriKG - un graphe de connaissances pour modéliser les préférences et les besoins nutritionnels. Combeau, A., Sais, F., Dervaux, S., Kumari, N., Manfredotti, C. Guigue, V., Viappiani, P. In IC 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/ic25.pdf)
 * Can AI accurately predict forage energy and protein values using chemical and textual data?; Tran, G., Genin, R., Lauront,  A., Petitet, M., Rubrice, R., Heuzé, V., Guigue, V., Cornuejols, A. ; Oral presentation, Conference on Artificial Intelligence 4 Animal Science 2025 [<img width=20px src="art/pdf.png">](art/ai4as25-resume.pdf); + rapport des étudiants [<img width=20px src="art/pdf.png">](art/AFZ25-filrouge.pdf)
 * Live fluorescence confocal imaging to study microbial interaction in multi-species biofilms;  Guéneau, V., Guillier, L. , Rubrice, R., Berdous, C., Ahmed, S., Cornuéjols, A., Guigue, V., Noirot-Gros, M.F., Serror, P., Castex, M.,  Bernardeau, M., Briandet, R.; Journée annuelle France BioImaging, Juin 2025 
 

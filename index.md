@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Rapport INRAe MathNum: *Enquête sur l’Intelligence Artificielle dans le Département MathNum : Référentiel, Positionnement et Dynamique*<BR>
+Frederick Garcia & Vincent Guigue
+
 Table ronde *Les LLM ont-ils une conscience?*<BR>
 Semaine Athens, 17 novembre 2025 [pdf](pres/LLM-conscience-2025.pdf)
 

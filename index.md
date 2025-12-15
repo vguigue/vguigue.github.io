@@ -47,11 +47,14 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2025
 
+Séminaire *Nouvelles potentialités de l'IA Générative et de l'IA agentique* <BR>
+DU IA et santé, Paris-Saclay, 15 décembre 2025 [pdf](pres/IA-Sante-25.pdf)
+
 Rapport INRAe MathNum: *Enquête sur l’Intelligence Artificielle dans le Département MathNum : Référentiel, Positionnement et Dynamique*<BR>
 Frederick Garcia & Vincent Guigue
 
 Table ronde *Les LLM ont-ils une conscience?*<BR>
-Semaine Athens, 17 novembre 2025 [pdf](pres/LLM-conscience-2025.pdf)
+Semaine Athens, AgroParisTech, 17 novembre 2025 [pdf](pres/LLM-conscience-2025.pdf)
 
 Séminaire *Journées d'Octobre de l'UPA: Enseigner l'IA, enseigner avec l'IA, deux défis majeurs pour AgroParisTech* <BR>
 ENS Paris, 21 Octobre 2025 [pdf](pres/UPA25.pdf)
@@ -137,6 +140,9 @@ Sorbonne Université, L3 Parcours sciences des données, 7 février 2025
 
 
 ### 2024
+
+Séminaire *Nouvelles potentialités de l'IA Générative et des LLMs* <BR>
+DU IA et santé, Paris-Saclay, 16 décembre 2024
 
 Séminaire Digit-Bio (INRAe): Typologies des usages des LLM <BR>
 Lyon, 13 décembre 2025

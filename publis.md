@@ -3,6 +3,7 @@
 ### 2026
 
 * Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In SAC 2026
+* Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026
 
 
 ### 2025

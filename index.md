@@ -45,6 +45,11 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ## Events / Talks / Misc ...
 
+### 2026
+
+Séminaire *De l'Historique de l'IA aux usages modernes* <BR>
+Journée d'étude *Intelligence artificielle et mutations du travail : quels enjeux pour la formation et la professionnalisation ?*, CNAM, Paris, 16 janvier 2026 [pdf](pres/cnam-26.pdf)
+
 ### 2025
 
 Séminaire *Nouvelles potentialités de l'IA Générative et de l'IA agentique* <BR>

@@ -4,6 +4,7 @@
 
 * Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In SAC 2026
 * Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026
+* RAC: Retrieval-Augmented Clarification for Faithful Conversational Search. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: ECIR 2026
 
 
 ### 2025
@@ -25,6 +26,7 @@ des séries temporelles et des données statiques. Agudelo, J., Guigue, V., Manf
 * NutriKG - un graphe de connaissances pour modéliser les préférences et les besoins nutritionnels. Combeau, A., Sais, F., Dervaux, S., Kumari, N., Manfredotti, C. Guigue, V., Viappiani, P. In IC 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/ic25.pdf)
 * Can AI accurately predict forage energy and protein values using chemical and textual data?; Tran, G., Genin, R., Lauront,  A., Petitet, M., Rubrice, R., Heuzé, V., Guigue, V., Cornuejols, A. ; Oral presentation, Conference on Artificial Intelligence 4 Animal Science 2025 [<img width=20px src="art/pdf.png">](art/ai4as25-resume.pdf); + rapport des étudiants [<img width=20px src="art/pdf.png">](art/AFZ25-filrouge.pdf)
 * Live fluorescence confocal imaging to study microbial interaction in multi-species biofilms;  Guéneau, V., Guillier, L. , Rubrice, R., Berdous, C., Ahmed, S., Cornuéjols, A., Guigue, V., Noirot-Gros, M.F., Serror, P., Castex, M.,  Bernardeau, M., Briandet, R.; Journée annuelle France BioImaging, Juin 2025 
+* A machine learning framework for the prediction and analysis of bacterial antagonism in biofilms using morphological descriptors,  Rubrice, R., Guéneau, V., Briandet, R., Cornuéjols, A., Guigue, V., Artificial Intelligence in the Life Sciences, Elsevier 2025 [<img width=20px src="art/pdf.png">](https://www.sciencedirect.com/science/article/pii/S2667318525000133/pdfft?md5=ff68c612ae453aec4b42c1661258c284&pid=1-s2.0-S2667318525000133-main.pdf)
 
 ### 2024
 

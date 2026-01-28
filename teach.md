@@ -2,9 +2,64 @@
 
 # Teaching
 
-### Python 1A / App
+## Python 1A / App
 
-Afficher un tableau avec le bon alignement des colonnes:
+#### Fonction de lecture de fichier (.txt, .csv, ...) & usage
+un peu plus générale que celle utilisée dans les TP précédents
+
+```python
+def fichier2list(fichier):
+    """
+    USAGE : fichier2list(fichier)
+    lit le fichier et retourne le contenu sous la forme de matrice
+    In:
+        fichier : chemin d'accès au fichier
+    Out:
+        matrice des données
+    """
+
+    fichier = open(fichier,"r")     # ouverture du fichier
+                                    # on ne s'occupe pas de l'entête
+    
+    data = fichier.readlines()      # lecture du fichier
+    liste_data = []
+    for ligne in data:
+        ligne = ligne.replace('\n', '') # suppression du saut de ligne
+        ligne = ligne.split('\t') # on coupe sur les tabulations...
+        # ligne = ligne.split() # pour vétérinaire => tous les séparateurs
+        liste_data.append(ligne)
+    
+    fichier.close()
+
+    return liste_data
+```
+
+Usage
+```python
+# définition du chemin vers le fichier à lire
+chemin = "../Data/Files/monFichier.txt
+""" Par exemple:
+titre	Superman		
+date de sortie	10/12/1978		
+acteurs			
+nom	prenom	web	role
+Brando	Marlon	marlonbrando.com	Jor-El
+"""
+info = fichier2list(chemin)
+print(info)
+"""
+Contenu de info:
+info = [["titre", "Superman"], ["date de sortie", "10/12/1978"], ["acteur"],["nom", "prenom", "web", "role"], ...]
+"""
+# accéder à la date:
+info[1][1] # 2e ligne, 2e colonne
+# combien de lignes?
+print(len(info))
+```
+
+#### Afficher un tableau avec le bon alignement des colonnes:
+
+Ce n'est pas simple: il faut d'abord savoir combien de caractères réserver pour chaque colonne puis lancer l'affichage
 
 ```python
 def aff_tab_format(data, entete = None):
@@ -13,13 +68,14 @@ USAGE : aff_tab_format(data, entete = None)
 Affiche le tableau mis en forme
 In:
     Data : liste de tuple (comme un résultat de requête)
-    Entête : liste contenant le nom des colonnes (argument optionnel)
+    Entête : liste contenant le nom des colonnes 
+            (argument optionnel, mais ça fait plus joli)
 """
     if entete != None:
         data = [['-'*len(e) for e in entete], entete, ['-'*len(e) for e in entete]]+data
     if len(data) == 0:
         return ""
-    # largeur des colonnes
+    # largeur des colonnes (plus longue séquence à afficher dans la colonne)
     larg = [max([len(str(data[i][e])) for i in range(len(data))]) for e in range(len(data[0]))] 
     ret = "\n".join(' '.join("{:{width}s} ".format(str(ligne[c]), width=larg[c] ) for c in range(len(data[0]))) for ligne in data)
     return ret
@@ -29,10 +85,15 @@ print(aff_tab_format(data, ["col1", "col2", "col3"]))
 print(aff_tab_format(data))
 ```
 
-Afficher les fichiers présents dans un répertoire
+#### Afficher les fichiers présents dans un répertoire
+
+Si vous êtes capable de traiter un fichier du projet (e.g. ```test.txt```), il est très simple de traiter tous les fichiers du répertoire:
+
 ```python
 import os
 chemin = '../Data/Files/'
+
+# explication générale du fonctionnement
 liste = os.listdir(chemin)
 print(liste)
 print(liste[0])
@@ -47,7 +108,7 @@ for f in liste:
 
 ```
 
-Jouer avec les dates: exemple ajouter 2 semaines.
+#### Jouer avec les dates: exemple ajouter 2 semaines.
 
 ATTENTION: c'est assez dur !! Il faut utiliser les outils externes
 

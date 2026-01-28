@@ -56,7 +56,7 @@ Séminaire *Nouvelles potentialités de l'IA Générative et de l'IA agentique* 
 DU IA et santé, Paris-Saclay, 15 décembre 2025 [pdf](pres/IA-Sante-25.pdf)
 
 Rapport INRAe MathNum: *Enquête sur l’Intelligence Artificielle dans le Département MathNum : Référentiel, Positionnement et Dynamique*<BR>
-Frederick Garcia & Vincent Guigue
+**Frederick Garcia** & Vincent Guigue
 
 Table ronde *Les LLM ont-ils une conscience?*<BR>
 Semaine Athens, AgroParisTech, 17 novembre 2025 [pdf](pres/LLM-conscience-2025.pdf)

@@ -37,7 +37,7 @@ def fichier2list(fichier):
 Usage
 ```python
 # définition du chemin vers le fichier à lire
-chemin = "../Data/Files/monFichier.txt
+chemin = "../Data/Files/monFichier.txt"
 """ Par exemple:
 titre	Superman		
 date de sortie	10/12/1978		
@@ -63,21 +63,24 @@ Ce n'est pas simple: il faut d'abord savoir combien de caractères réserver pou
 
 ```python
 def aff_tab_format(data, entete = None):
-"""
-USAGE : aff_tab_format(data, entete = None)
-Affiche le tableau mis en forme
-In:
-    Data : liste de tuple (comme un résultat de requête)
-    Entête : liste contenant le nom des colonnes 
-            (argument optionnel, mais ça fait plus joli)
-"""
+    """
+    USAGE : aff_tab_format(data, entete = None)
+    Affiche le tableau mis en forme
+    In:
+        Data : liste de tuple (comme un résultat de requête)
+        Entête : liste contenant le nom des colonnes 
+                (argument optionnel, mais ça fait plus joli)
+    """
     if entete != None:
-        data = [['-'*len(e) for e in entete], entete, ['-'*len(e) for e in entete]]+data
+        data = [['-'*len(e) for e in entete], entete,\
+            ['-'*len(e) for e in entete]]+data
     if len(data) == 0:
         return ""
     # largeur des colonnes (plus longue séquence à afficher dans la colonne)
-    larg = [max([len(str(data[i][e])) for i in range(len(data))]) for e in range(len(data[0]))] 
-    ret = "\n".join(' '.join("{:{width}s} ".format(str(ligne[c]), width=larg[c] ) for c in range(len(data[0]))) for ligne in data)
+    larg = [max([len(str(data[i][e])) for i in range(len(data))])\
+         for e in range(len(data[0]))] 
+    ret = "\n".join(' '.join("{:{width}s} ".format(str(ligne[c]), width=larg[c] )\
+         for c in range(len(data[0]))) for ligne in data)
     return ret
 
 data = [("toto", "un texte plus long", 18), ("titt", "un texte plus court", 22)]

@@ -4,6 +4,8 @@
 
 ## Python 1A / App
 
+[lien vers le formulaire d'évaluation (en version beta)](eval_python.md)
+
 #### Fonction de lecture de fichier (.txt, .csv, ...) & usage
 un peu plus générale que celle utilisée dans les TP précédents
 
@@ -155,4 +157,5 @@ Courses dedicated to the IODAA branch, AgroParisTech 3A.
 Seminar on appied machine learning
 * Recommender Systems: [link](https://github.com/vguigue/reco_2019)
 * Time series: TBD
+
 

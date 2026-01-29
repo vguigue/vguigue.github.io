@@ -1,3 +1,4 @@
+# Grandes lignes de l'évaluation du projet python (dans mes groupes)
 
 En général, je me retrouve avec des notes A=>E ou ++ => -- ... Ou une note sur 20. Sur chacun des points suivants
 

@@ -47,6 +47,11 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Séminaire AFTAA *L'IA révolutionne la nutrition animale :de la théorie à l'action !* <BR>
+*Techniques d’IA, Données et Connaissances d’Experts dans le projet AI4Diet* <BR>
+Nantes, Cité des congrès, AFTAA [pdf](pres/aftaa-26.pdf) [lien](https://extranet.aftaa.org/agenda/l-utilisation-de-l-intelligence-artificielle-ia-dans-les-metiers-de-la-nutrition-animale-1615934)
+
+
 Séminaire *De l'Historique de l'IA aux usages modernes* <BR>
 Journée d'étude *Intelligence artificielle et mutations du travail : quels enjeux pour la formation et la professionnalisation ?*, CNAM, Paris, 16 janvier 2026 [lien](https://foap.cnam.fr/laboratoire/agenda-scientifique/intelligence-artificielle-et-mutations-du-travail-quels-enjeux-pour-la-formation-et-la-professionnalisation--1590166.kjsp?RH=1426594940363) [pdf](pres/cnam-26.pdf)
 

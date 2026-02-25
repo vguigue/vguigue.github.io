@@ -1,5 +1,5 @@
 
-| ![ma tête](/resources/vincentRed3.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://www6.inrae.fr/mia-paris), Mathématique et Informatique Appliquées <BR> Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU |
+| ![ma tête](/resources/Vincent4r.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://www6.inrae.fr/mia-paris), Mathématique et Informatique Appliquées <BR> Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU <BR> mail : vincent.guigue@agroparistech.fr <BR> tel: (+33) 1 89 10 09 79 |
 
 
 
@@ -47,9 +47,12 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Journal Club, ED ABIES *LLM + Research: Questions about usages & ethics*<BR>
+AgroParisTech, 23 février 2026, [pdf](pres/abies-26.pdf)
+
 Séminaire AFTAA *L'IA révolutionne la nutrition animale :de la théorie à l'action !* <BR>
 *Techniques d’IA, Données et Connaissances d’Experts dans le projet AI4Diet* <BR>
-Nantes, Cité des congrès, AFTAA [pdf](pres/aftaa-26.pdf) [lien](https://extranet.aftaa.org/agenda/l-utilisation-de-l-intelligence-artificielle-ia-dans-les-metiers-de-la-nutrition-animale-1615934)
+Nantes, Cité des congrès, AFTAA, 12 Février 2026 [pdf](pres/aftaa-26.pdf) [lien](https://extranet.aftaa.org/agenda/l-utilisation-de-l-intelligence-artificielle-ia-dans-les-metiers-de-la-nutrition-animale-1615934)
 
 
 Séminaire *De l'Historique de l'IA aux usages modernes* <BR>
@@ -142,6 +145,9 @@ Huawei Research Paris, 11 mars 2025 [pdf](/pres/huawei25.pdf)
 Séminaire de lancement du projet TwinFarms (PEPR)
 *Modélisation hybride: des approches mécanistes aux données* <BR>
 Institut des Systèmes Complexes, 6 mars 2025 [pdf](/pres/twin25.pdf)
+
+Journal Club Ecole Doctorale ABIES *Discussion sur l'usage des LLM en Recherche* <BR>
+AgroParisTech, 10 février 2025
 
 Séminaire d'ouverture *De la mécanique à l'agronomie: un chemin à travers le machine learning*<BR>
 Sorbonne Université, L3 Parcours sciences des données, 7 février 2025

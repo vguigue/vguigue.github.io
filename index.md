@@ -47,12 +47,12 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
-Journal Club, ED ABIES *LLM + Research: Questions about usages & ethics*<BR>
+Journal Club, ED ABIES : *LLM + Research: Questions about usages & ethics*<BR>
 AgroParisTech, 23 février 2026, [pdf](pres/abies-26.pdf)
 
-Séminaire AFTAA *L'IA révolutionne la nutrition animale :de la théorie à l'action !* <BR>
+Séminaire AFTAA : *L'IA révolutionne la nutrition animale :de la théorie à l'action !* <BR>
 *Techniques d’IA, Données et Connaissances d’Experts dans le projet AI4Diet* <BR>
-Nantes, Cité des congrès, AFTAA, 12 Février 2026 [pdf](pres/aftaa-26.pdf) [lien](https://extranet.aftaa.org/agenda/l-utilisation-de-l-intelligence-artificielle-ia-dans-les-metiers-de-la-nutrition-animale-1615934)
+Nantes, Cité des congrès, 12 Février 2026 [pdf](pres/aftaa-26.pdf) [lien](https://extranet.aftaa.org/agenda/l-utilisation-de-l-intelligence-artificielle-ia-dans-les-metiers-de-la-nutrition-animale-1615934)
 
 
 Séminaire *De l'Historique de l'IA aux usages modernes* <BR>

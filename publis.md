@@ -2,6 +2,7 @@
 
 ### 2026
 
+* On the Factual Consistency of Text-based Explainable Recommendation Models. Kabongo, B., Guigue, V. PAKDD 2026 [<img width=20px src="art/pdf.png">](art/pakdd26.pdf)
 * Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In SAC 2026
 * Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026
 * RAC: Retrieval-Augmented Clarification for Faithful Conversational Search. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: ECIR 2026

@@ -49,7 +49,7 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 Séminaire *La synthèse d’écritures et de dossiers : promesses, risques et usages maîtrisés du résumé automatique pour la justice* <BR>
 Avec **Karen Pinel-Sauvagnat** <BR>
-Institut Robert Badinter, 17 Mars 2026, Paris , [pdf](pres/irb-26.pdf)
+Institut Robert Badinter, 17 Mars 2026, Paris , [lien](https://institutrobertbadinter.fr/fr/evenements/cycle-datelier-decoder-lia-la-synthese-decritures-et-de-dossiers/), [pdf](pres/irb-26.pdf)
 
 Journal Club, ED ABIES : *LLM + Research: Questions about usages & ethics*<BR>
 AgroParisTech, 23 février 2026, [pdf](pres/abies-26.pdf)

@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Conférence Maths en Jeans *Les chatbots vus de l'intérieur* <BR>
+AgroParisTech, 27 mars 2026 [pdf](pres/MathsEnJeans-26.pdf)
+
 Séminaire *La synthèse d’écritures et de dossiers : promesses, risques et usages maîtrisés du résumé automatique pour la justice* <BR>
 Avec **Karen Pinel-Sauvagnat** <BR>
 Institut Robert Badinter, 17 Mars 2026, Paris , [lien](https://institutrobertbadinter.fr/fr/evenements/cycle-datelier-decoder-lia-la-synthese-decritures-et-de-dossiers/), [pdf](pres/irb-26.pdf)

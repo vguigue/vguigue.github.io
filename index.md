@@ -48,7 +48,7 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 ### 2026
 
 Conférence Maths en Jeans *Les chatbots vus de l'intérieur* <BR>
-AgroParisTech, 27 mars 2026 [pdf](pres/MathsEnJeans-26.pdf)
+AgroParisTech, 27 mars 2026 [lien](https://mathenjeans.fr/Congres2026/Palaiseau), [pdf](pres/MathsEnJeans-26.pdf)
 
 Séminaire *La synthèse d’écritures et de dossiers : promesses, risques et usages maîtrisés du résumé automatique pour la justice* <BR>
 Avec **Karen Pinel-Sauvagnat** <BR>

@@ -27,7 +27,7 @@ Trucs et astuces pour le projet, exercices supplémentaires: [link](teach.md)
 * Découvrir les architectures de deep-learning en `pytorch` : [lien](https://github.com/vguigue/tuto_deep_v2)
 * Introduction rapide au traitement automatique de la langue naturelle (TALN/NLP) : [lien](https://github.com/vguigue/tuto_TAL)
 
-**Formation continue LLM:** explorer les usages des modèles de langue [lien](/tuto-LLM)
+**Formation continue LLM:** explorer les usages des modèles de langue [lien](/LLM-26)
 
 **Méthodologie de la recherche**
 [lien](methodo.md)
@@ -47,8 +47,8 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
-Conférence Maths en Jeans *Les chatbots vus de l'intérieur* <BR>
-AgroParisTech, 27 mars 2026 [lien](https://mathenjeans.fr/Congres2026/Palaiseau), [pdf](pres/MathsEnJeans-26.pdf)
+Séminaire national Maths en Jeans. Conférence (orientée lycée): *Les chatbots vus de l'intérieur* <BR>
+AgroParisTech, 27 mars 2026, [lien](https://mathenjeans.fr/Congres2026/Palaiseau), [pdf](pres/MathsEnJeans-26.pdf)
 
 Séminaire *La synthèse d’écritures et de dossiers : promesses, risques et usages maîtrisés du résumé automatique pour la justice* <BR>
 Avec **Karen Pinel-Sauvagnat** <BR>
@@ -125,13 +125,13 @@ Vendredi 23 mai 2025, Ecole nationale supérieure de paysage de Versailles [pdf]
 
 
 Séminaire pédagogique, Institut Agro Montpellier:  De l'intelligence articielle aux modèles de langue <BR>
-Mardi 13 mai 2025, Montpellier [lien (slides+session pratique)](/tuto-LLM)
+Mardi 13 mai 2025, Montpellier [lien (slides+session pratique)](/LLM-26)
 
 Séminaire pédagogique, Ecole des Mines d'Alès:  De l'intelligence articielle aux modèles de langue <BR>
-Lundi 12 mai 2025, Ecole des Mines d'Alès [lien (slides+session pratique)](/tuto-LLM); [évènement](https://www.linkedin.com/posts/mines-ales_lintelligence-artificielle-g%C3%A9n%C3%A9rative-iag-activity-7333513129328324608-HhUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
+Lundi 12 mai 2025, Ecole des Mines d'Alès [lien (slides+session pratique)](/LLM-26); [évènement](https://www.linkedin.com/posts/mines-ales_lintelligence-artificielle-g%C3%A9n%C3%A9rative-iag-activity-7333513129328324608-HhUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
 
 Séminaire IPS2:  De l'intelligence articielle aux modèles de langue <BR>
-Lundi 28 avril 2025, Institute of Plant Science -- Paris-Saclay (IPS2) [lien (slides+session pratique)](/tuto-LLM)
+Lundi 28 avril 2025, Institute of Plant Science -- Paris-Saclay (IPS2) [lien (slides+session pratique)](/LLM-26)
 
 Assemblée Générale AgroParisTech-Alumni : *IA Génératives: des outils et des défis* <BR>
 Paris, 10 avril 2025 [lien](https://www.aptalumni.org/agenda/assemblee-generale-agroparistech-alumni-2025-8284) [pdf](/pres/aptalumni25.pdf)

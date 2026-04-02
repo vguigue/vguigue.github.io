@@ -47,6 +47,10 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Séminaire M1 BIPA *Introduction aux IAs Génératives: fonctionnement, usage et reflexion éthique*<BR>
+AgroParisTech, 1 avril 2026, [lien (support et exercices)](vguigue.github.io/LLM-26)
+
+
 Séminaire national Maths en Jeans. Conférence (orientée lycée): *Les chatbots vus de l'intérieur* <BR>
 AgroParisTech, 27 mars 2026, [lien](https://mathenjeans.fr/Congres2026/Palaiseau), [pdf](pres/MathsEnJeans-26.pdf)
 

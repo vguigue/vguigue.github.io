@@ -47,6 +47,10 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+*Convergence Of Research in Digital Agriculture Leading Labs*<BR>
+Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield <BR>
+CORDiALL, Montpellier, April 15 2026, [web](https://cordiall.sciencesconf.org/resource/page/id/9), [pres](pres/cordiall-26.pdf)
+
 Séminaire M1 BIPA *Introduction aux IAs Génératives: fonctionnement, usage et reflexion éthique*<BR>
 AgroParisTech, 1 avril 2026, [lien (support et exercices)](vguigue.github.io/LLM-26)
 
@@ -214,6 +218,9 @@ Séminaire AgroParisTech, 27, 28 mai 2024
 
 *Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
 Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
+
+Séminaire *Le fonctionnement des chatBots*<BR>
+Lycée Pierre Gilles de Gennes, Paris, 13 mars 2024
 
 Interview *IA \& pédagogie, quels défis?*<BR>
 Réseau Racine ParisTech, 8 février 2024 [lien](https://www.linkedin.com/feed/update/urn:li:activity:7165235927496265728/)

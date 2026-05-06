@@ -6,7 +6,12 @@
 * Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In SAC 2026
 * Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026
 * RAC: Retrieval-Augmented Clarification for Faithful Conversational Search. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: ECIR 2026
-
+* Modélisation Substitutive de la Croissance des Cultures par Apprentissage Profond Guidé par la Physique. Agudelo, J., Guigue, V., Manfredotti, C., Lutton, E., Piot, H. In: CAp 2026
+* Sim-to-Real Transfer with Asymmetric Temporal Supervision Using Alignment on an INR based architecture. Agudelo, J., Guigue, V., Manfredotti, C., Lutton, E., Piot, H. In: CAp 2026
+* RAC : Clarification Augmentée par la Recherche pour une Recherche Conversationnelle Fidèle. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: CORIA 2026
+* DQE : Génération de données diversifiées par agents pour le question-réponse sur tables. Mouravieff, R., Herserant, T., Satouf, A., Boubacar, H.A., Piantanida, P., Guigue, V., Lamprier, S., Piwowarski, B. In: CORIA 2026
+* Classer, Ne Pas Générer : Classement d'Énoncés pour la Recommendation Explicable. Kabongo, B., Satouf, A., Guigue, V. In: CORIA 2026
+* Sur la Cohérence Factuelle des Modèles de Recommendation Explicables fondés sur le Texte. Kabongo, B., Guigue, V. In: CORIA 2026
 
 ### 2025
 

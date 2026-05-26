@@ -2,6 +2,7 @@
 
 ### 2026
 
+* NutriKG: A Knowledge Graph for Explainable and Adaptive Food Recommendation. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In: KES 2026
 * Improving ammonia emission predictions with dynamic machine learning models, A Favrot, S Génermont, V Guigue, C Décuq, D Makowski. In: EGUsphere 2026 [<img width=20px src="art/pdf.png">](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2404/egusphere-2026-2404.pdf)
 * On the Factual Consistency of Text-based Explainable Recommendation Models. Kabongo, B., Guigue, V. In: PAKDD 2026 [<img width=20px src="art/pdf.png">](art/pakdd26.pdf)
 * Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In: SAC 2026

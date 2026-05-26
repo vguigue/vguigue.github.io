@@ -47,9 +47,12 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Réunion de lancement PEPR Agroécologie et Numérique. Projet AI4Diet<BR>
+Introduction aux outils de machine-learning [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-IntroIA.pdf)<BR>
+Présentation du WP3 [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-WP3.pdf)
+
 CELESTE at CIRM: Workshop on Mathematical Statistics and Learning *LLMs for Research: How They Work, Uses, and Limitations*<BR>
 CIRM, Marseille campus de Luminy, May 22, 2026 [link](vguigue.github.io/LLM-26)
-
 
 *Convergence Of Research in Digital Agriculture Leading Labs*<BR>
 Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield <BR>

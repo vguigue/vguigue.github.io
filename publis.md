@@ -2,9 +2,10 @@
 
 ### 2026
 
-* On the Factual Consistency of Text-based Explainable Recommendation Models. Kabongo, B., Guigue, V. PAKDD 2026 [<img width=20px src="art/pdf.png">](art/pakdd26.pdf)
-* Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In SAC 2026
-* Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026
+* Improving ammonia emission predictions with dynamic machine learning models, A Favrot, S Génermont, V Guigue, C Décuq, D Makowski. In: EGUsphere 2026 [<img width=20px src="art/pdf.png">](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2404/egusphere-2026-2404.pdf)
+* On the Factual Consistency of Text-based Explainable Recommendation Models. Kabongo, B., Guigue, V. In: PAKDD 2026 [<img width=20px src="art/pdf.png">](art/pakdd26.pdf)
+* Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In: SAC 2026
+* Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026 [web](https://cordiall.sciencesconf.org/resource/page/id/9), [<img width=20px src="art/pdf.png">](pres/cordiall-26.pdf)
 * RAC: Retrieval-Augmented Clarification for Faithful Conversational Search. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: ECIR 2026
 * Modélisation Substitutive de la Croissance des Cultures par Apprentissage Profond Guidé par la Physique. Agudelo, J., Guigue, V., Manfredotti, C., Lutton, E., Piot, H. In: CAp 2026
 * Sim-to-Real Transfer with Asymmetric Temporal Supervision Using Alignment on an INR based architecture. Agudelo, J., Guigue, V., Manfredotti, C., Lutton, E., Piot, H. In: CAp 2026

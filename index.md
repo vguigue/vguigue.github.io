@@ -47,6 +47,10 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+*Artificial Intelligence, Research & Labor Market Transformation*<BR>
+Séminaire Doc'Avenir, ED ABIES, Palaiseau 11 juin 2026 [pdf](pres/doc-avenir26.pdf)
+
+
 PEPR Agroécologie et Numérique. *Réunion de lancement  du projet AI4Diet*<BR>
 Introduction aux outils de machine-learning [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-IntroIA.pdf)<BR>
 Présentation du WP3 [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-WP3.pdf)<BR>

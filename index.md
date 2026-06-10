@@ -46,10 +46,11 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 ## Events / Talks / Misc ...
 
 ### 2026
+*On the Factual Consistency of Text-based Explainable Recommendation Models*, B. Kabongo and V. Guigue PAKDD 2026,<BR>
+June 10th 2026, Hong-Kong [pdf](pres/4C-669-Kabong-PAKDD_On_Factual_Explainable_Recommendation.pdf)
 
 *Artificial Intelligence, Research & Labor Market Transformation*<BR>
 Séminaire Doc'Avenir, ED ABIES, Palaiseau 11 juin 2026 [pdf](pres/doc-avenir26.pdf)
-
 
 PEPR Agroécologie et Numérique. *Réunion de lancement  du projet AI4Diet*<BR>
 Introduction aux outils de machine-learning [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-IntroIA.pdf)<BR>

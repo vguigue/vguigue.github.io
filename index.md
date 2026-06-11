@@ -46,6 +46,7 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 ## Events / Talks / Misc ...
 
 ### 2026
+
 *On the Factual Consistency of Text-based Explainable Recommendation Models*, B. Kabongo and V. Guigue PAKDD 2026,<BR>
 June 10th 2026, Hong-Kong [pdf](pres/4C-669-Kabong-PAKDD_On_Factual_Explainable_Recommendation.pdf)
 

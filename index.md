@@ -47,6 +47,10 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Atelier IA et pédagogie pour la formation des formateurs - *Impact de l’IA - impacts écologiques, biais et droit* <BR>
+Table ronde animée avec Nicolas Sabouret et Aurélie Névéol<BR>
+Lumen, Saclay, 17 Juin 2026 - [lien](https://www.dataia.eu/index.php/evenements/ia-et-pedagogie-pour-la-formation-des-formateurs)
+
 *On the Factual Consistency of Text-based Explainable Recommendation Models*, B. Kabongo and V. Guigue PAKDD 2026,<BR>
 June 10th 2026, Hong-Kong [pdf](pres/4C-669-Kabong-PAKDD_On_Factual_Explainable_Recommendation.pdf)
 

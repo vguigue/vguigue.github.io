@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Séminaire *Panorama de l'IA & réflexions sur les impacts en recherche*<BR>
+Assemblée générale du département AlimH, Sainte Marie en Ré, 24 juin 2026 - [pdf](pres/alimh26.pdf)
+
 Atelier IA et pédagogie pour la formation des formateurs - *Impact de l’IA - impacts écologiques, biais et droit* <BR>
 Table ronde co-animée avec **Nicolas Sabouret** et **Aurélie Névéol**<BR>
 Lumen, Saclay, 17 Juin 2026 - [lien](https://www.dataia.eu/index.php/evenements/ia-et-pedagogie-pour-la-formation-des-formateurs)

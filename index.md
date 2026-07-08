@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Présentation  *Système multi-agents pour la génération de données d'entraînement pour le TableQA* <BR>
+CORA-TALN 2026, Nantes [présentation](pres/pres-coria26), [poster](pres/poster-dqe), [site](https://coria-taln-2026.ls2n.fr)
+
 Séminaire *Panorama de l'IA & réflexions sur les impacts en recherche*<BR>
 Assises du département AlimH, Sainte Marie en Ré, 24 juin 2026 - [pdf](pres/alimh26.pdf)
 

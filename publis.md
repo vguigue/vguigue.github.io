@@ -14,6 +14,8 @@
 * DQE : Génération de données diversifiées par agents pour le question-réponse sur tables. Mouravieff, R., Herserant, T., Satouf, A., Boubacar, H.A., Piantanida, P., Guigue, V., Lamprier, S., Piwowarski, B. In: CORIA 2026
 * Classer, Ne Pas Générer : Classement d'Énoncés pour la Recommendation Explicable. Kabongo, B., Satouf, A., Guigue, V. In: CORIA 2026
 * Sur la Cohérence Factuelle des Modèles de Recommendation Explicables fondés sur le Texte. Kabongo, B., Guigue, V. In: CORIA 2026
+* Rank, Don't Generate: Statement-level Ranking for Explainable Recommendation.  Kabongo, B., Satouf, A., Guigue, V. In: ICTIR (SIGIR) 2026 [lien](https://doi.org/10.1145/3805713.3820414)
+* Semantic Space Search Trajectory Networks. Agudelo, J., Tonda, A., Ochoa, G., Guigue, V., Manfredotti, C., Lutton, E. In: Artificial Evolution (EA) 2026.
 
 ### 2025
 

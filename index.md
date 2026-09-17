@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Présentation *Fonctionnement et usages des modèles de langage* <BR>
+Séminaire CIRAD *L’IA pour les Sciences et l’Agriculture au Sud*, 17 septembre 2026 [pdf](pres/cirad-26.pdf)
+
 Présentation  *Système multi-agents pour la génération de données d'entraînement pour le TableQA* <BR>
 CORA-TALN 2026, Nantes [présentation](pres/pres-coria26), [poster](pres/poster-dqe), [site](https://coria-taln-2026.ls2n.fr)
 

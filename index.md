@@ -1,5 +1,5 @@
 
-| ![ma tête](/resources/Vincent4rr.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://www6.inrae.fr/mia-paris), Mathématique et Informatique Appliquées <BR> Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU <BR> Mail : vincent.guigue/at/agroparistech.fr <BR> Tel: (+33) 1 89 10 09 79 |
+| ![ma tête](/resources/Vincent4rr.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://mia-ps.inrae.fr), Mathématique et Informatique Appliquées <BR> INRAe dpt [MathNum](https://www.inrae.fr/departements/mathnum)<BR>Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU <BR> Mail : vincent.guigue/at/agroparistech.fr <BR> Tel: (+33) 1 89 10 09 79 |
 
 
 
@@ -47,8 +47,12 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Présentation *Artificial intelligence and microbiology : Which tools for which applications, and at what cost ?* <BR>
+Séminaire MICALIS *La lutte contre l'antibiorésistance à l'ère de l'IA*<BR>
+Jouy-en-Josas, 23 Septembre 2026 [pdf](pres/micalis-26.pdf)
+
 Présentation *Fonctionnement et usages des modèles de langage* <BR>
-Séminaire CIRAD *L’IA pour les Sciences et l’Agriculture au Sud*, 17 septembre 2026 [pdf](pres/cirad-26.pdf)
+Séminaire CIRAD *L’IA pour les Sciences et l’Agriculture au Sud*,<BR>Montpellier, 17 septembre 2026 [pdf](pres/cirad-26.pdf)
 
 Présentation  *Système multi-agents pour la génération de données d'entraînement pour le TableQA* <BR>
 CORA-TALN 2026, Nantes [présentation](pres/pres-coria26), [poster](pres/poster-dqe), [site](https://coria-taln-2026.ls2n.fr)

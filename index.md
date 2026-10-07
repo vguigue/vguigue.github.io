@@ -47,6 +47,9 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Séminaire *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
+Présentation aux 1A, AgroParisTech, 7 septembre 2026 [pdf](pres/Agro1A-Intro-IA-26.pdf)
+
 Présentation *Artificial intelligence and microbiology : Which tools for which applications, and at what cost ?* <BR>
 Séminaire MICALIS *La lutte contre l'antibiorésistance à l'ère de l'IA*<BR>
 Jouy-en-Josas, 23 Septembre 2026 [pdf](pres/micalis-26.pdf)

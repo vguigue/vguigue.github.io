@@ -47,6 +47,12 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 ### 2026
 
+Ecole d'automne ETLMIC *Des modèles de langue à l'extraction d'information*<BR>
+Saint Affrique, 26-30 Octobre 2026 [pdf](pres/ETLMIC-26.pdf) [site](https://etlmic.pages-forge.inrae.fr/web/)
+
+Advanced courses, Lifelong learning *Unsupervised Learning* <BR>
+Sorbonne University Abu Dhabi (SUAD), October 19th-22nd, 2026
+
 Séminaire *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
 Présentation aux 1A, AgroParisTech, 7 septembre 2026 [pdf](pres/Agro1A-Intro-IA-26.pdf)
 

@@ -5,6 +5,10 @@ La programmation objet est aujourd'hui le paradigme le plus répendu pour dével
 Les bases de la programmation objet en python sont données par de multiples tutriels existants sur le web, par exemple: [link](https://courspython.com/classes-et-objets.html)
 
 
+## Jeu de la vie
+
+[link](exoProg/gol.md)
+
 ## Niveau basique
 
 Follow the lady: [link](exoProg/follow.md)

@@ -54,12 +54,20 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-default-layout (0.2.1)
+      jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-optional-front-matter (0.3.4)
+      jekyll (>= 3.0, < 5.0)
+    jekyll-relative-links (0.9.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
+    jekyll-titles-from-headings (0.5.7)
+      jekyll (>= 3.3, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.6.3)
@@ -140,7 +148,11 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.0)
+  jekyll-default-layout
+  jekyll-optional-front-matter
+  jekyll-relative-links
   jekyll-theme-cayman!
+  jekyll-titles-from-headings
   minima
   rubocop-github (~> 0.16)
   w3c_validators (~> 1.3)

@@ -1,5 +1,93 @@
 # Papers with pdf :)
 
+### 2026
+
+* NutriKG: A Knowledge Graph for Explainable and Adaptive Food Recommendation. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In: KES 2026
+* Improving ammonia emission predictions with dynamic machine learning models, A Favrot, S Génermont, V Guigue, C Décuq, D Makowski. In: EGUsphere 2026 [<img width=20px src="art/pdf.png">](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2404/egusphere-2026-2404.pdf)
+* On the Factual Consistency of Text-based Explainable Recommendation Models. Kabongo, B., Guigue, V. In: PAKDD 2026 [<img width=20px src="art/pdf.png">](art/pakdd26.pdf)
+* Personalized Sequence Generation in Food Recommender Systems. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In: SAC 2026
+* Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CORDIALL - Convergence Of Research in Digital Agriculture Leading Labs, 2026 [web](https://cordiall.sciencesconf.org/resource/page/id/9), [<img width=20px src="art/pdf.png">](pres/cordiall-26.pdf)
+* RAC: Retrieval-Augmented Clarification for Faithful Conversational Search. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: ECIR 2026
+* Modélisation Substitutive de la Croissance des Cultures par Apprentissage Profond Guidé par la Physique. Agudelo, J., Guigue, V., Manfredotti, C., Lutton, E., Piot, H. In: CAp 2026
+* Sim-to-Real Transfer with Asymmetric Temporal Supervision Using Alignment on an INR based architecture. Agudelo, J., Guigue, V., Manfredotti, C., Lutton, E., Piot, H. In: CAp 2026
+* RAC : Clarification Augmentée par la Recherche pour une Recherche Conversationnelle Fidèle. Kebir, A.R., Guigue, V., Said Lhadj, L. and Soulier, L. In: CORIA 2026
+* DQE : Génération de données diversifiées par agents pour le question-réponse sur tables. Mouravieff, R., Herserant, T., Satouf, A., Boubacar, H.A., Piantanida, P., Guigue, V., Lamprier, S., Piwowarski, B. In: CORIA 2026
+* Classer, Ne Pas Générer : Classement d'Énoncés pour la Recommendation Explicable. Kabongo, B., Satouf, A., Guigue, V. In: CORIA 2026
+* Sur la Cohérence Factuelle des Modèles de Recommendation Explicables fondés sur le Texte. Kabongo, B., Guigue, V. In: CORIA 2026
+* Rank, Don't Generate: Statement-level Ranking for Explainable Recommendation.  Kabongo, B., Satouf, A., Guigue, V. In: ICTIR (SIGIR) 2026 [lien](https://doi.org/10.1145/3805713.3820414)
+* Semantic Space Search Trajectory Networks. Agudelo, J., Tonda, A., Ochoa, G., Guigue, V., Manfredotti, C., Lutton, E. In: Artificial Evolution (EA) 2026.
+
+### 2025
+
+* Enquête sur l’Intelligence Artificielle dans le Département MathNum : Référentiel, Positionnement et Dynamique. Frederick Garcia & Vincent Guigue. Rapport INRAe MathNum 2025.
+* ELIXIR: Efficient and LIghtweight model for eXplaIning Recommendations. Kabongo, B., Guigue, V., Lemberger, P. In RecSys 2025 Workshop on Evaluating and Applying Recommender Systems with Large Language Models. 2025 [<img width=20px src="art/pdf.png">](art/recsys25.pdf)
+* SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation. Duong, S., Le Bronnec, F., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., & Gallinari, P.  In ICLR 2025 [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2502.13674)
+* Towards Lighter and Robust Evaluation for Retrieval Augmented Generation. Ispas, A-R, Simon, C.E., Caspani, F., Guigue, V. . In ICLR 2025 Workshop: Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI [<img width=20px src="art/pdf.png">](https://openreview.net/pdf?id=3XWwf65dFW)
+* Drought forecasting using a hybrid neural architecture for integrating time series and static data. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In ICLR 2025 Workshop: Tackling Climate Change with Machine Learning [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2504.05957)
+* Clarifying Ambiguities: On The Role of Ambiguity Types in Prompting Methods for Clarification Generation. Tang, A., Soulier, L., Guigue, V. In SIGIR 2025
+* Clarification des Ambiguïtés : Sur le Rôle des Types d’Ambiguïté dans les Méthodes d’Amorçage pour la Génération de Clarifications. Tang, A., Soulier, L., Guigue, V. In CORIA 2025 [<img width=20px src="art/pdf.png">](art/coria25a.pdf)
+* SEval-ex : Un paradigme basé sur les phrases atomiques pour une évaluation explicable de la qualité des résumés. Herserant, T., Guigue, V. In CORIA 2025 [<img width=20px src="art/pdf.png">](art/coria25b.pdf)
+* SCOPE : un cadre d’entrainement auto-supervisé pour améliorer la fidélité dans la génération conditionnelle de texte. Le Bronnec, F., Duong, S., Allauzen, A., Guigue, V., Lumbreras, A., Soulier, L., Gallinari, P. In TALN 2025 [<img width=20px src="art/pdf.png">](art/taln25a.pdf)
+* **[Best Paper]** Prédiction des préférences et génération de revue personnalisée basées sur les aspects et attention.  Kabongo, B., Guigue, V., Lemberger, P. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25c.pdf)
+* Transfert de modèles de langue pour la classification rhétorique des citations à travers les disciplines. Foussat, A-S, Guigue, V.,  Sauvion, N.,  Bossy, R., Nédellec, C. In CORIA 25 [<img width=20px src="art/pdf.png">](art/coria25d.pdf)
+* Prévision de sécheresse en utilisant une architecture neuronale hybride intégrant
+des séries temporelles et des données statiques. Agudelo, J., Guigue, V., Manfredotti, C., Piot, H. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25a.pdf)
+* Génération séquentielle prenant en compte des informations contextuelles en nutrition. Combeau, A., Guigue, V., Manfredotti C., Sais, F., Viappiani, P., Dervaux, S. In CAp 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/cap25b.pdf)
+* NutriKG - un graphe de connaissances pour modéliser les préférences et les besoins nutritionnels. Combeau, A., Sais, F., Dervaux, S., Kumari, N., Manfredotti, C. Guigue, V., Viappiani, P. In IC 2025 (PFIA) [<img width=20px src="art/pdf.png">](art/ic25.pdf)
+* Can AI accurately predict forage energy and protein values using chemical and textual data?; Tran, G., Genin, R., Lauront,  A., Petitet, M., Rubrice, R., Heuzé, V., Guigue, V., Cornuejols, A. ; Oral presentation, Conference on Artificial Intelligence 4 Animal Science 2025 [<img width=20px src="art/pdf.png">](art/ai4as25-resume.pdf); + rapport des étudiants [<img width=20px src="art/pdf.png">](art/AFZ25-filrouge.pdf)
+* Live fluorescence confocal imaging to study microbial interaction in multi-species biofilms;  Guéneau, V., Guillier, L. , Rubrice, R., Berdous, C., Ahmed, S., Cornuéjols, A., Guigue, V., Noirot-Gros, M.F., Serror, P., Castex, M.,  Bernardeau, M., Briandet, R.; Journée annuelle France BioImaging, Juin 2025 
+* A machine learning framework for the prediction and analysis of bacterial antagonism in biofilms using morphological descriptors,  Rubrice, R., Guéneau, V., Briandet, R., Cornuéjols, A., Guigue, V., Artificial Intelligence in the Life Sciences, Elsevier 2025 [<img width=20px src="art/pdf.png">](https://www.sciencedirect.com/science/article/pii/S2667318525000133/pdfft?md5=ff68c612ae453aec4b42c1661258c284&pid=1-s2.0-S2667318525000133-main.pdf)
+
+### 2024
+
+* Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations. Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In TMLR 2024. [<img width=20px src="art/pdf.png">](art/tmlr24.pdf)
+* **[Best Paper]** LOCOST: State-Space Models for Long Document Abstractive Summarization. Le Bronnec, F., Duong, S., Ravaut, M., Allauzen, A., Chen, N. F., Guigue, V., Lumbreras, A., Soulier, L. & Gallinari, P. In E-ACL 2024. [<img width=20px src="art/pdf.png">](art/eacl24.pdf)
+* CALM: Context Augmentation with Large Language Model for Named Entity Recognition. Herserant, T., Luiggi, T., Tran, T., Guigue, V., Soulier, L. In TPDL 2024 [<img width=20px src="art/pdf.png">](art/tpdl24.pdf)
+* TimeFlow: An Implicit Neural Representation Approach for Continuous Time Series Modeling. Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In Workshop TS4H (Learning from Time Series for Health), ICLR 2024. [<img width=20px src="art/pdf.png">](art/iclr-w24.pdf)
+* Clarification des ambiguïtés : sur le rôle des facteurs divers dans les systèmes de recherche de dialogue proactifs. Anfu Tang, Laure Soulier, Vincent Guigue. In: Journée Accès interactif à l’information 2024 [<img width=20px src="art/pdf.png">](art/jaii24.pdf)
+* Modélisation du caractère séquentiel des repas pour améliorer la performance d'un système de recommandation alimentaire. Jacquet, N., Guigue, V., Manfredotti, C., Saïs, F., Dervaux, S., & Viappiani, P. (2024, January).  In Extraction et Gestion des Connaissances (EGC 2024). [<img width=20px src="art/pdf.png">](art/egc24.pdf)
+* O-CALM: Augmentation du contexte hors ligne avec un gros modèle de langues pour la reconnaissance des entités nommées. Herserant, T., Luiggi, T., Tran, T., Guigue, V., Soulier, L. In CORIA 2024 [<img width=20px src="art/pdf.png">](art/coria24.pdf)
+* Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering. Erbacher, P., Falissard, L., Guigue, V., & Soulier, L.; In ECIR 2024 [<img width=20px src="art/pdf.png">](art/ecir24.pdf)
+* Modélisation continue des séries temporelles pour l'imputation et la prévision avec des représentations neuronales implicites, Le Naour, E., Serrano, L., Migus, L., Yin, Y., Agoua, G., Baskiotis, N., Gallinari, P., Guigue, V. In CAp 2024 [<img width=20px src="art/pdf.png">](art/tmlr24.pdf) [<img width=20px src="art/pdf.png">](art/pres-tmlr24.pdf)
+* *[Keynote]* *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
+* *[Keynote]* *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
+* *[Summer School]* *Generative AI: Tools & Challenges*, in Pl@ntAgroEco Summer School 2024, 10 Juillet 2024, Montpellier
+* *[Keynote]* 7e Journées d'Animation Scientifique et 20 ans du Département Phase <BR>
+*Enjeux autour des approches d'IA Génératives*, 6 Novembre 2024, Poitiers [lien](https://jasphase2024.journees.inrae.fr)
+* *[Keynote]* LITISIADES, Journées du laboratoire LITIS<BR>
+*L'analyse des données textuelles à l'heure des modèles de langue* 14 Novembre 2024, Rouen
+
+### 2023
+
+* Improving generalization in large langue model by learning prefix subspaces, L. Falissard, V. Guigue and L. Soulier In: EMNLP (findings) 2023 [<img width=20px src="art/pdf.png">](art/emnlp23.pdf)
+* **[Best Research Paper]** Interpretable time series neural representation for classification purposes, 
+E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue, In DSAA 2023 (best research paper)
+[<img width=20px src="art/pdf.png">](art/dsaa23.pdf)
+* **[Best Paper: runner-up award]** Of Spiky SVDs and Music Recommendation, 
+D. Afchar, R. Hennequin, V. Guigue, In RecSys 2023 (Runner-up award)
+[<img width=20px src="art/pdf.png">](art/recsys23.pdf)
+* Leveraging multimodality for biodiversity data: Exploring joint representations of species descriptions and specimen images using clip, M. Sahraoui, Y. Sklab, M. Pignal, R. V. Lebbe, and V. Guigue In: Biodiversity Information Science and Standards 2023
+* Dynamic Named Entity Recognition, 
+T. Luiggi, V. Guigue, L. Soulier, S. Jendoubi, A. Baelde. In ACM SAC, 2023 
+[<img width=20px src="art/pdf.png">](art/sac23.pdf)
+* An EXplainable RecommandER SYStem for the Nutrition Domain, combining Knowledge Graphs and Machine Learning, 
+N. Jacquet, C. Manfredotti, V. Guigue, F. Sais, P. Viappiani. In Work. Cocoa-Beans, 2023
+* Extraction d'entités nommées à partir de descriptions d'espèces,
+M. Sahraoui, M. Pignal, R. Vignes-Lebbe, and V. Guigue. In CORIA 2023
+[<img width=20px src="art/pdf.png">](art/coria23-m.pdf)
+* Intégration du raisonnement numérique dans les modèles de langue : État de l'art et direction de recherche,
+S. Abchiche, L. Said Lhadj, L. Soulier, V. Guigue. In CORIA 2023
+[<img width=20px src="art/pdf.png">](art/coria23-s.pdf)
+* Apprentissage de sous-espaces de préfixes,
+L. Falissard, V. Guigue, L. Soulier. In CORIA 2023
+[<img width=20px src="art/pdf.png">](art/coria23-l.pdf)
+* Interpretable time series representation for classification purposes,
+E. Le Naour, G. Agoua, N. Baskiotis and V. Guigue. In CAp 2023 [<img width=20px src="art/pdf.png">](art/cap23-l.pdf)
+* Séminaire MAIAGE: L'extraction de connaissances à l'heure des modèles de langue, Vincent Guigue, [<img width=20px src="art/pdf.png">](pres/séminaireMAIAGE.pdf)
+* Séminaire de la Société Française de Statistiques (SFdS): *Apprentissage par réseaux de neurones pour l'analyse des séries temporelles*, Vincent Guigue, [github](https://github.com/vguigue/TimeSeries) [lien](https://www.sfds.asso.fr/newsletter-1946-d9584b9fff274d624bb620da466e6fc0)<BR>
+[Paris, Institut Henri Poincaré, 24 novembre 2023] 
+ 
+
 ### 2022
 
 * Learning Unsupervised Hierarchies of Audio Concepts
@@ -7,7 +95,7 @@ D Afchar, R Hennequin, V Guigue. In ISMIR 2022
  [<img width=20px src="art/pdf.png">](https://arxiv.org/pdf/2207.11231)
 * Reconnaissance d’entitées nommées contextualisées
 T Luiggi, L Soulier, V Guigue, and A Baelde. In CAp 2022
-* Nearside : Structured knowledge extraction framework from species des- criptions
+* Nearside : Structured knowledge extraction framework from species descriptions
 M Sahraoui, M Pignal, R Vignes-Lebbe, and V Guigue. In Biodiversity Information Science and Standards, 2022. 
  [<img width=20px src="art/pdf.png">](art/biss22.pdf)
 * Apprentissage statistique pour les données temporelles, nouveaux horizons et applications industrielles.
@@ -108,7 +196,7 @@ Charles-Emmanuel Dias, Clara Gainon de Forsan de Gabriac, Vincent Guigue et Patr
 * Smart card in public transportation: designing a analysis system at the human scale, Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue and Patrick Gallinari in: IEEE ITSC 2016
 [<img width=20px src="art/pdf.png">](art/itsc16b.pdf); slides
 [<img width=20px src="art/pdf.png">](art/itsc16b_slides.pdf)
-* Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016
+* **[Best Paper]** Recommandation et analyse de sentiments dans un espace latent textuel, Charles-Emmanuel Dias, Vincent Guigue, Patrick Gallinari in: CORIA 2016
 [<img width=20px src="art/pdf.png">](art/coria16.pdf)
 * Apprentissage de trajectoires temporelles pour la recommandation dans les communautés d’utilisateurs, Elie Guàrdia Sebaoun, Vincent Guigue and Patrick Gallinari, in: Cap 2016
 [<img width=20px src="art/pdf.png">](art/cap16_2.pdf)

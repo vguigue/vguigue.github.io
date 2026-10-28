@@ -10,6 +10,25 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 [My profile at Université Paris-Saclay](https://www.scoop.it/topic/life-sci-news-upsaclay/p/4142236891/2023/03/29/portrait-jeune-chercheur-vincent-guigue-professeur-en-informatique)
 
 
+## News
+
+<!-- news:start -->
+
+Ecole d'automne ETLMIC, thème 1, co-animé avec **Rémy Decoupes** *Des modèles de langue à l'extraction d'information*<BR>
+Saint Affrique, 26-30 Octobre 2026 [pdf](pres/ETLMIC-26.pdf) [site](https://etlmic.pages-forge.inrae.fr/web/)
+
+Advanced courses, Lifelong learning *Unsupervised Learning* <BR>
+Sorbonne University Abu Dhabi (SUAD), October 19th-22nd, 2026
+
+Présentation *Artificial intelligence and microbiology : Which tools for which applications, and at what cost ?* <BR>
+Séminaire MICALIS *La lutte contre l'antibiorésistance à l'ère de l'IA*<BR>
+Jouy-en-Josas, 23 Septembre 2026 [pdf](pres/micalis-26.pdf)
+
+<!-- news:end -->
+
+**&rarr; All events / talks: [link](event.md)**
+
+
 ## Teaching: 
 
 **Amphi 1A:** *Usage(s) de l'Intelligence Artificielle à AgroParisTech* [lien](/pres/agro25.pdf); [lien 2024](/pres/Agro1A-Intro-IA.pdf)
@@ -43,309 +62,52 @@ A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
 
-## Events / Talks / Misc ...
-
-### 2026
-
-Ecole d'automne ETLMIC, thème 1, co-animé avec **Rémy Decoupes** *Des modèles de langue à l'extraction d'information*<BR>
-Saint Affrique, 26-30 Octobre 2026 [pdf](pres/ETLMIC-26.pdf) [site](https://etlmic.pages-forge.inrae.fr/web/)
-
-Advanced courses, Lifelong learning *Unsupervised Learning* <BR>
-Sorbonne University Abu Dhabi (SUAD), October 19th-22nd, 2026
-
-Séminaire *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
-Présentation aux 1A, AgroParisTech, 7 septembre 2026 [pdf](pres/Agro1A-Intro-IA-26.pdf)
-
-Présentation *Artificial intelligence and microbiology : Which tools for which applications, and at what cost ?* <BR>
-Séminaire MICALIS *La lutte contre l'antibiorésistance à l'ère de l'IA*<BR>
-Jouy-en-Josas, 23 Septembre 2026 [pdf](pres/micalis-26.pdf)
-
-Présentation *Fonctionnement et usages des modèles de langage* <BR>
-Séminaire CIRAD *L’IA pour les Sciences et l’Agriculture au Sud*,<BR>Montpellier, 17 septembre 2026 [pdf](pres/cirad-26.pdf)
-
-Présentation  *Système multi-agents pour la génération de données d'entraînement pour le TableQA* <BR>
-CORA-TALN 2026, Nantes [présentation](pres/pres-coria26), [poster](pres/poster-dqe), [site](https://coria-taln-2026.ls2n.fr)
-
-Séminaire *Panorama de l'IA & réflexions sur les impacts en recherche*<BR>
-Assises du département AlimH, Sainte Marie en Ré, 24 juin 2026 - [pdf](pres/alimh26.pdf)
-
-Atelier IA et pédagogie pour la formation des formateurs - *Impact de l’IA - impacts écologiques, biais et droit* <BR>
-Table ronde co-animée avec **Nicolas Sabouret** et **Aurélie Névéol**<BR>
-Lumen, Saclay, 17 Juin 2026 - [lien](https://www.dataia.eu/index.php/evenements/ia-et-pedagogie-pour-la-formation-des-formateurs)
-
-*On the Factual Consistency of Text-based Explainable Recommendation Models*, B. Kabongo and V. Guigue PAKDD 2026,<BR>
-June 10th 2026, Hong-Kong [pdf](pres/4C-669-Kabong-PAKDD_On_Factual_Explainable_Recommendation.pdf)
-
-*Artificial Intelligence, Research & Labor Market Transformation*<BR>
-Séminaire Doc'Avenir, ED ABIES, Palaiseau 11 juin 2026 [pdf](pres/doc-avenir26.pdf)
-
-PEPR Agroécologie et Numérique. *Réunion de lancement  du projet AI4Diet*<BR>
-Introduction aux outils de machine-learning [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-IntroIA.pdf)<BR>
-Présentation du WP3 [pdf](pres/AgroParisTech-GUIGUE-AI4Diet-WP3.pdf)<BR>
-INRAe, Paris, 26 mai 2026.
-
-CELESTE at CIRM: Workshop on Mathematical Statistics and Learning *LLMs for Research: How They Work, Uses, and Limitations*<BR>
-CIRM, Marseille campus de Luminy, May 22, 2026 [link](vguigue.github.io/LLM-26)
-
-*Convergence Of Research in Digital Agriculture Leading Labs*<BR>
-Bridging Mechanistic and Data-Driven Models: Physics-Guided Sequence Learning for Crop Growth and Yield <BR>
-CORDiALL, Montpellier, April 15 2026, [web](https://cordiall.sciencesconf.org/resource/page/id/9), [pres](pres/cordiall-26.pdf)
-
-Séminaire M1 BIPA *Introduction aux IAs Génératives: fonctionnement, usage et reflexion éthique*<BR>
-AgroParisTech, 1 avril 2026, [lien (support et exercices)](vguigue.github.io/LLM-26)
-
-
-Séminaire national Maths en Jeans. Conférence (orientée lycée): *Les chatbots vus de l'intérieur* <BR>
-AgroParisTech, 27 mars 2026, [lien](https://mathenjeans.fr/Congres2026/Palaiseau), [pdf](pres/MathsEnJeans-26.pdf)
-
-Séminaire *La synthèse d’écritures et de dossiers : promesses, risques et usages maîtrisés du résumé automatique pour la justice* <BR>
-Avec **Karen Pinel-Sauvagnat** <BR>
-Institut Robert Badinter, 17 Mars 2026, Paris , [lien](https://institutrobertbadinter.fr/fr/evenements/cycle-datelier-decoder-lia-la-synthese-decritures-et-de-dossiers/), [pdf](pres/irb-26.pdf)
-
-Journal Club, ED ABIES : *LLM + Research: Questions about usages & ethics*<BR>
-AgroParisTech, 23 février 2026, [pdf](pres/abies-26.pdf)
-
-Séminaire AFTAA : *L'IA révolutionne la nutrition animale :de la théorie à l'action !* <BR>
-*Techniques d’IA, Données et Connaissances d’Experts dans le projet AI4Diet* <BR>
-Nantes, Cité des congrès, 12 Février 2026 [pdf](pres/aftaa-26.pdf) [lien](https://extranet.aftaa.org/agenda/l-utilisation-de-l-intelligence-artificielle-ia-dans-les-metiers-de-la-nutrition-animale-1615934)
-
-
-Séminaire *De l'Historique de l'IA aux usages modernes* <BR>
-Journée d'étude *Intelligence artificielle et mutations du travail : quels enjeux pour la formation et la professionnalisation ?*, CNAM, Paris, 16 janvier 2026 [lien](https://foap.cnam.fr/laboratoire/agenda-scientifique/intelligence-artificielle-et-mutations-du-travail-quels-enjeux-pour-la-formation-et-la-professionnalisation--1590166.kjsp?RH=1426594940363) [pdf](pres/cnam-26.pdf)
-
-### 2025
-
-Séminaire *Nouvelles potentialités de l'IA Générative et de l'IA agentique* <BR>
-DU IA et santé, Paris-Saclay, 15 décembre 2025 [pdf](pres/IA-Sante-25.pdf)
-
-Rapport INRAe MathNum: *Enquête sur l’Intelligence Artificielle dans le Département MathNum : Référentiel, Positionnement et Dynamique*<BR>
-**Frederick Garcia** & Vincent Guigue, Version publique: [pdf](art/rapport-IA-mathnum-public.pdf)
-
-Table ronde *Les LLM ont-ils une conscience?*<BR>
-Semaine Athens, AgroParisTech, 17 novembre 2025 [pdf](pres/LLM-conscience-2025.pdf)
-
-Séminaire *Journées d'Octobre de l'UPA: Enseigner l'IA, enseigner avec l'IA, deux défis majeurs pour AgroParisTech* <BR>
-ENS Paris, 21 Octobre 2025 [pdf](pres/UPA25.pdf)
-
-Séminaire de formation des personnels *Sensibilisation à l'IA*<BR>
-AgroParisTech, 16 octobre 2025 [pdf](pres/FC-Agro-25.pdf)
-
-Table ronde : *Futur de l'IA dans les domaines de l'agronomie et des biotechnologies : enjeux et questions*<BR>
-Académie d'Agriculture de France, 14 octobre 2025, Association Française des Biotechnologie Végétales (AFBV) [lien](https://www.biotechnologies-vegetales.com/colloque-2025-intelligence-artificielle-biotechnologies-agriculture/)
-
-
-Séminaire ANF TDM-IA 2025 *Se former à la recherche d’information assistée par IA conversationnelle*<BR>
-Webinaire, 8 octobre 2025: *Modèles de langue: usages et enjeux sociétaux*, CNRS / INRAe [lien](https://anf-tdm-ia-2025.sciencesconf.org/?lang=fr), [pdf](/pres/ANF-TDM25.pdf)
-
-Ecole d'automne ETLMIC *Ecole Thématique interdisciplinaire*<BR>
-Montpellier, Hameau de l'étoile, 29 septembre-2 octobre 2025, [lien](https://etlmic.pages-forge.inrae.fr/web/),<BR> Les cours et TP que j'ai donné avec **Rémy Decoupes** [lien](https://forge.inrae.fr/etlmic/theme-1)
-
-Séminaire Alimining *Fonctionnement des modèles de langue et exploitation sur des données alimentaires*<BR>
-Toulouse, 29 septembre 2025 [lien](https://alimining.sciencesconf.org) [pdf](/pres/Alimining25.pdf)
-
-Organisation et introduction de la Table Ronde: *Penser l’IA et les reconfigurations du travail*<BR>
-Avec **Marie Benedetto-Meyer**, **Héloise Athéa**, **Grégory Verdugo**, **Thomas Heams** et **Cécile Blatrix**<BR>
-AgroParisTech, 25 septembre 2025 [lien vers le replay](https://emedia.paris-saclay.fr/videos/table_ronde_ia_25-09-25/)
-
-Présentation du projet TwinFarms<BR>
-Les Echos, 23 septembre 2025, [lien](https://www.lesechos.fr/idees-debats/sciences-prospective/les-jumeaux-numeriques-au-service-de-lagroecologie-le-pari-de-twinfarms-2187815)
-
-Séminaire/cours: *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
-AgroParisTech, Amphi B0.01 - 15 septembre 2025 [pdf](/pres/agro25.pdf)
-
-Podcast *Prédire la sécheresse : le pari de l’IA* **C. Manfredotti** & V. Guigue<BR>
-AgroParisTech, 14 septembre 2025 [lien]( https://www.agroparistech.fr/actualites/predire-secheresse-pari-lia)
-
-Présentation *un référentiel pour l'IA dans le département MathNum*<BR>
-Conseil Scientifique Mathnum, INRAe, 11 septembre 2025 [pdf](/pres/mathnum25.pdf)
-
-Séminaire *L'utilisation de l'IA dans le parcours scolaire, de la maternelle au lycée*<BR>
-Samedi 21 Juin,  61e Congrès Départemental FCPE 92 [pdf (français)](/pres/FCPE.pdf)
-
-Séminaire *From Articificial Intelligence to Language Model*<BR>
-Jeudi 12 juin 2025, Archives Nationales, Grand Duché du Luxembourg  [pdf](/pres/ArchiveNat-Lux.pdf)
-
-Séminaire IRT SystemX: *LLMs and faithfulness: from evaluation to optimization*<BR>
-Mardi 27 mai 2025, Institut SystemX, site NanoInnov [pdf](/pres/systemX25.pdf)
-
-Séminaire AgroParisTech: *Transition Numérique et Intelligence Artificielle*<BR>
-Vendredi 23 mai 2025, Ecole nationale supérieure de paysage de Versailles [pdf](/pres/Agro-Versailles.pdf); [évènement](https://www.linkedin.com/posts/agroparistech_s%C3%A9minaire-d%C3%A9tablissement-sur-le-th%C3%A8me-affirmer-activity-7333141291909738501-FT1R?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
-
-
-Séminaire pédagogique, Institut Agro Montpellier:  De l'intelligence articielle aux modèles de langue <BR>
-Mardi 13 mai 2025, Montpellier [lien (slides+session pratique)](/LLM-26)
-
-Séminaire pédagogique, Ecole des Mines d'Alès:  De l'intelligence articielle aux modèles de langue <BR>
-Lundi 12 mai 2025, Ecole des Mines d'Alès [lien (slides+session pratique)](/LLM-26); [évènement](https://www.linkedin.com/posts/mines-ales_lintelligence-artificielle-g%C3%A9n%C3%A9rative-iag-activity-7333513129328324608-HhUE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_YbZEBhNnyw7Ymb73ozpsewE2doYHYR6g)
-
-Séminaire IPS2:  De l'intelligence articielle aux modèles de langue <BR>
-Lundi 28 avril 2025, Institute of Plant Science -- Paris-Saclay (IPS2) [lien (slides+session pratique)](/LLM-26)
-
-Assemblée Générale AgroParisTech-Alumni : *IA Génératives: des outils et des défis* <BR>
-Paris, 10 avril 2025 [lien](https://www.aptalumni.org/agenda/assemblee-generale-agroparistech-alumni-2025-8284) [pdf](/pres/aptalumni25.pdf)
-
-Inauguration de DataIA Cluster : *Implicit Neural Representation* <BR>
-CentraleSupelec, 7 avril 2025 [lien](https://www.dataia.eu/actualites/inauguration-du-dataia-cluster)
-[pdf](/pres/dataia_cluster25.pdf)
-
-Séminaire DATAIA <BR>
-ENS Paris-Saclay, 24 mars 2025 <BR>
-*L’IA générative à l'Université Paris-Saclay : un outil du quotidien pour les chercheur·euses !* [lien](https://www.dataia.eu/evenements/lia-generative-luniversite-paris-saclay-un-outil-du-quotidien-pour-les-chercheureuses);
-[pdf](/pres/dataia25.pdf);
-[video](https://youtu.be/C5_QdhjRsYs)
-
-Séminaire: *Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations* <BR>
-Huawei Research Paris, 11 mars 2025 [pdf](/pres/huawei25.pdf)
-
-Séminaire de lancement du projet TwinFarms (PEPR)
-*Modélisation hybride: des approches mécanistes aux données* <BR>
-Institut des Systèmes Complexes, 6 mars 2025 [pdf](/pres/twin25.pdf)
-
-Journal Club Ecole Doctorale ABIES *Discussion sur l'usage des LLM en Recherche* <BR>
-AgroParisTech, 10 février 2025
-
-Séminaire d'ouverture *De la mécanique à l'agronomie: un chemin à travers le machine learning*<BR>
-Sorbonne Université, L3 Parcours sciences des données, 7 février 2025
-
-
-
-
-### 2024
-
-Séminaire *Nouvelles potentialités de l'IA Générative et des LLMs* <BR>
-DU IA et santé, Paris-Saclay, 16 décembre 2024
-
-Séminaire Digit-Bio (INRAe): Typologies des usages des LLM <BR>
-Lyon, 13 décembre 2025
-
-Séminaire du GDR RADIA <BR>
-Université de Paris, 5 décembre 2024 [pdf](/pres/RADIA.pdf)
-
-Table ronde: *Les LLM ont-ils une conscience?*<BR>
-AgroParisTech, 18 novembre 2024 [pdf](/pres/chatGPT-conscience.pdf)
-
-L'Edition, numéro 25, Journal de l'Université Paris-Saclay <BR>
-*IA  Générative. Ces algorithmes qui révolutionnent la création de contenus* [pdf](https://www.universite-paris-saclay.fr/wp-content/uploads/2024/11/edition_25_VF_web_BDef.pdf), [lien](https://www.calameo.com/read/0048003861ee389c3a3e3)
-
-
-*[Keynote]* LITISIADES, Journées du laboratoire LITIS<BR>
-*L'analyse des données textuelles à l'heure des modèles de langue* 14 Novembre 2024, Rouen
-
-*[Keynote]* 7e Journées d'Animation Scientifique et 20 ans du Département Phase <BR>
-*Enjeux autour des approches d'IA Génératives*, 6 Novembre 2024, Poitiers [lien](https://jasphase2024.journees.inrae.fr)
-
-Séminaire *De l'Intelligence Artificielle aux modèles de langue* <BR>
-ENSSIB *De l'intelligence artificielle dans la gestion documentaire* <BR>
-3 Octobre 2024 [LinkedIn+lien vidéo](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7249372461262114816/?midToken=AQGkPLTzbwQjiA&midSig=2DiSxYmzMRzrs1&trk=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta&trkEmail=eml-email_notification_single_mentioned_you_in_this_01-hero_notification_cta-0-1ep~cta-null-4e9x1t~m20d3tg8~a3-null-null&eid=4e9x1t-m20d3tg8-a3)
-
-*[Summer School]* *Generative AI: Tools & Challenges*, in Pl@ntAgroEco Summer School 2024, 10 Juillet 2024, Montpellier
-
-Séminaire : *IA générative: fonctionnement et usages en pédagogie*  [pdf](/pres/JourneeIA-Agro.pdf) <BR>
-Journée IA & pratiques enseignantes, Hercule 4.0, AgroParisTech, 13 juin 2024 [lien](https://infodoc.agroparistech.fr/index.php?lvl=cmspage&pageid=4&id_article=302), [lien vidéo](https://emedia.paris-saclay.fr/videos/intelligence-artificielle-et-pratiques-enseignantes/), [LinkedIn](https://www.linkedin.com/posts/johanna-boulanger-laforge_images-journ%C3%A9e-ia-agroparistech-activity-7207082783444209665-Gd2i?utm_source=share&utm_medium=member_desktop)
-
-*[Keynote]* *Generative AI: tools & challenges*, Vincent Guigue In: JOBIM 24, 27 juin 2024, Toulouse [<img width=20px src="art/pdf.png">](pres/GUIGUE_JOBIM24.pdf)
-
-Séminaire *De l'Intelligence Artificielle à chatGPT: Emergence de l'IA générative* [lien](https://www.universite-paris-saclay.fr/evenements/ia-generative-luniversite-paris-saclay) <BR>
-Journée IA générative : usages et compétences à l’Université Paris-Saclay, 5 Juin 2024 [pdf](/pres/IAgen-pedago.pdf)
-
-*Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago-ps.pdf)<BR>
-Cycle de formation à la pédagogie des enseignants chercheurs des établissements du Sup du MASA, 4 juin 2024
-
-*[Keynote]* *Analyse des données textuelles & échanges homme-machine*, Vincent Guigue In: Symposium MaDICS, 29 mai 2024, Blois [<img width=20px src="art/pdf.png">](pres/Madics.pdf)
-
-Animation d'un atelier: *Transitions Numériques* [pdf](/pres/TransitionNumerique.pdf)<BR>
-Séminaire AgroParisTech, 27, 28 mai 2024
-
-*Intelligence Artificielle & Pédagogie: des outils et des défis* [pdf](/pres/IA-pedago.pdf)<BR>
-Séminaire pédagogique des nouveaux recrutés, Sorbonne-Université, 5 Avril 2024
-
-Séminaire *Le fonctionnement des chatBots*<BR>
-Lycée Pierre Gilles de Gennes, Paris, 13 mars 2024
-
-Interview *IA \& pédagogie, quels défis?*<BR>
-Réseau Racine ParisTech, 8 février 2024 [lien](https://www.linkedin.com/feed/update/urn:li:activity:7165235927496265728/)
-
-
-Séminaire *L'intelligence artificielle générative, ChatGPT et les autres...*<BR>
-Bibliothèque du Campus Agro Paris-Saclay, jeudi 25 janvier [lien](https://emedia.paris-saclay.fr/lives/cafe-discussion-lintelligence-artificielle-generative/)
-
-
-Séminaire *IA génératives :  apports et  limites de leur utilisation en bioinformatique*<BR>
-Séminaire MERIT, Institut des Systèmes Complexes, 11 Janvier 2024 : [pdf](/pres/IA-GEN-MERIT.pdf)[lien](https://merit.cnrs.fr/journees-ia-generatives-et-animation-du-reseau-janvier-2024/)
-
-
-### 2023
-
-An interview on chatGPT (France Culture, La Science CQFD, Feb 2023): [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chat-gtp-passe-d-abord-ton-bac-7211542)
-
-Discussion on **AI definition**, AI act, EU commission (article 01net): [link](https://www.01net.com/actualites/a-votre-avis-quest-ce-que-lintelligence-artificielle.html)
-
-
-Séminaire *L’IA générative et chatGPT*: [link](https://www.dataia.eu/evenements/workshop-les-enjeux-de-lia-generative-et-chatgpt) <BR>
-[Séminaire DataIA, GS Économie & Management, 7 mars 2023]
-
-Discussion on the **AI impact on Human Resources (HR)**, France-Info (around 21'): [link](https://www.francetvinfo.fr/replay-magazine/franceinfo/vrai-ou-fake-l-emission/vrai-ou-fake-l-emission-du-dimanche-14-mai-2023_5824046.html)
-<BR>
-14 mai 2023
-
-Séminaire *Programme data cap 2025*: [link](https://www.uca.fr/actualites/agenda/programme-data-cap-2025-conference-chatgpt)  <BR>
-[Université Clermont Auvergne, 16 mai 2023]
-
-Tout savoir sur le chatGPT: [link](https://agenda.bpi.fr/evenement/tout-savoir-sur-le-chatgpt/) <BR>
-[Centre Pompidou/Bibliothèque Publique d'Information, 25 mai 2023]
-
-
-Penser la découvrabilité des contenus culturels, table ronde à la BnF (6:57'): [youtube link](https://www.youtube.com/watch?v=4zaebvULdc4)<BR>
-Des systèmes de recommandation aux modèles de langue<BR>
-[Bibliothèque Nationale de France, 20 juin 2023]
-
-Séminaire *Pédagogie & IA générative*: [link](https://www.persay.universite-paris-saclay.fr/28-juin-campus-orsay-vallee-seminaire-agents-conversationnels-et-pedagogie/) <BR>
-[Université Paris-Saclay, 28 juin 2023]
-
-Séminaire inter-département AgroParisTech:  <BR>
-[AgroParisTech, 29 juin 2023]
-
-
-Pourquoi chatGPT se trompe-t-il? (France Culture, SuperFail, June 2023) [link, podcast](https://www.radiofrance.fr/franceculture/podcasts/superfail/pourquoi-chat-gpt-se-trompe-t-il-2207192) 
-
-
-Webinaire INRAe, métaprogramme DIGIT-BIO: [link (with video)](https://www6.inrae.fr/digitbio/Animations/REPLAY-Chat-GPT-decryptage-d-un-algorithme)<BR>
-[INRAe, 7 juillet 2023]
-
-Séminaire DARES (Ministère du travail), *Comment l’intelligence artificielle transforme les pratiques de recrutement ?* [lien](https://dares.travail-emploi.gouv.fr/evenement/comment-lintelligence-artificielle-transforme-les-pratiques-de-recrutement)<BR>
-[DARES, 12 septembre 2023]
-
-Atelier SCAI/BNP *Workshop sur l'IA générative* [lien](https://www.linkedin.com/feed/update/urn:li:activity:7112403396464140288/)<BR>
-[SCAI, Sorbonne-Université, 25 Septembre 2023]
-
-Séminaire ARS Grand-Est, *Décrypter chatGPT*<BR>
-[Visio, 10 octobre 2023]
-
-Fête de la science,  *Présentation des modèles de langue*<BR>
-[Sorbonne-Université, 14 octobre 2023]
-
-Séminaire croisé ATOS/DELL, *Présentation des LLM en cinq tableaux* <BR>
-[Paris, 18 octobre 2023]
-
-
-Mois de l'Innovation Publique - Séminaire Innovation Technologique, *chatGPT: décryptage d'un algorithme*<BR>
-[Lien vers les créations de facilitation graphique de Julie Boiveau](https://www.linkedin.com/posts/julie-boiveau-4a30ab6_dans-le-cadre-du-mois-de-linnovation-publique-activity-7134856924428169217-pz0j?utm_source=share&utm_medium=member_desktop)<BR>
-[Le visuel des explications autour des LLM](https://visions-du-monde.com/wp-content/uploads/sites/23372/2023/11/Chat_GPT_et_la_BnF-2048x1448.jpg) / 
-[Mon portrait :)](https://visions-du-monde.com/wp-content/uploads/sites/23372/2023/11/IMG_20231120_184446-1536x2048.jpg)
-<BR>
-[Bibliothèque Nationale de France, 20 novembre 2023]
-<BR>
-
-Séminaire *ChatGPT décrypté*<BR>
-Sorbonne-Université, faculté des sciences et de l'ingénierie : [lien](https://x.com/ISIR_labo/status/1737105758284661000?s=20)<BR>
-[Paris, 19 décembre 2023]
-
-
-**Slides of the previous presentations [pdf](/pres/chatGPT-CaféAgro.pdf)**
-
-**LLM in 5 slides [pdf](/pres/LLM-tableaux.pdf)**
-
-
-
-
+## Alumni
+
+<!-- Liste générée à partir des co-auteurs de publis.md + theses.fr (oct. 2026). "?" = poste actuel non trouvé ou non confirmé. À trier. -->
+
+### PhD students (defended)
+
+* [Abdelhalim Rafrafi](https://www.linkedin.com/in/abdelhalimrafrafi/) — 2013, Sorbonne (with P. Gallinari) — Founder & CEO, Data2Innov
+* [Mickaël Poussevin](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D1132) — 2015, Sorbonne (with P. Gallinari) — IR, Critéo
+* [Elie Guàrdia-Sebaoun](https://www.linkedin.com/in/elie-guardia/) — 2017, Sorbonne (with P. Gallinari) — Head of AI / DPO, Consoneo
+* [Emeric Tonnelier](https://fr.linkedin.com/in/emeric-tonnelier) — 2019, Sorbonne (with P. Gallinari, N. Baskiotis) — IR, Crédit Agricole
+* [Charles-Emmanuel Dias](https://www.linkedin.com/in/cedias/) — 2019, Sorbonne (with P. Gallinari) — Senior ML researcher, Yubo 
+* [Perrine Cribier-Delande](https://dblp.org/pid/283/0730.html) — 2021, Sorbonne (with L. Denoyer) — Lead Data Scientist, Ministère de la Justice
+* [Clara Gainon de Forsan de Gabriac](https://www.linkedin.com/in/claragainondeforsan/) — 2021, Sorbonne (with P. Gallinari) — AI Engineer, Konvu
+* [Bruno Taillé](https://dblp.org/pid/256/9497.html) — 2022, Sorbonne (with P. Gallinari) — IR Bloomberg
+* [Étienne Simon](https://esimon.eu/) — 2022, Sorbonne (with B. Piwowarski) — Postdoc, Language Technology Group, University of Oslo
+* [Darius Afchar](https://superdarius.alwaysdata.net/cv) — 2023, Sorbonne — Research Scientist, Deezer Research
+* [Étienne Le Naour](https://etiennelnr.github.io/) — 2024, Sorbonne (with N. Baskiotis) — AI Research Scientist, EDF R&D
+* [Tristan Luiggi](https://www.linkedin.com/in/tristan-luiggi/) — 2025, Sorbonne (with L. Soulier) — Data Scientist, INA 
+* [Florian Le Bronnec](https://www.lamsade.dauphine.fr/~flebronnec/) — 2025, Dauphine-PSL (dir. A. Allauzen) — Postdoc, Tokyo
+* [Maya Sahraoui](https://www.linkedin.com/in/maya-sahraoui/) — 2025, Sorbonne / MNHN (with R. Vignes-Lebbe) — Senior AI Engineer - SNCF Reseau chez Yélé Consulting
+* [Tanguy Herserant](https://www.isir.upmc.fr/personnel/herserant) — 2026, Paris-Saclay — Co-founder & CTO at HERMINEIA
+
+### Current PhD students
+
+* [Alexandre Combeau](https://mia-ps.inrae.fr/node/706) — since 2023, Paris-Saclay (dir. F. Saïs) — PhD student, LISN / UMR MIA
+* [Armand Favrot](https://mia-ps.inrae.fr/node/846) — since 2023, Paris-Saclay (dir. D. Makowski) — PhD student, UMR MIA
+* [Anne-Sophie Foussat](https://aclanthology.org/2025.jeptalnrecital-coria.21) — since 2024, Paris-Saclay (dir. C. Nédellec) — PhD student, INRAE MaIAGE
+* [Julian Agudelo](https://julagu.github.io) — since 2025, Paris-Saclay (dir. C. Manfredotti) — PhD student, UMR MIA & R&D officer, Agrial
+* [Ben Kabongo](https://www.isir.upmc.fr/personnel/kabongo/) — since 2025, Sorbonne (with L. Soulier) — PhD student, ISIR
+* Jessy Azizi — since 2025 — PhD student
+* Benjamin Maudet — since 2025 (with L. Soulier) — PhD student
+* Abdoul Rahim Zeba — since 2026 (with B. Piwowarski, D. Guianvarc'h) — PhD student
+
+### Other co-authors (postdocs, interns, collaborators)
+
+* [Luepol Pipanmaekaporn](https://csauthors.net/luepol-pipanmaekaporn) — visiting researcher, LIP6, 2014-15 — Academic, KMUTNB, Bangkok 
+* [Debora Nozza](https://dnozza.github.io) — visiting PhD student (Milano-Bicocca), 2014 — Assistant Professor, Bocconi University
+* [Ludmilla Tajtelbom](https://viadeo.journaldunet.com/p/ludmilla-tajtelbom-5259618) — M2 intern, 2014 
+* [Damien Sileo](https://sileod.github.io/) — M2 intern, 2016 — Tenured researcher, Inria Lille (Magnet)
+* [Cynthia Delauney](https://dblp.org/pid/192/4894.html) — ITSC 2016 — 
+* Valentin Guiguet — GRETSI / WCRR 2019 — 
+* Lucas Becirspahic — WCRR 2019 — 
+* [Louis Falissard](https://www.bnf.fr/fr/de-lia-dans-le-moteur) — postdoc, 2022-23 — Postdoc, BnF DataLab 
+* [Anfu Tang](https://www.isir.upmc.fr/personnel/tang) — postdoc, ISIR, 2024-25 
+* Noémie Jacquet — UMR MIA, 2023-24 — 
+* [Raphaël Rubrice](https://hal.inrae.fr/hal-05217869v1) — UMR MIA / Micalis, 2024-25 — ?
+* [Alex-Răzvan Ispas](https://arxiv.org/abs/2503.16161) — intern, Paris-Saclay / BNP Paribas, 2025 — ?
+* [Ahmed Rayane Kebir](https://arxiv.org/abs/2601.11722) — intern, ISIR, 2025 — PhD student, IRIT, Toulouse
 

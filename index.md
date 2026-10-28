@@ -1,5 +1,7 @@
+<section markdown="1">
 
-| ![ma tête](/resources/Vincent4rr.jpeg) | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://mia-ps.inrae.fr), Mathématique et Informatique Appliquées <BR> INRAe dpt [MathNum](https://www.inrae.fr/departements/mathnum)<BR>Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU <BR> Mail : vincent.guigue/at/agroparistech.fr <BR> Tel: (+33) 1 89 10 09 79 |
+| ![ma tête](/resources/Vincent4rr.jpeg){: width="225"} | Full professor at [AgroParisTech](http://www2.agroparistech.fr) since september 2022<BR> MMIP dept (Modélisation Mathématique, Informatique et Physique), UFR d'informatique <BR> [UMR MIA](https://mia-ps.inrae.fr), Mathématique et Informatique Appliquées <BR> INRAe dpt [MathNum](https://www.inrae.fr/departements/mathnum)<BR>Formerly associate professor at ISIR, Sorbonne University in [MLIA team](https://www.isir.upmc.fr/equipes/mlia/)<BR> <BR> Office: E3.711 [=Building E, 3rd floor, corridor 700, office 11]<BR> 22 place de l'Agronomie<BR> 91120 PALAISEAU <BR> Mail : vincent.guigue/at/agroparistech.fr <BR> Tel: (+33) 1 89 10 09 79 |
+{: .intro}
 
 
 
@@ -9,6 +11,10 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 
 [My profile at Université Paris-Saclay](https://www.scoop.it/topic/life-sci-news-upsaclay/p/4142236891/2023/03/29/portrait-jeune-chercheur-vincent-guigue-professeur-en-informatique)
 
+
+</section>
+
+<section markdown="1">
 
 ## News
 
@@ -35,6 +41,10 @@ Séminaire CIRAD *L’IA pour les Sciences et l’Agriculture au Sud*,<BR>Montpe
 **&rarr; All events / talks: [link](event.md)**
 
 
+</section>
+
+<section markdown="1">
+
 ## Teaching: 
 
 **Amphi 1A:** *Usage(s) de l'Intelligence Artificielle à AgroParisTech* [lien](/pres/agro25.pdf); [lien 2024](/pres/Agro1A-Intro-IA.pdf)
@@ -58,6 +68,10 @@ Trucs et astuces pour le projet, exercices supplémentaires: [link](teach.md)
 [lien](methodo.md)
 
 
+</section>
+
+<section markdown="1">
+
 ## Research: [link](publis.md)
 
 Publications: [scholar](https://scholar.google.com/citations?user=VvFT0nAAAAAJ&hl=fr) <BR>
@@ -67,6 +81,10 @@ A large presentation of my recent activities: [pdf](/pres/seminaireAgro.pdf)
 
 Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 
+
+</section>
+
+<section markdown="1">
 
 ## Alumni
 
@@ -117,3 +135,4 @@ Slides de présentation au GdR MaDICS: [pdf](/pres/Madics.pdf)
 * [Alex-Răzvan Ispas](https://arxiv.org/abs/2503.16161) — intern, Paris-Saclay / BNP Paribas, 2025 — ?
 * [Ahmed Rayane Kebir](https://arxiv.org/abs/2601.11722) — intern, ISIR, 2025 — PhD student, IRIT, Toulouse
 
+</section>

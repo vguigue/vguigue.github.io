@@ -36,3 +36,23 @@
   background-color:#e9e9ff;
   color:#000000;
 }
+
+// Page d'accueil : tableau de présentation sans bordures
+.main-content table.intro td {
+  border: none;
+  vertical-align: top;
+}
+
+// Page d'accueil : sections en fonds alternés (transparent / vert-gris clair)
+.main-content > section {
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+
+  &:nth-of-type(even) {
+    background-color: #eef3ef;
+  }
+
+  > h2:first-child {
+    margin-top: 1rem;
+  }
+}

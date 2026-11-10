@@ -2,6 +2,7 @@
 
 ### 2026
 
+* From 3D imaging to artificial intelligence: predicting and optimizing antagonistic biofilms. V. Guéneau, L. Guillier, C. Berdous, MF. Noirot-Gros, P. Serror, A. Cornuéjols, V. Guigue, M. Bernardeau, R. Briandet. 7éme Journée de la Fédération de Recherche SéSAD, Nov 2026, Evreux, France
 * NutriKG: A Knowledge Graph for Explainable and Adaptive Food Recommendation. Combeau, A., Guigue, V., Manfredotti, C., Sais, F., Dervaux, S. and Viappiani, P. In: KES 2026
 * Improving ammonia emission predictions with dynamic machine learning models, A Favrot, S Génermont, V Guigue, C Décuq, D Makowski. In: EGUsphere 2026 [<img width=20px src="art/pdf.png">](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-2404/egusphere-2026-2404.pdf)
 * On the Factual Consistency of Text-based Explainable Recommendation Models. Kabongo, B., Guigue, V. In: PAKDD 2026 [<img width=20px src="art/pdf.png">](art/pakdd26.pdf)

@@ -6,6 +6,9 @@
 
 [↑ top](#top)
 
+Presentation with **Antoine Cornuejols** *Teaching Computer Science & AI at AgroParisTech* <BR>
+AgroParisTech, November 10th, 2026 [pdf](pres/Tr_AgroParisTech_AI.pdf)
+
 Ecole d'automne ETLMIC, thème 1, co-animé avec **Rémy Decoupes** *Des modèles de langue à l'extraction d'information*<BR>
 Saint Affrique, 26-30 Octobre 2026 [pdf](pres/ETLMIC-26.pdf) [site](https://etlmic.pages-forge.inrae.fr/web/)
 

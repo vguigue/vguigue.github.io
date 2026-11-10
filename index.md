@@ -20,6 +20,9 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 
 <!-- news:start -->
 
+Presentation with **Antoine Cornuejols** *Teaching Computer Science & AI at AgroParisTech* <BR>
+AgroParisTech, November 10th, 2026
+
 Ecole d'automne ETLMIC, thème 1, co-animé avec **Rémy Decoupes** *Des modèles de langue à l'extraction d'information*<BR>
 Saint Affrique, 26-30 Octobre 2026 [pdf](pres/ETLMIC-26.pdf) [site](https://etlmic.pages-forge.inrae.fr/web/)
 
@@ -32,9 +35,6 @@ Présentation aux 1A, AgroParisTech, 7 octobre 2026 [pdf](pres/Agro1A-Intro-IA-2
 Présentation *Artificial intelligence and microbiology : Which tools for which applications, and at what cost ?* <BR>
 Séminaire MICALIS *La lutte contre l'antibiorésistance à l'ère de l'IA*<BR>
 Jouy-en-Josas, 23 Septembre 2026 [pdf](pres/micalis-26.pdf)
-
-Présentation *Fonctionnement et usages des modèles de langage* <BR>
-Séminaire CIRAD *L’IA pour les Sciences et l’Agriculture au Sud*,<BR>Montpellier, 17 septembre 2026 [pdf](pres/cirad-26.pdf)
 
 <!-- news:end -->
 

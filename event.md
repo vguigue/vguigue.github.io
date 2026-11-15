@@ -6,6 +6,9 @@
 
 [↑ top](#top)
 
+Séminaire *Les enjeux de l'intelligence artificielle dans le monde du travail* <BR>
+ISST, Paris 1, Bourg-la-Reine, 16 novembre 2026 [pdf 1](pres/IA-travail-1-26)[pdf 2](pres/IA-travail-2-26)
+
 Presentation with **Antoine Cornuejols** *Teaching Computer Science & AI at AgroParisTech* <BR>
 AgroParisTech, November 10th, 2026 [pdf](pres/Tr_AgroParisTech_AI.pdf)
 

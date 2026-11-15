@@ -20,6 +20,9 @@ My favorite application areas are **NLP**, **Recommendation Systems** and **Time
 
 <!-- news:start -->
 
+Séminaire *Les enjeux de l'intelligence artificielle dans le monde du travail* <BR>
+ISST, Paris 1, Bourg-la-Reine, 16 novembre 2026 [pdf 1](pres/IA-travail-1-26)[pdf 2](pres/IA-travail-2-26)
+
 Presentation with **Antoine Cornuejols** *Teaching Computer Science & AI at AgroParisTech* <BR>
 AgroParisTech, November 10th, 2026 [pdf](pres/Tr_AgroParisTech_AI.pdf)
 
@@ -31,10 +34,6 @@ Sorbonne University Abu Dhabi (SUAD), October 19th-22nd, 2026
 
 Séminaire *Usage(s) de l'Intelligence Artificielle à AgroParisTech*<BR>
 Présentation aux 1A, AgroParisTech, 7 octobre 2026 [pdf](pres/Agro1A-Intro-IA-26.pdf)
-
-Présentation *Artificial intelligence and microbiology : Which tools for which applications, and at what cost ?* <BR>
-Séminaire MICALIS *La lutte contre l'antibiorésistance à l'ère de l'IA*<BR>
-Jouy-en-Josas, 23 Septembre 2026 [pdf](pres/micalis-26.pdf)
 
 <!-- news:end -->
 

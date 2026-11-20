@@ -6,6 +6,10 @@
 
 [↑ top](#top)
 
+Interview *AI4Diet : L’intelligence artificielle pour optimiser les rations*<BR>
+La Revue de l'Alimentation Animale, 2 Novembre 2026 [lien](https://www.revue-alimentation-animale.fr/dossier/raa-801-ai4diet/)
+
+
 Séminaire *Les enjeux de l'intelligence artificielle dans le monde du travail* <BR>
 ISST, Paris 1, Bourg-la-Reine, 16 novembre 2026 [pdf 1](pres/IA-travail-1-26.pdf) [pdf 2](pres/IA-travail-2-26.pdf) [pdf 3](pres/IA-travail-3-26.pdf) / [lien vers les exercices](https://vguigue.github.io/LLM-26)
 
